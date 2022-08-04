@@ -1608,7 +1608,6 @@
 - [Albert/sketch-a-day](https://github.com/Albert/sketch-a-day) - A repo where I write, hopefully, a sketch a day
 - [Albert/lumarca-for-processing](https://github.com/Albert/lumarca-for-processing) - Lumarca Library for Processing
 - [ansible/ambassadors](https://github.com/ansible/ambassadors) - A repository of useful materials for Ansible Ambassadors around the world.
-- [terraform-community-modules/tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-security-group
 - [deverton/terraform-aws-consul](https://github.com/deverton/terraform-aws-consul) - Terraform example using AWS that deploys a full environment with Consul
 - [bobtfish/terraform-example-mesos-cluster](https://github.com/bobtfish/terraform-example-mesos-cluster) - A self contained example of using Terraform to build a Mesos cluster
 - [thefactory/marathon-python](https://github.com/thefactory/marathon-python) - Python client library for Mesos Marathon's REST API
@@ -1683,7 +1682,6 @@
 - [ThomasLengeling/KinectPV2](https://github.com/ThomasLengeling/KinectPV2) - Kinect4W 2.0 library for Processing
 - [dagoof/sqlalchemy-fsm](https://github.com/dagoof/sqlalchemy-fsm) - SQLAlchemy finite state machine support
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [bitstadium/HockeyKit](https://github.com/bitstadium/HockeyKit) - HockeyApp was retired and the SDKs are deprecated. Please use App Center instead.
 - [xamarin/evolve-quest](https://github.com/xamarin/evolve-quest) - Evolve Quest is an iBeacon based scavenger hunt that attendees enjoyed at Evolve 2014
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [Netflix/ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
@@ -1741,7 +1739,6 @@
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [flitbit/diff](https://github.com/flitbit/diff) - Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.
 - [Schibsted-Tech-Polska/stp.pediff](https://github.com/Schibsted-Tech-Polska/stp.pediff) - 
-- [slackhq/SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - ⛔️**DEPRECATED** ⛔️ A drop-in UIViewController subclass with a growing text input view and other useful messaging features
 - [plumatic/eng-practices](https://github.com/plumatic/eng-practices) - Prismatic's Engineering Practices
 - [jwerak/coreos-mesos-marathon](https://github.com/jwerak/coreos-mesos-marathon) - This will serve as set of docker images that should enable running mesos on CoreOS
 - [cloudfoundry/bosh](https://github.com/cloudfoundry/bosh) - Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.
@@ -1812,12 +1809,10 @@
 - [noiseprotocol/noise_spec](https://github.com/noiseprotocol/noise_spec) - Noise Specification
 - [CoreyKaylor/Lightning.NET](https://github.com/CoreyKaylor/Lightning.NET) - .NET library for LMDB key-value store
 - [Redth/PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS device
-- [ddevault/RedditSharp](https://github.com/ddevault/RedditSharp) - [Unmaintained] Reddit API for .NET
 - [iSECPartners/yontma-mac](https://github.com/iSECPartners/yontma-mac) - You'll Never Take Me Alive!
 - [lukebuehler/CShell](https://github.com/lukebuehler/CShell) - A simple, yet powerful, C# scripting IDE and REPL
 - [tobert/pcstat](https://github.com/tobert/pcstat) - Page Cache stat: get page cache stats for files on Linux
 - [benbjohnson/scuttlebutt](https://github.com/benbjohnson/scuttlebutt) - A daemon for tracking and tweeting trending Github repositories by language.
-- [drusellers/etcetera](https://github.com/drusellers/etcetera) - .Net client for etcd
 - [Bloomberg-Beta/Manual](https://github.com/Bloomberg-Beta/Manual) - You were probably looking for our website... this is it. We moved our website here, so you can see the insides of how we work.
 - [drvink/electroportis](https://github.com/drvink/electroportis) - The famous SGI/IRIX ElectroPaint(tm) screensaver by David Tristram, ported to Windows
 - [pickhardt/betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
@@ -1853,7 +1848,6 @@
 - [guardianproject/android-ffmpeg](https://github.com/guardianproject/android-ffmpeg) - a system for building custom ffmpeg binaries for Android
 - [halfninja/android-ffmpeg-x264](https://github.com/halfninja/android-ffmpeg-x264) - INACTIVE, UNSUPPORTED - Android Videokit - basic FFMPEG+X264 build for Android. Pull requests gratefully accepted.
 - [CartBlanche/MonoGame-Samples](https://github.com/CartBlanche/MonoGame-Samples) - All the Samples that work with MonoGame
-- [Netflix/asgard](https://github.com/Netflix/asgard) - [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.co
 - [pyston/pyston_v1](https://github.com/pyston/pyston_v1) - The previous version of Pyston, a faster implementation of the Python programming language.  Please use this link for the new repository:
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
@@ -1866,7 +1860,6 @@
 - [sit/dht](https://github.com/sit/dht) - MIT Chord/DHash
 - [flynn-archive/go-discoverd](https://github.com/flynn-archive/go-discoverd) - Archived -- see https://github.com/flynn/flynn
 - [michaeljones/breathe](https://github.com/michaeljones/breathe) - ReStructuredText and Sphinx bridge to Doxygen
-- [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
 - [OneNoteDev/OneNoteAPISampleAndroid](https://github.com/OneNoteDev/OneNoteAPISampleAndroid) - Code sample with examples of how to use the OneNote API on Android
 - [uber/cassette](https://github.com/uber/cassette) - Store and replay HTTP requests made in your Python app
 - [bear/python-twitter](https://github.com/bear/python-twitter) - A Python wrapper around the Twitter API.
@@ -1883,7 +1876,6 @@
 - [jeffknupp/sandman](https://github.com/jeffknupp/sandman) - Sandman "makes things REST".
 - [tsgates/mbox](https://github.com/tsgates/mbox) - A lightweight sandbox tool for non-root users
 - [zeromq/jeromq](https://github.com/zeromq/jeromq) - Pure Java ZeroMQ
-- [Nimrodda/WizarDroid](https://github.com/Nimrodda/WizarDroid) - *Deprecated* A lightweight Android library for creating step by step wizards
 - [avast/android-styled-dialogs](https://github.com/avast/android-styled-dialogs) - Backport of Material dialogs with easy-to-use API based on DialogFragment
 - [anvaka/VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript
 - [marcelduran/yslow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
@@ -1893,9 +1885,7 @@
 - [mttkay/ignition](https://github.com/mttkay/ignition) - Kick-starts Android application development.
 - [maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView) - A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore.
 - [maurycyw/StaggeredGridViewDemo](https://github.com/maurycyw/StaggeredGridViewDemo) - A demo of StaggeredGridView
-- [chrisbanes/Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) - DEPRECATED
 - [frida/frida-python](https://github.com/frida/frida-python) - Frida Python bindings
-- [twitter-archive/commons](https://github.com/twitter-archive/commons) - Twitter common libraries for python and the JVM (deprecated)
 - [snabbco/snabb](https://github.com/snabbco/snabb) - Snabb: Simple and fast packet networking
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
 - [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle
@@ -1938,7 +1928,6 @@
 - [Readify/GitViz](https://github.com/Readify/GitViz) - Real-time, presentation-quality, Git visualizer to help with Git training
 - [twitter-archive/recess](https://github.com/twitter-archive/recess) - A simple and attractive code quality tool for CSS built on top of LESS
 - [polvi/twilionagios](https://github.com/polvi/twilionagios) - Tools for integrating Twilio and Nagios
-- [getsentry/raven-csharp](https://github.com/getsentry/raven-csharp) - Superseded by: https://github.com/getsentry/sentry-dotnet
 - [kippt/jekyll-incorporated](https://github.com/kippt/jekyll-incorporated) - Modern Jekyll based blog for companies
 - [shower/jekyller](https://github.com/shower/jekyller) - Shower presentation generator with Jekyll underneath
 - [incompl/cloak](https://github.com/incompl/cloak) - A network layer for HTML5 games using Node.js
@@ -1951,7 +1940,6 @@
 - [9thbitio/link](https://github.com/9thbitio/link) - 
 - [voldemort/voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo.
 - [google/lmctfy](https://github.com/google/lmctfy) - lmctfy is the open source version of Google’s container stack, which provides Linux application containers.
-- [docker-archive/docker-registry](https://github.com/docker-archive/docker-registry) - This is **DEPRECATED**! Please go to https://github.com/docker/distribution
 - [discoproject/disco](https://github.com/discoproject/disco) - a Map/Reduce framework for distributed computing
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 - [laurilehmijoki/s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
@@ -2041,7 +2029,6 @@
 - [redhat-openstack/packstack](https://github.com/redhat-openstack/packstack) - Install utility to deploy OpenStack on multiple hosts. This is the GitHub mirror for https://opendev.org/x/packstack.
 - [ccollicutt/ansible_playbooks](https://github.com/ccollicutt/ansible_playbooks) - These are really old!
 - [tumblr/memkeys](https://github.com/tumblr/memkeys) - a top like tool for inspecting memcache key values in realtime
-- [IdentityServer/IdentityServer2](https://github.com/IdentityServer/IdentityServer2) - [deprecated] Thinktecture IdentityServer is a light-weight security token service built with .NET 4.5, MVC 4, Web API and WCF.
 - [amiorin/ctrlp-z](https://github.com/amiorin/ctrlp-z) - fasd interface with ctrlp.vim
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [ivanov/vim-ipython](https://github.com/ivanov/vim-ipython) - A two-way integration between Vim and IPython 0.11+
@@ -2224,7 +2211,6 @@
 - [scrooloose/snipmate-snippets](https://github.com/scrooloose/snipmate-snippets) - A collection of snippets for snipmate
 - [vilcans/scribbish-jekyll](https://github.com/vilcans/scribbish-jekyll) - Scribbish theme ported to Jekyll
 - [binaryage/visor](https://github.com/binaryage/visor) - Quake-style terminal for MacOS X (Terminal.app plugin)
-- [chef-boneyard/cookbooks](https://github.com/chef-boneyard/cookbooks) - DEPRECATED: This repository has been split up into separate repositories by cookbook under the "opscode-cookbooks" organization.
 - [python-twitter-tools/twitter](https://github.com/python-twitter-tools/twitter) - Python Twitter API
 - [sciyoshi/pyfacebook](https://github.com/sciyoshi/pyfacebook) - PyFacebook
 - [camptocamp/puppet-apache_c2c](https://github.com/camptocamp/puppet-apache_c2c) - 
@@ -2377,7 +2363,6 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-- [Thriftpy/thriftpy](https://github.com/Thriftpy/thriftpy) - Thriftpy has been deprecated, please migrate to https://github.com/Thriftpy/thriftpy2
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versi
@@ -2700,7 +2685,6 @@
 
 ## wagtail 
 
-- [wagtail-deprecated/wagtaildemo](https://github.com/wagtail-deprecated/wagtaildemo) - Old example site implemented with Wagtail. Please see https://github.com/wagtail/bakerydemo for the current demo site
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 
 ## web 
