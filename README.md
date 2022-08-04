@@ -173,11 +173,9 @@
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [CoreyKaylor/Lightning.NET](https://github.com/CoreyKaylor/Lightning.NET) - .NET library for LMDB key-value store
 - [Redth/PushSharp](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS device
-- [ddevault/RedditSharp](https://github.com/ddevault/RedditSharp) - [Unmaintained] Reddit API for .NET
 - [Humanizr/Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [lukebuehler/CShell](https://github.com/lukebuehler/CShell) - A simple, yet powerful, C# scripting IDE and REPL
 - [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for Mobile Development
-- [drusellers/etcetera](https://github.com/drusellers/etcetera) - .Net client for etcd
 - [mrward/monodevelop-nuget-addin](https://github.com/mrward/monodevelop-nuget-addin) - NuGet addin for MonoDevelop and Xamarin Studio
 - [mono/monodevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross platform .NET IDE
 - [xamarin/amazon](https://github.com/xamarin/amazon) - Library for accessing Amazon web services from mobile apps
@@ -187,7 +185,6 @@
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [marksl/DotNetFlumeNG.Clients](https://github.com/marksl/DotNetFlumeNG.Clients) - 
 - [Readify/GitViz](https://github.com/Readify/GitViz) - Real-time, presentation-quality, Git visualizer to help with Git training
-- [getsentry/raven-csharp](https://github.com/getsentry/raven-csharp) - Superseded by: https://github.com/getsentry/sentry-dotnet
 - [sq/JSIL](https://github.com/sq/JSIL) - CIL to Javascript Compiler
 - [EventStore/EventStore](https://github.com/EventStore/EventStore) - The stream database optimised for event sourcing
 - [AArnott/IronPigeon](https://github.com/AArnott/IronPigeon) - IronPigeon is a decentralized communication protocol that provides high confidentiality and authenticity for the messages.
@@ -196,7 +193,6 @@
 - [Glimpse/Glimpse](https://github.com/Glimpse/Glimpse) - The open source diagnostics platform for the web
 - [FransBouma/Massive](https://github.com/FransBouma/Massive) - A small, happy, dynamic MicroORM for .NET that will love you forever.
 - [CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
-- [IdentityServer/IdentityServer2](https://github.com/IdentityServer/IdentityServer2) - [deprecated] Thinktecture IdentityServer is a light-weight security token service built with .NET 4.5, MVC 4, Web API and WCF.
 - [sayedihashimi/slow-cheetah](https://github.com/sayedihashimi/slow-cheetah) - XML Transforms for app.config and other XML files
 - [disruptor-net/Disruptor-net](https://github.com/disruptor-net/Disruptor-net) - Port of LMAX Disruptor to .NET
 - [reactiveui/Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that e
@@ -478,7 +474,6 @@
 ## Groovy 
 
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
-- [Netflix/asgard](https://github.com/Netflix/asgard) - [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.co
 
 ## HCL 
 
@@ -486,7 +481,6 @@
 - [xuwang/aws-terraform](https://github.com/xuwang/aws-terraform) - Code examples to create CoreOS cluster on AWS  with Terraform
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
 - [phinze/tf-bluegreen-asg-deployment](https://github.com/phinze/tf-bluegreen-asg-deployment) - example of a blue/green deployment with asgs
-- [terraform-community-modules/tf_aws_sg](https://github.com/terraform-community-modules/tf_aws_sg) - [DEPRECATED] Use https://github.com/terraform-aws-modules/terraform-aws-security-group
 - [deverton/terraform-aws-consul](https://github.com/deverton/terraform-aws-consul) - Terraform example using AWS that deploys a full environment with Consul
 
 ## HTML 
@@ -571,13 +565,10 @@
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [OneNoteDev/OneNoteAPISampleAndroid](https://github.com/OneNoteDev/OneNoteAPISampleAndroid) - Code sample with examples of how to use the OneNote API on Android
 - [zeromq/jeromq](https://github.com/zeromq/jeromq) - Pure Java ZeroMQ
-- [Nimrodda/WizarDroid](https://github.com/Nimrodda/WizarDroid) - *Deprecated* A lightweight Android library for creating step by step wizards
 - [avast/android-styled-dialogs](https://github.com/avast/android-styled-dialogs) - Backport of Material dialogs with easy-to-use API based on DialogFragment
 - [mttkay/ignition](https://github.com/mttkay/ignition) - Kick-starts Android application development.
 - [maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView) - A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore.
 - [maurycyw/StaggeredGridViewDemo](https://github.com/maurycyw/StaggeredGridViewDemo) - A demo of StaggeredGridView
-- [chrisbanes/Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) - DEPRECATED
-- [twitter-archive/commons](https://github.com/twitter-archive/commons) - Twitter common libraries for python and the JVM (deprecated)
 - [twineworks/ruby-for-pentaho-kettle](https://github.com/twineworks/ruby-for-pentaho-kettle) - Ruby scripting for pentaho-kettle
 - [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle
 - [orientechnologies/orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Tr
@@ -697,7 +688,6 @@
 - [shachaf/jsgif](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
-- [guardian/scribe](https://github.com/guardian/scribe) - DEPRECATED: A rich text editor framework for the web platform
 - [totem/discover](https://github.com/totem/discover) - Service Discovery for Docker
 - [anvaka/VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript
 - [marcelduran/yslow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
@@ -843,8 +833,6 @@
 
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [Lyndir/MasterPassword](https://github.com/Lyndir/MasterPassword) - Project moved to https://gitlab.com/spectre.app
-- [bitstadium/HockeyKit](https://github.com/bitstadium/HockeyKit) - HockeyApp was retired and the SDKs are deprecated. Please use App Center instead.
-- [slackhq/SlackTextViewController](https://github.com/slackhq/SlackTextViewController) - ⛔️**DEPRECATED** ⛔️ A drop-in UIViewController subclass with a growing text input view and other useful messaging features
 - [iSECPartners/yontma-mac](https://github.com/iSECPartners/yontma-mac) - You'll Never Take Me Alive!
 - [ianclarksmith/Bossman](https://github.com/ianclarksmith/Bossman) - Menubar task runner for Mac
 - [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing
@@ -968,7 +956,6 @@
 - [jnwhiteh/vim-golang](https://github.com/jnwhiteh/vim-golang) - Github mirror of Go vimscripts, synced with main repository
 - [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 - [vilcans/scribbish-jekyll](https://github.com/vilcans/scribbish-jekyll) - Scribbish theme ported to Jekyll
-- [chef-boneyard/cookbooks](https://github.com/chef-boneyard/cookbooks) - DEPRECATED: This repository has been split up into separate repositories by cookbook under the "opscode-cookbooks" organization.
 - [dsboulder/query_reviewer](https://github.com/dsboulder/query_reviewer) - This rails plugin not only runs "EXPLAIN" before each of your select queries in development, but provides a small DIV in the rendered output of each page with the summary of query warnings that it ana
 
 ## PHP 
@@ -1128,7 +1115,6 @@
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [python-rope/rope](https://github.com/python-rope/rope) - a python refactoring library
 - [occrp-attic/loom](https://github.com/occrp-attic/loom) - Weaving SQL databases into graph data.
-- [wagtail-deprecated/wagtaildemo](https://github.com/wagtail-deprecated/wagtaildemo) - Old example site implemented with Wagtail. Please see https://github.com/wagtail/bakerydemo for the current demo site
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [mpdehaan/jcp](https://github.com/mpdehaan/jcp) - Jinja2-powered, template aware copy tool
@@ -1220,7 +1206,6 @@
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [charlesthomas/magpie](https://github.com/charlesthomas/magpie) - Git-backed Evernote replacement
 - [robclewley/compneuro](https://github.com/robclewley/compneuro) - Computational Neuroscience class materials in PyDSTool based on Hugh Wilson's book (and some from Eugene Izhikevich's book). DRAFT VERSION! See files_info.txt for index. Please improve and discuss!
-- [Thriftpy/thriftpy](https://github.com/Thriftpy/thriftpy) - Thriftpy has been deprecated, please migrate to https://github.com/Thriftpy/thriftpy2
 - [dropbox/pygerduty](https://github.com/dropbox/pygerduty) - A Python library for PagerDuty.
 - [TheRook/subbrute](https://github.com/TheRook/subbrute) - A DNS meta-query spider that enumerates DNS records, and subdomains.
 - [clockfort/GitHub-Backup](https://github.com/clockfort/GitHub-Backup) - Backup all the repositories of a github user or organization automatically.
@@ -1259,7 +1244,6 @@
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [9thbitio/link](https://github.com/9thbitio/link) - 
-- [docker-archive/docker-registry](https://github.com/docker-archive/docker-registry) - This is **DEPRECATED**! Please go to https://github.com/docker/distribution
 - [phyllisstein/alp](https://github.com/phyllisstein/alp) - A Python module for Alfred v2 workflows
 - [hzlzh/AlfredWorkflow.com](https://github.com/hzlzh/AlfredWorkflow.com) - A public Collection of Alfred Workflows.
 - [encode/django-vanilla-views](https://github.com/encode/django-vanilla-views) - Beautifully simple class-based views.
