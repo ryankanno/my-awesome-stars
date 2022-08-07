@@ -325,6 +325,7 @@
 
 ## Go 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [lanrat/czds](https://github.com/lanrat/czds) - simple golang API and tools to interact with czds.icann.org
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
@@ -999,7 +1000,7 @@
 
 ## Python 
 
-- [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - An opinionated https://github.com/cookiecutter/cookiecutter for modern Python projects
+- [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [anthonywritescode/explains](https://github.com/anthonywritescode/explains) - more easily searchable list of explains playlist
