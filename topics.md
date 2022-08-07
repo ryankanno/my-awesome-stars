@@ -688,6 +688,7 @@
 
 ## framework 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire:
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
@@ -857,6 +858,7 @@
 
 ## hacktoberfest 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
@@ -2265,7 +2267,7 @@
 
 ## python 
 
-- [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - An opinionated https://github.com/cookiecutter/cookiecutter for modern Python projects
+- [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [ssantoshp/Empyrial](https://github.com/ssantoshp/Empyrial) - Portfolio Management Framework for risk and performance analysis 投资组合管理
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
