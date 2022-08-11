@@ -75,6 +75,7 @@
 
 ## C 
 
+- [MadRabbit/halmak](https://github.com/MadRabbit/halmak) - The final version of the AI designed keyboard layout
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
@@ -779,6 +780,7 @@
 
 ## Jupyter Notebook 
 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 - [nekitmm/starnet](https://github.com/nekitmm/starnet) - StarNet
 - [guillaume-chevalier/Linear-Attention-Recurrent-Neural-Network](https://github.com/guillaume-chevalier/Linear-Attention-Recurrent-Neural-Network) - A recurrent attention module consisting of an LSTM cell which can query its own past cell states by the means of windowed multi-head attention. The formulas are derived from the BN-LSTM and the Transf
 - [Machine-Learning-Tokyo/DL-workshop-series](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) - Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
@@ -1000,6 +1002,7 @@
 
 ## Python 
 
+- [GjjvdBurg/HugoPhotoSwipe](https://github.com/GjjvdBurg/HugoPhotoSwipe) - Command-line tool for easy PhotoSwipe galleries in Hugo
 - [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
