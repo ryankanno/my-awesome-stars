@@ -310,6 +310,7 @@
 
 ## aws 
 
+- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [softprops/serverless-rust](https://github.com/softprops/serverless-rust) - ⚡ 🦀 a serverless framework plugin for rustlang applications
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
 - [MitocGroup/deep-framework](https://github.com/MitocGroup/deep-framework) - Full-stack JavaScript Framework for Cloud-Native Web Applications (perfect for Serverless use cases)
@@ -370,6 +371,7 @@
 
 ## cli 
 
+- [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [microsoft/NugetNinja](https://github.com/microsoft/NugetNinja) - A tool for detecting dependencies of .NET projects.
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
@@ -967,6 +969,7 @@
 
 ## image-processing 
 
+- [libvips/pyvips](https://github.com/libvips/pyvips) - python binding for libvips using cffi
 - [nekitmm/starnet](https://github.com/nekitmm/starnet) - StarNet
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [benhoyt/dhash](https://github.com/benhoyt/dhash) - Python library to calculate the difference hash (perceptual hash) for a given image, useful for detecting duplicates
@@ -2277,6 +2280,7 @@
 
 ## python 
 
+- [libvips/pyvips](https://github.com/libvips/pyvips) - python binding for libvips using cffi
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [GjjvdBurg/HugoPhotoSwipe](https://github.com/GjjvdBurg/HugoPhotoSwipe) - Command-line tool for easy PhotoSwipe galleries in Hugo
 - [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
