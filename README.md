@@ -59,7 +59,7 @@
 - [Twig](#twig)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## Arduino 
@@ -1571,7 +1571,7 @@
 
 - [p-e-w/finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator (NO LONGER MAINTAINED)
 
-## Vim script 
+## Vim Script 
 
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [durdn/cfg](https://github.com/durdn/cfg) - dotfiles and related syncing scripts
