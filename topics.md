@@ -640,6 +640,7 @@
 - [mono/monodevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross platform .NET IDE
 - [jbevain/cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
+- [CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
 - [reactiveui/Akavache](https://github.com/reactiveui/Akavache) - An asynchronous, persistent key-value store created for writing desktop and mobile applications, based on SQLite3. Akavache is great for both storing important data as well as cached local data that e
 - [nhibernate/nhibernate-core](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper
 
@@ -2044,7 +2045,6 @@
 - [jkleint/ansible-hadoop](https://github.com/jkleint/ansible-hadoop) - THIS REPOSITORY IS VERY OUTDATED.  See Ansible Galaxy instead.
 - [EricTendian/svbtle-tumblr](https://github.com/EricTendian/svbtle-tumblr) - A Svbtle-inspired Tumblr theme.
 - [FransBouma/Massive](https://github.com/FransBouma/Massive) - A small, happy, dynamic MicroORM for .NET that will love you forever.
-- [CollaboratingPlatypus/PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - Official PetaPoco, A tiny ORM-ish thing for your POCO's
 - [BradLarson/GPUImage](https://github.com/BradLarson/GPUImage) - An open source iOS framework for GPU-based image and video processing
 - [openstack-ansible/openstack-ansible](https://github.com/openstack-ansible/openstack-ansible) - Ansible playbooks for installing OpenStack
 - [redhat-openstack/packstack](https://github.com/redhat-openstack/packstack) - Install utility to deploy OpenStack on multiple hosts. This is the GitHub mirror for https://opendev.org/x/packstack.
