@@ -813,7 +813,6 @@
 
 ## Makefile 
 
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [kubernetes-up-and-running/dockerfiles](https://github.com/kubernetes-up-and-running/dockerfiles) - 
 - [justinclayton/coreos-and-consul-cluster-via-terraform](https://github.com/justinclayton/coreos-and-consul-cluster-via-terraform) - Deploy Your Own CoreOS and Consul Cluster on AWS via Terraform
 - [bobtfish/terraform-example-mesos-cluster](https://github.com/bobtfish/terraform-example-mesos-cluster) - A self contained example of using Terraform to build a Mesos cluster
@@ -1461,6 +1460,7 @@
 
 ## Shell 
 
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [doda-zz/twofishes-canned](https://github.com/doda-zz/twofishes-canned) - Free & ready-to-use geocoder
 - [jmcantrell/bashful](https://github.com/jmcantrell/bashful) - A collection of modules to simplify writing bash scripts.
