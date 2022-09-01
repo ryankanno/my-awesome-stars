@@ -307,6 +307,7 @@
 - [CUTR-at-USF/awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -908,7 +909,6 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [EducationalTestingService/skll](https://github.com/EducationalTestingService/skll) - SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.
-- [alexandrevicenzi/Flex](https://github.com/alexandrevicenzi/Flex) - The minimalist Pelican theme.
 - [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🎐 a python library for doing approximate and phonetic matching of strings.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -1613,6 +1613,7 @@
 - [tools/godep](https://github.com/tools/godep) - dependency tool for go
 - [pydanny/cookiecutter-djangopackage](https://github.com/pydanny/cookiecutter-djangopackage) - A cookiecutter template for creating reusable Django packages quickly.
 - [gfidente/pelican-svbhack](https://github.com/gfidente/pelican-svbhack) - pelican-svbhack is a responsive theme for Pelican and it is my hack of a svbtle-like theme
+- [alexandrevicenzi/Flex](https://github.com/alexandrevicenzi/Flex) - The minimalist Pelican theme.
 - [eldarion-gondor/piper](https://github.com/eldarion-gondor/piper) - websocket process communication
 - [codeforamerica/recordtrac](https://github.com/codeforamerica/recordtrac) - Manage and display public record requests, built by the Code for America 2013 Oakland team, maintained by @richaagarwal
 - [cirlabs/foiamachine](https://github.com/cirlabs/foiamachine) - Automate your FOIAs. The real, production version.
@@ -1716,7 +1717,6 @@
 - [cinder/Cinder](https://github.com/cinder/Cinder) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 - [ThomasLengeling/KinectPV2](https://github.com/ThomasLengeling/KinectPV2) - Kinect4W 2.0 library for Processing
 - [dagoof/sqlalchemy-fsm](https://github.com/dagoof/sqlalchemy-fsm) - SQLAlchemy finite state machine support
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [xamarin/evolve-quest](https://github.com/xamarin/evolve-quest) - Evolve Quest is an iBeacon based scavenger hunt that attendees enjoyed at Evolve 2014
 - [Z3Prover/z3](https://github.com/Z3Prover/z3) - The Z3 Theorem Prover
 - [Netflix/ribbon](https://github.com/Netflix/ribbon) - Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support.
