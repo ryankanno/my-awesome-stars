@@ -1364,6 +1364,8 @@
 
 ## others 
 
+- [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
+- [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast ML in JS with Bun + Flashlight
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
