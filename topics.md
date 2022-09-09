@@ -1364,10 +1364,11 @@
 
 ## others 
 
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
-- [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast ML in JS with Bun + Flashlight
+- [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 - [MadRabbit/halmak](https://github.com/MadRabbit/halmak) - The final version of the AI designed keyboard layout
@@ -1518,7 +1519,6 @@
 - [intel/IntelSEAPI](https://github.com/intel/IntelSEAPI) - IntelSEAPI
 - [AGV-IIT-KGP/awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) - A curated list of Resources for Motion Planning
 - [gosuri/uitable](https://github.com/gosuri/uitable) - A go library to improve readability in terminal apps using tabular data
-- [CodeforHawaii/organization](https://github.com/CodeforHawaii/organization) - Our organizational tasks
 - [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
 - [mkayen/DailyFBB-Engine](https://github.com/mkayen/DailyFBB-Engine) - 
 - [nko5/hicapacity](https://github.com/nko5/hicapacity) - 
