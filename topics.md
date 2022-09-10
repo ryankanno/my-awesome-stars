@@ -1117,6 +1117,7 @@
 
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
+- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
@@ -1399,7 +1400,6 @@
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a prototype of a multi-tenant Kubernetes control plane for workloads on many clusters
 - [Parrit/Parrit](https://github.com/Parrit/Parrit) - Software Development Pairing Management App
 - [marcteys/eyecam](https://github.com/marcteys/eyecam) - This repository contains the main files of Eyecam
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
