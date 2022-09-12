@@ -786,6 +786,7 @@
 
 ## Jupyter Notebook 
 
+- [Harmonai-org/sample-generator](https://github.com/Harmonai-org/sample-generator) - Tools to train a generative model on arbitrary audio samples
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 - [nekitmm/starnet](https://github.com/nekitmm/starnet) - StarNet
 - [guillaume-chevalier/Linear-Attention-Recurrent-Neural-Network](https://github.com/guillaume-chevalier/Linear-Attention-Recurrent-Neural-Network) - A recurrent attention module consisting of an LSTM cell which can query its own past cell states by the means of windowed multi-head attention. The formulas are derived from the BN-LSTM and the Transf
@@ -1007,6 +1008,7 @@
 
 ## Python 
 
+- [sharonzhou/long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
 - [twosigma/uberjob](https://github.com/twosigma/uberjob) - uberjob is a Python package for building and running call graphs.
 - [libvips/pyvips](https://github.com/libvips/pyvips) - python binding for libvips using cffi
