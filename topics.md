@@ -1907,7 +1907,7 @@
 - [gsko/mdht](https://github.com/gsko/mdht) - A library with protocols needed to run a Mainline DHT node (written with Twisted)
 - [sit/dht](https://github.com/sit/dht) - MIT Chord/DHash
 - [flynn-archive/go-discoverd](https://github.com/flynn-archive/go-discoverd) - Archived -- see https://github.com/flynn/flynn
-- [michaeljones/breathe](https://github.com/michaeljones/breathe) - ReStructuredText and Sphinx bridge to Doxygen
+- [breathe-doc/breathe](https://github.com/breathe-doc/breathe) - ReStructuredText and Sphinx bridge to Doxygen
 - [OneNoteDev/OneNoteAPISampleAndroid](https://github.com/OneNoteDev/OneNoteAPISampleAndroid) - Code sample with examples of how to use the OneNote API on Android
 - [uber/cassette](https://github.com/uber/cassette) - Store and replay HTTP requests made in your Python app
 - [bear/python-twitter](https://github.com/bear/python-twitter) - A Python wrapper around the Twitter API.
