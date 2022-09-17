@@ -1240,7 +1240,7 @@
 - [google/pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into python processes.
 - [gsko/mdht](https://github.com/gsko/mdht) - A library with protocols needed to run a Mainline DHT node (written with Twisted)
 - [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
-- [michaeljones/breathe](https://github.com/michaeljones/breathe) - ReStructuredText and Sphinx bridge to Doxygen
+- [breathe-doc/breathe](https://github.com/breathe-doc/breathe) - ReStructuredText and Sphinx bridge to Doxygen
 - [uber/cassette](https://github.com/uber/cassette) - Store and replay HTTP requests made in your Python app
 - [bear/python-twitter](https://github.com/bear/python-twitter) - A Python wrapper around the Twitter API.
 - [jeanqasaur/jeeves](https://github.com/jeanqasaur/jeeves) - Python implementation of the Jeeves programming language.
