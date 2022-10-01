@@ -1008,6 +1008,7 @@
 
 ## Python 
 
+- [nat/natbot](https://github.com/nat/natbot) - Drive a browser with GPT-3
 - [krea-ai/open-prompts](https://github.com/krea-ai/open-prompts) - 
 - [sharonzhou/long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
 - [google/BIG-bench](https://github.com/google/BIG-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
