@@ -934,11 +934,13 @@
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [voxpupuli/puppet-iis](https://github.com/voxpupuli/puppet-iis) - Module to mange IIS with Puppet
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
@@ -1935,7 +1937,6 @@
 - [anvaka/VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript
 - [marcelduran/yslow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
 - [lukevenediger/statsd.net](https://github.com/lukevenediger/statsd.net) - A high-performance stats collection service that feeds into Graphite and aimed at small- to large-scale windows environments.
-- [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [mpdehaan/revelator](https://github.com/mpdehaan/revelator) - Write reveal.js index.html files in YAML.
 - [mttkay/ignition](https://github.com/mttkay/ignition) - Kick-starts Android application development.
 - [maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView) - A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore.
