@@ -890,6 +890,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
@@ -1379,6 +1380,7 @@
 
 ## others 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [nat/natbot](https://github.com/nat/natbot) - Drive a browser with GPT-3
 - [krea-ai/open-prompts](https://github.com/krea-ai/open-prompts) - 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -2200,7 +2202,7 @@
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [ericjohnson/canabalt-ios](https://github.com/ericjohnson/canabalt-ios) - Open source release of Canabalt for iOS
 - [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
-- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
+- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [facebookarchive/hadoop-20](https://github.com/facebookarchive/hadoop-20) - Facebook's Realtime Distributed FS based on Apache Hadoop 0.20-append
 - [sbc/django-uploadify-s3](https://github.com/sbc/django-uploadify-s3) - A Django application that makes it easy to integrate the Uploadify uploader and Amazon S3 into your project.
 - [danchoi/vmail](https://github.com/danchoi/vmail) - a vim interface for gmail
