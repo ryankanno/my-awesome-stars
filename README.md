@@ -1324,7 +1324,7 @@
 - [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [Frozen-Flask/Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
-- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX
+- [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 - [sbc/django-uploadify-s3](https://github.com/sbc/django-uploadify-s3) - A Django application that makes it easy to integrate the Uploadify uploader and Amazon S3 into your project.
 - [omab/django-social-auth](https://github.com/omab/django-social-auth) - Django social authentication made simple
 - [Yelp/mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
@@ -1433,6 +1433,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [lunatic-solutions/submillisecond](https://github.com/lunatic-solutions/submillisecond) - A lunatic web framework
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
