@@ -809,6 +809,7 @@
 
 ## Lua 
 
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [karpathy/char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
@@ -1013,6 +1014,8 @@
 
 ## Python 
 
+- [HazyResearch/manifest](https://github.com/HazyResearch/manifest) - Prompt programming with FMs.
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [nat/natbot](https://github.com/nat/natbot) - Drive a browser with GPT-3
 - [krea-ai/open-prompts](https://github.com/krea-ai/open-prompts) - 
 - [sharonzhou/long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
@@ -1147,7 +1150,7 @@
 - [evansd/whitenoise](https://github.com/evansd/whitenoise) - Radically simplified static file serving for Python web apps
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
 - [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control th
-- [hynek/structlog](https://github.com/hynek/structlog) - Structured Logging for Python
+- [hynek/structlog](https://github.com/hynek/structlog) - Simple. Powerful. Fast. Pick three.
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [devhub/domaintools](https://github.com/devhub/domaintools) - Domain parsing with Python
 - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
@@ -1554,6 +1557,7 @@
 
 ## TypeScript 
 
+- [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
