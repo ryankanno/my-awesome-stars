@@ -920,7 +920,6 @@
 - [ansible/immutablish-deploys](https://github.com/ansible/immutablish-deploys) - 
 - [python/asyncio](https://github.com/python/asyncio) - asyncio historical repository
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-- [jturgasen/my-links](https://github.com/jturgasen/my-links) - Knowledge seeks no man
 - [codeforamerica/project-ideas](https://github.com/codeforamerica/project-ideas) - A place to collect ideas for CfA health projects
 - [getsubrosa/subrosa](https://github.com/getsubrosa/subrosa) - Under the rose
 - [18F/ideas](https://github.com/18F/ideas) - ideas for 18F projects
