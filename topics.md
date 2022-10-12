@@ -918,6 +918,7 @@
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [Rohansi/Mond](https://github.com/Rohansi/Mond) - A scripting language for .NET Core
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [internetarchive/bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
