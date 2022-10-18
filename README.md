@@ -1290,7 +1290,7 @@
 - [sebastien/cuisine](https://github.com/sebastien/cuisine) - Chef-like functionality for Fabric
 - [webengineer/django-fabfile](https://github.com/webengineer/django-fabfile) - Fabric tasks for Django and Amazon Web Services
 - [tomcz/aws_vpc_py](https://github.com/tomcz/aws_vpc_py) - My attempts at creating an Amazon VPC using python tools
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 - [mothran/bunny](https://github.com/mothran/bunny) - Bunny is a wireless. meshing, darknet that uses 802.11 to hide its communications
 - [klbostee/dumbo](https://github.com/klbostee/dumbo) - Python module that allows one to easily write and run Hadoop programs.
