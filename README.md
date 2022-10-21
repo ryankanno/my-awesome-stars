@@ -262,7 +262,7 @@
 - [csswizardry/ct](https://github.com/csswizardry/ct) - Let’s take a look inside your &lt;head&gt;…
 - [nielsenramon/chalk](https://github.com/nielsenramon/chalk) - Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.
 - [nishanths/cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme) - Responsive Hugo blog theme (Note: not actively worked on)
-- [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of  public penetration test reports released by several consulting firms and academic security groups
+- [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - A list of public penetration test reports published by several consulting firms and academic security groups.
 - [openprojectnight/openprojectnight.github.io](https://github.com/openprojectnight/openprojectnight.github.io) - 
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [getpelican/pelican-themes](https://github.com/getpelican/pelican-themes) - Themes for Pelican
@@ -787,6 +787,7 @@
 
 ## Jupyter Notebook 
 
+- [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API
 - [Harmonai-org/sample-generator](https://github.com/Harmonai-org/sample-generator) - Tools to train a generative model on arbitrary audio samples
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [nekitmm/starnet](https://github.com/nekitmm/starnet) - StarNet
