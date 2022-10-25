@@ -7,6 +7,7 @@
 
 - [Arduino](#arduino)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -61,7 +62,6 @@
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
-- [Vue](#vue)
 
 ## Arduino 
 
@@ -73,6 +73,10 @@
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89
+
+## Astro 
+
+- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 ## C 
 
@@ -1619,10 +1623,6 @@
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [ryankanno/vim-config](https://github.com/ryankanno/vim-config) - My vim configuration.  Complete with plugin goodness.
 - [scrooloose/snipmate-snippets](https://github.com/scrooloose/snipmate-snippets) - A collection of snippets for snipmate
-
-## Vue 
-
-- [BenRoe/awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 
 
 ## License
