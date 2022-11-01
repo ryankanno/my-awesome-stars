@@ -990,7 +990,7 @@
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for Mobile Development
-- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+- [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 ## icon-font 
@@ -2442,7 +2442,7 @@
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+- [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [SeTeM/pync](https://github.com/SeTeM/pync) - Python wrapper for Mac OS 10.8 Notification Center
 - [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
