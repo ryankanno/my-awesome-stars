@@ -1006,6 +1006,7 @@
 
 ## PowerShell 
 
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [joefitzgerald/packer-windows](https://github.com/joefitzgerald/packer-windows) - Windows Packer Templates
 
 ## Processing 
@@ -1105,7 +1106,6 @@
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [inejc/painters](https://github.com/inejc/painters) - :art: Winning solution for the Painter by Numbers competition on Kaggle.
 - [mplewis/expose.py](https://github.com/mplewis/expose.py) - Photojournalism static site generator, inspired by Jack000/Expose
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks.
 - [rholder/retrying](https://github.com/rholder/retrying) - Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.
@@ -1274,7 +1274,7 @@
 - [rgbkrk/bookstore](https://github.com/rgbkrk/bookstore) - :books: IPython notebook storage on OpenStack clouds
 - [polvi/twilionagios](https://github.com/polvi/twilionagios) - Tools for integrating Twilio and Nagios
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+- [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
 - [9thbitio/link](https://github.com/9thbitio/link) - 
 - [phyllisstein/alp](https://github.com/phyllisstein/alp) - A Python module for Alfred v2 workflows
 - [hzlzh/AlfredWorkflow.com](https://github.com/hzlzh/AlfredWorkflow.com) - A public Collection of Alfred Workflows.
