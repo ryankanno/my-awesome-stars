@@ -332,10 +332,11 @@
 
 ## Go 
 
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go with libvips
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server in Go and libvips
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [lanrat/czds](https://github.com/lanrat/czds) - simple golang API and tools to interact with czds.icann.org
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
