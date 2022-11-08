@@ -333,6 +333,7 @@
 
 ## Go 
 
+- [google/golden-path-for-app-delivery](https://github.com/google/golden-path-for-app-delivery) - 
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
