@@ -1573,6 +1573,7 @@
 
 ## TypeScript 
 
+- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution to Manage Cloud Environments
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
