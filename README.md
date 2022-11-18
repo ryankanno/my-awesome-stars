@@ -343,7 +343,7 @@
 - [lanrat/czds](https://github.com/lanrat/czds) - simple golang API and tools to interact with czds.icann.org
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
-- [coder/coder](https://github.com/coder/coder) - Remote development environments on your infrastructure provisioned with Terraform
+- [coder/coder](https://github.com/coder/coder) - Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
@@ -366,7 +366,7 @@
 - [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [alexellis/spotminer](https://github.com/alexellis/spotminer) - Golang automation for mining cryptocurrencies on the Spot Market
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
@@ -551,7 +551,7 @@
 - [Parrit/Parrit](https://github.com/Parrit/Parrit) - Software Development Pairing Management App
 - [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
 - [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-- [MindorksOpenSource/android-mvvm-architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
+- [janishar/android-mvvm-architecture](https://github.com/janishar/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
 - [antlr/codebuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning (uh, like, is this possible? YES, apparently).
 - [tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField) - explosive dust effect for views
 - [ICIJ/extract](https://github.com/ICIJ/extract) - A cross-platform command line tool for parallelised content extraction and analysis.
@@ -1573,7 +1573,7 @@
 
 ## TypeScript 
 
-- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution to Manage Cloud Environments
+- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
