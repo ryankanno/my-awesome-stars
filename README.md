@@ -435,6 +435,7 @@
 - [randall77/hprof](https://github.com/randall77/hprof) - Heap profile reader for Go
 - [foostan/fileconsul](https://github.com/foostan/fileconsul) - Sharing files in a consul cluster.
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
+- [atomix/atomix](https://github.com/atomix/atomix) - A reactive Java framework for building fault-tolerant distributed systems
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -549,7 +550,7 @@
 
 ## Java 
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration pipelines from APIs, databases & files to warehouses & lakes.
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [Parrit/Parrit](https://github.com/Parrit/Parrit) - Software Development Pairing Management App
 - [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
 - [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
@@ -570,7 +571,6 @@
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [Tapadoo/TCSlackNotifierPlugin](https://github.com/Tapadoo/TCSlackNotifierPlugin) - A hastily built plugin for TeamCity to post notifications to slack
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database
-- [atomix/atomix](https://github.com/atomix/atomix) - A reactive Java framework for building fault-tolerant distributed systems
 - [mcharmas/Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
 - [codechimp-org/AppRater](https://github.com/codechimp-org/AppRater) - AppRater Library for Android
 - [krishjlk/android-listview-swipe-delete-example-sample-tuorial](https://github.com/krishjlk/android-listview-swipe-delete-example-sample-tuorial) - Utility to deleting a row from a list view by swipe action (similar to iphone)
