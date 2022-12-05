@@ -1026,6 +1026,7 @@
 
 ## Python 
 
+- [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
@@ -1039,7 +1040,6 @@
 - [libvips/pyvips](https://github.com/libvips/pyvips) - python binding for libvips using cffi
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [GjjvdBurg/HugoPhotoSwipe](https://github.com/GjjvdBurg/HugoPhotoSwipe) - Command-line tool for easy PhotoSwipe galleries in Hugo
-- [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [anthonywritescode/explains](https://github.com/anthonywritescode/explains) - more easily searchable list of explains playlist
