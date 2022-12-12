@@ -1421,6 +1421,7 @@
 
 ## others 
 
+- [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [google/golden-path-for-app-delivery](https://github.com/google/golden-path-for-app-delivery) - 
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
