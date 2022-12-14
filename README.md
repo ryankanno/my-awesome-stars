@@ -363,7 +363,7 @@
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [digitalocean/sample-dockerfile](https://github.com/digitalocean/sample-dockerfile) - ⛵ App Platform sample Docker application.
-- [FeatureBaseDB/featurebase](https://github.com/FeatureBaseDB/featurebase) - A real-time analytical database built on bitmaps. Learn more at: http://docs.featurebase.com?utm_campaign=Open%20Source&utm_source=GitHub
+- [FeatureBaseDB/featurebase](https://github.com/FeatureBaseDB/featurebase) - A crazy fast analytical database. Built on bitmaps. Perfect for ML applications. Learn more at: http://docs.featurebase.com/
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [crosbymichael/boss](https://github.com/crosbymichael/boss) - Run containers like a ross
@@ -874,6 +874,7 @@
 
 ## Others 
 
+- [fsmosca/eco](https://github.com/fsmosca/eco) - Encyclopedia of Chess Opening
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [saltudelft/ml4se](https://github.com/saltudelft/ml4se) - A curated list of papers, theses, datasets, and tools related to the application of Machine Learning for Software Engineering
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -1029,6 +1030,7 @@
 
 ## Python 
 
+- [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) - An aggregated data set of chess opening names
 - [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
