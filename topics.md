@@ -1432,6 +1432,7 @@
 
 ## others 
 
+- [mhogrefe/malachite](https://github.com/mhogrefe/malachite) - An arbitrary-precision arithmetic library for Rust.
 - [viznut/vzgpt](https://github.com/viznut/vzgpt) - Viznut's C-only GPT-2 implementation
 - [fsmosca/eco](https://github.com/fsmosca/eco) - Encyclopedia of Chess Opening
 - [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) - An aggregated data set of chess opening names
