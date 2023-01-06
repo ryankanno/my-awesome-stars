@@ -444,6 +444,7 @@
 
 ## computer-vision 
 
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks.
 - [brakmic/OpenCV](https://github.com/brakmic/OpenCV) - :camera: Computer-Vision Demos
@@ -1246,6 +1247,7 @@
 
 ## machine-learning 
 
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [saltudelft/ml4se](https://github.com/saltudelft/ml4se) - A curated list of papers, theses, datasets, and tools related to the application of Machine Learning for Software Engineering
 - [thunlp/PromptPapers](https://github.com/thunlp/PromptPapers) - Must-read papers on prompt-based tuning for pre-trained language models.
 - [ssantoshp/Empyrial](https://github.com/ssantoshp/Empyrial) - Portfolio Management Framework for risk and performance analysis 投资组合管理
@@ -1355,6 +1357,7 @@
 
 ## neural-network 
 
+- [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome machine learning strategies & tools in financial market.
 - [nekitmm/starnet](https://github.com/nekitmm/starnet) - StarNet
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
