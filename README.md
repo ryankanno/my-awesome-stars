@@ -513,6 +513,7 @@
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
 - [phinze/tf-bluegreen-asg-deployment](https://github.com/phinze/tf-bluegreen-asg-deployment) - example of a blue/green deployment with asgs
 - [deverton/terraform-aws-consul](https://github.com/deverton/terraform-aws-consul) - Terraform example using AWS that deploys a full environment with Consul
+- [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 
 ## HTML 
 
@@ -1042,6 +1043,7 @@
 
 ## Python 
 
+- [uchidalab/book-dataset](https://github.com/uchidalab/book-dataset) - This dataset contains 207,572 books from the Amazon.com, Inc. marketplace.
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.
 - [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) - An aggregated data set of chess opening names
 - [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
@@ -1551,7 +1553,6 @@
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [Answers4AWS/netflixoss-ansible](https://github.com/Answers4AWS/netflixoss-ansible) - NetflixOSS Ansible Playbooks
-- [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [oliverlloyd/jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2) - Automates running Apache JMeter on Amazon EC2
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
