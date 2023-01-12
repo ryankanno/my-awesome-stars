@@ -1609,7 +1609,6 @@
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [dvcrn/obsidian-filename-heading-sync](https://github.com/dvcrn/obsidian-filename-heading-sync) - Obisdian.md plugin to keep the filename and the first header of the file in sync
-- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [jpmorganchase/modular](https://github.com/jpmorganchase/modular) - A modular front end development framework
@@ -1641,6 +1640,7 @@
 
 ## Vim Script 
 
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [durdn/cfg](https://github.com/durdn/cfg) - dotfiles and related syncing scripts
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) - tpope's dotfiles. DON'T USE unless you're tpope
