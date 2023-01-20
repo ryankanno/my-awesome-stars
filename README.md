@@ -83,7 +83,6 @@
 
 ## C 
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [viznut/vzgpt](https://github.com/viznut/vzgpt) - Viznut's C-only GPT-2 implementation
 - [kaievns/halmak](https://github.com/kaievns/halmak) - The final version of the AI designed keyboard layout
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
@@ -1471,6 +1470,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [mhogrefe/malachite](https://github.com/mhogrefe/malachite) - An arbitrary-precision arithmetic library for Rust.
