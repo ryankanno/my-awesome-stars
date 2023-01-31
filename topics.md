@@ -559,7 +559,6 @@
 - [saltudelft/ml4se](https://github.com/saltudelft/ml4se) - A curated list of papers, theses, datasets, and tools related to the application of Machine Learning for Software Engineering
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome machine learning strategies & tools in financial market.
 - [nekitmm/starnet](https://github.com/nekitmm/starnet) - StarNet
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
@@ -1377,6 +1376,7 @@
 
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [thunlp/PromptPapers](https://github.com/thunlp/PromptPapers) - Must-read papers on prompt-based tuning for pre-trained language models.
+- [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
 - [thomwolf/awesome-limits-of-dl4nlp](https://github.com/thomwolf/awesome-limits-of-dl4nlp) - A curated list of papers exploring the limits of deep learning for NLP
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [datamade/usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured United States address strings into address components
