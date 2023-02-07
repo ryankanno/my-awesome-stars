@@ -2264,7 +2264,7 @@
 - [jazzband/django-pipeline](https://github.com/jazzband/django-pipeline) - Pipeline is an asset packaging library for Django.
 - [ryankanno/bash-it](https://github.com/ryankanno/bash-it) - A community bash framework.
 - [hicapacity/foodtrucks](https://github.com/hicapacity/foodtrucks) - Food Trucks
-- [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
+- [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
 - [Nerds/NerdPursuit](https://github.com/Nerds/NerdPursuit) - Chase down those nerds .. This repo gathers nerd-questions, so everybody can play geeky questions-answer games and check the nerd level of your buddies.
 - [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [progrium/ginkgo](https://github.com/progrium/ginkgo) - Python service microframework
