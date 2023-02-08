@@ -1603,7 +1603,7 @@
 
 ## TypeScript 
 
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
