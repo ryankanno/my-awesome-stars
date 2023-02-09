@@ -215,6 +215,7 @@
 
 ## C++ 
 
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game engines.
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -1046,6 +1047,7 @@
 
 ## Python 
 
+- [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [uchidalab/book-dataset](https://github.com/uchidalab/book-dataset) - This dataset contains 207,572 books from the Amazon.com, Inc. marketplace.
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.
@@ -1603,6 +1605,7 @@
 
 ## TypeScript 
 
+- [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
