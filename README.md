@@ -1219,7 +1219,7 @@
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [DrkSephy/django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
 - [japerk/nltk3-cookbook](https://github.com/japerk/nltk3-cookbook) - Code for NLTK3 Cookbook
-- [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [chrismattmann/tika-python](https://github.com/chrismattmann/tika-python) - Tika-Python is a Python binding to the Apache Tika™ REST services allowing Tika to be called natively in the Python community.
 - [mantl/mantl](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 - [datamade/probablepeople](https://github.com/datamade/probablepeople) - :family: a python library for parsing unstructured western names into name components.
