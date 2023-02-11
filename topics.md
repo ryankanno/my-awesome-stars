@@ -1789,7 +1789,7 @@
 - [coproductions/grumbleapp](https://github.com/coproductions/grumbleapp) - An app to share your despair
 - [huytd/agar.io-clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written with Socket.IO and HTML5 canvas
 - [joearms/sonic_pi_interface](https://github.com/joearms/sonic_pi_interface) - sonic pi interface
-- [conda/conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
+- [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [allourideas/allourideas.org](https://github.com/allourideas/allourideas.org) - allourideas allows groups to collect and priorize information in an open, democratic, and efficient process.
 - [TransparencyToolkit/LookingGlass](https://github.com/TransparencyToolkit/LookingGlass) - Intuitive and configurable search interface for document archives.
 - [ansible/immutablish-deploys](https://github.com/ansible/immutablish-deploys) - 
