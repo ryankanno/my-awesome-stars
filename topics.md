@@ -76,7 +76,6 @@
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
-- [godot](#godot)
 - [golang](#golang)
 - [google](#google)
 - [graphql](#graphql)
@@ -886,10 +885,6 @@
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [tsuru/tsuru](https://github.com/tsuru/tsuru) - Open source and extensible Platform as a Service (PaaS).
-
-## godot 
-
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game engines.
 
 ## golang 
 
@@ -2847,7 +2842,6 @@
 
 ## unity 
 
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game engines.
 - [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 - [pixelnest/tutorial-2d-game-unity](https://github.com/pixelnest/tutorial-2d-game-unity) - Unity tutorial to learn how to make a complete 2D Shoot'em Up
 
