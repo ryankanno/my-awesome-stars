@@ -1047,7 +1047,7 @@
 
 ## Python 
 
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for genesis models
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game engines.
