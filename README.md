@@ -348,6 +348,7 @@
 
 ## Go 
 
+- [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 - [google/golden-path-for-app-delivery](https://github.com/google/golden-path-for-app-delivery) - 
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
