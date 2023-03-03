@@ -180,6 +180,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
 - [web-components](#web-components)
@@ -2321,6 +2322,7 @@
 - [Diablo-D3/DiabloMiner](https://github.com/Diablo-D3/DiabloMiner) - OpenCL miner for Bitcoin
 - [node-js-libs/node.io](https://github.com/node-js-libs/node.io) - 
 - [jnwhiteh/vim-golang](https://github.com/jnwhiteh/vim-golang) - Github mirror of Go vimscripts, synced with main repository
+- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [Yelp/mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
 - [Yelp/Tron](https://github.com/Yelp/Tron) - Next generation batch process scheduling and management
 - [infews/keydown](https://github.com/infews/keydown) - An HTML5 presentation builder
@@ -2897,6 +2899,10 @@
 ## vue 
 
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+
+## vuejs 
+
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 
 ## wagtail 
 
