@@ -1673,6 +1673,7 @@
 - [goldfeld/vim-seek](https://github.com/goldfeld/vim-seek) - Seek makes navigating long lines effortless, acting like f but taking two characters.
 - [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
 - [jeetsukumaran/vim-buffergator](https://github.com/jeetsukumaran/vim-buffergator) - Vim plugin to list, select and switch between buffers.
+- [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [ryankanno/vim-config](https://github.com/ryankanno/vim-config) - My vim configuration.  Complete with plugin goodness.
 - [scrooloose/snipmate-snippets](https://github.com/scrooloose/snipmate-snippets) - A collection of snippets for snipmate
 
