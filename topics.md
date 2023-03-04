@@ -180,7 +180,6 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
 - [web-components](#web-components)
@@ -1475,6 +1474,7 @@
 
 ## others 
 
+- [PyCQA/redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
@@ -2899,10 +2899,6 @@
 ## vue 
 
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-
-## vuejs 
-
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 
 ## wagtail 
 
