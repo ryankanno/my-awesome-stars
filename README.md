@@ -1312,7 +1312,7 @@
 - [rgbkrk/bookstore](https://github.com/rgbkrk/bookstore) - :books: IPython notebook storage on OpenStack clouds
 - [polvi/twilionagios](https://github.com/polvi/twilionagios) - Tools for integrating Twilio and Nagios
 - [PyCQA/isort](https://github.com/PyCQA/isort) - A Python utility / library to sort imports.
-- [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [9thbitio/link](https://github.com/9thbitio/link) - 
 - [phyllisstein/alp](https://github.com/phyllisstein/alp) - A Python module for Alfred v2 workflows
 - [hzlzh/AlfredWorkflow.com](https://github.com/hzlzh/AlfredWorkflow.com) - A public Collection of Alfred Workflows.
