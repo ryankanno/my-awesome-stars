@@ -791,7 +791,7 @@
 
 ## game-development 
 
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game engines.
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game engine/apps.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -2587,7 +2587,7 @@
 
 ## python3 
 
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game engines.
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - C++17 header-only Python interpreter for game engine/apps.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
