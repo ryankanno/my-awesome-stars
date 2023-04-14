@@ -1053,6 +1053,8 @@
 
 ## Python 
 
+- [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
+- [lightaime/camel](https://github.com/lightaime/camel) - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [nuprl/MultiPL-E](https://github.com/nuprl/MultiPL-E) - A multi-programming language benchmark for evaluating the performance of large language model of code.
