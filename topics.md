@@ -273,6 +273,8 @@
 
 ## artificial-intelligence 
 
+- [lightaime/camel](https://github.com/lightaime/camel) - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+- [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 
@@ -583,6 +585,7 @@
 
 ## deep-learning 
 
+- [lightaime/camel](https://github.com/lightaime/camel) - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [dair-ai/Transformers-Recipe](https://github.com/dair-ai/Transformers-Recipe) - 🧠 A study guide to learn about Transformers
 - [saltudelft/ml4se](https://github.com/saltudelft/ml4se) - A curated list of papers, theses, datasets, and tools related to the application of Machine Learning for Software Engineering
@@ -1506,11 +1509,11 @@
 
 ## others 
 
+- [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [nuprl/MultiPL-E](https://github.com/nuprl/MultiPL-E) - A multi-programming language benchmark for evaluating the performance of large language model of code.
 - [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
-- [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [PyCQA/redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Discover the connections of thought in your Obsidian vault
