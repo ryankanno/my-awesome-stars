@@ -2396,7 +2396,6 @@
 - [datafolklabs/cement](https://github.com/datafolklabs/cement) - Application Framework for Python
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [joestump/python-oauth2](https://github.com/joestump/python-oauth2) - A fully tested, abstract interface to creating OAuth clients and servers.
 - [imathis/octopress](https://github.com/imathis/octopress) - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
 - [ba0f3/android_packages_apps_Mms](https://github.com/ba0f3/android_packages_apps_Mms) - Android MMS (cyanogenmod)
@@ -2618,6 +2617,7 @@
 - [Frozen-Flask/Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [bottlepy/bottle](https://github.com/bottlepy/bottle) - bottle.py is a fast and simple micro-framework for python web-applications.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
