@@ -138,6 +138,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -1248,6 +1249,7 @@
 
 ## language 
 
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python interpreter in 1 file
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -2443,6 +2445,10 @@
 
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+
+## penetration-testing 
+
+- [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 
 ## php 
 
