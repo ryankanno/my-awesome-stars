@@ -1222,7 +1222,7 @@
 - [pudo/graphkit](https://github.com/pudo/graphkit) - Process data based on JSON schema
 - [EducationalTestingService/skll](https://github.com/EducationalTestingService/skll) - SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.
 - [lindemer/baldr](https://github.com/lindemer/baldr) - Quadcopter flight simulator
-- [projectmesa/mesa](https://github.com/projectmesa/mesa) - Mesa is an agent-based modeling framework in Python
+- [projectmesa/mesa](https://github.com/projectmesa/mesa) - Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
 - [zygmuntz/phraug2](https://github.com/zygmuntz/phraug2) - A new version of phraug, which is a set of simple Python scripts for pre-processing large files
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/p
