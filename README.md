@@ -1474,7 +1474,7 @@
 - [ryankanno/uwsgi-vagrant](https://github.com/ryankanno/uwsgi-vagrant) - A Vagrant instance to help you get started with WSGI applications.
 - [alsmola/nopassword](https://github.com/alsmola/nopassword) - An authentication and session management framework that eliminates the need for passwords.
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [jedi4ever/sahara](https://github.com/jedi4ever/sahara) - a plugin for vagrant that allows you manage a sandbox state
 - [play/play](https://github.com/play/play) - play ► — your company's dj
 - [puppetlabs-toy-chest/puppetlabs-cloud_provisioner](https://github.com/puppetlabs-toy-chest/puppetlabs-cloud_provisioner) - Puppet Cloudpack
