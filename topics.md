@@ -1777,7 +1777,7 @@
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) - tpope's dotfiles. DON'T USE unless you're tpope
 - [karpathy/char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 - [lindemer/baldr](https://github.com/lindemer/baldr) - Quadcopter flight simulator
-- [projectmesa/mesa](https://github.com/projectmesa/mesa) - Mesa is an agent-based modeling framework in Python
+- [projectmesa/mesa](https://github.com/projectmesa/mesa) - Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
 - [rimusz/coreos-kubernetes-cluster-osx](https://github.com/rimusz/coreos-kubernetes-cluster-osx) - CoreOS-Kubernetes cluster for OS X
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
 - [romain-jacotin/quic](https://github.com/romain-jacotin/quic) - QUIC Protocol in Go language
@@ -2337,7 +2337,7 @@
 - [hicapacity/foodtrucks](https://github.com/hicapacity/foodtrucks) - Food Trucks
 - [NarrativeScience-old/log.io](https://github.com/NarrativeScience-old/log.io) - Real-time log monitoring in your browser
 - [Nerds/NerdPursuit](https://github.com/Nerds/NerdPursuit) - Chase down those nerds .. This repo gathers nerd-questions, so everybody can play geeky questions-answer games and check the nerd level of your buddies.
-- [github/linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [progrium/ginkgo](https://github.com/progrium/ginkgo) - Python service microframework
 - [jedi4ever/sahara](https://github.com/jedi4ever/sahara) - a plugin for vagrant that allows you manage a sandbox state
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
