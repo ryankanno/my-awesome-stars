@@ -1054,6 +1054,7 @@
 
 ## Python 
 
+- [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
