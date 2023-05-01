@@ -676,7 +676,7 @@
 - [MandarinConLaBarba/flux-immutable-todomvc](https://github.com/MandarinConLaBarba/flux-immutable-todomvc) - Uses ImmutableJS as described in the presentation by @leebyron at React Conf 2015.
 - [chrisharrington/Leaf](https://github.com/chrisharrington/Leaf) - 
 - [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
-- [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+- [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 - [openplans/shareabouts](https://github.com/openplans/shareabouts) - Shareabouts is a mapping application for crowdsourced info gathering.
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
 - [RisingStack/graphql-server](https://github.com/RisingStack/graphql-server) - Example GraphQL server with Mongoose (MongoDB) and Node.js
