@@ -275,6 +275,7 @@
 ## artificial-intelligence 
 
 - [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
@@ -521,7 +522,7 @@
 ## css 
 
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-- [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+- [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 - [molivier/nest](https://github.com/molivier/nest) - Nest Pelican Template
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -2766,7 +2767,7 @@
 
 ## sass 
 
-- [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+- [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## scala 
