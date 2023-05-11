@@ -1129,6 +1129,7 @@
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 - [codechimp-org/AppRater](https://github.com/codechimp-org/AppRater) - AppRater Library for Android
+- [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [twineworks/ruby-for-pentaho-kettle](https://github.com/twineworks/ruby-for-pentaho-kettle) - Ruby scripting for pentaho-kettle
 
