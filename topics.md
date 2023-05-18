@@ -1518,6 +1518,7 @@
 
 ## others 
 
+- [HumanCompatibleAI/imitation](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [minalee-research/coauthor-interface](https://github.com/minalee-research/coauthor-interface) - 
