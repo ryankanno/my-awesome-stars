@@ -276,7 +276,7 @@
 
 - [lightaime/camel](https://github.com/lightaime/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [noahshinn024/reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: an autonomous agent with dynamic memory and self-reflection
+- [noahshinn024/reflexion-draft](https://github.com/noahshinn024/reflexion-draft) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
 
