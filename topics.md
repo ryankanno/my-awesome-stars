@@ -2123,7 +2123,7 @@
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [coolwanglu/vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [machinalis/telegraphy](https://github.com/machinalis/telegraphy) - Telegraphy provides real time events for WSGI Python applications
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
