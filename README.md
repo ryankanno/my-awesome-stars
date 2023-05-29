@@ -119,7 +119,7 @@
 - [tsgates/mbox](https://github.com/tsgates/mbox) - A lightweight sandbox tool for non-root users
 - [frida/frida-python](https://github.com/frida/frida-python) - Frida Python bindings
 - [coolwanglu/vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - How to Make a Computer Operating System in C++
 - [google/latency-benchmark](https://github.com/google/latency-benchmark) - Tests web browser input latency and jank
 - [facebookarchive/libphenom](https://github.com/facebookarchive/libphenom) - An eventing framework for building high performance and high scalability systems in C.
