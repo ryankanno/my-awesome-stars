@@ -215,7 +215,7 @@
 
 ## C++ 
 
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python interpreter in 1 file
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python interpreter in 1 file for game scripting
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - UCI chess engine
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
