@@ -949,7 +949,7 @@
 - [mweagle/Sparta](https://github.com/mweagle/Sparta) - go microservices, powered by AWS Lambda
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [levigross/grequests](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library
@@ -1007,7 +1007,7 @@
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [ThiefMaster/maildump](https://github.com/ThiefMaster/maildump) - A python-based mailcatcher clone
@@ -1527,6 +1527,7 @@
 
 ## others 
 
+- [langchain-ai/auto-evaluator](https://github.com/langchain-ai/auto-evaluator) - 
 - [HumanCompatibleAI/imitation](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
@@ -2708,7 +2709,7 @@
 - [jpmorganchase/modular](https://github.com/jpmorganchase/modular) - A modular front end development framework
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
@@ -2720,7 +2721,7 @@
 
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 
 ## reactiveui 
 
