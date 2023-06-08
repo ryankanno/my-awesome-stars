@@ -2282,7 +2282,7 @@
 - [rickyrauch/Balloons.IO](https://github.com/rickyrauch/Balloons.IO) - Balloons.IO is a web multi-room chat server and client ready to use. It’s built with the help of node.JS, Express, Socket.IO and Redis. Balloons uses PassportJS for authentication with Twitter and Fac
 - [msantos/erlang-libvirt](https://github.com/msantos/erlang-libvirt) - Erlang binding to libvirt virtualization API
 - [msantos/verx](https://github.com/msantos/verx) - Erlang implementation of the libvirtd remote protocol
-- [elasticinbox/elasticinbox](https://github.com/elasticinbox/elasticinbox) - ElasticInbox - scalable, distributed email store
+- [elasticinbox/elasticinbox-java](https://github.com/elasticinbox/elasticinbox-java) - ElasticInbox - scalable, distributed email store
 - [rcrowley/goagain](https://github.com/rcrowley/goagain) - Zero-downtime restarts in Go
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [devongovett/reader](https://github.com/devongovett/reader) - An API Compatible Replacement for Google Reader
