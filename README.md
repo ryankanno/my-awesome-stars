@@ -618,7 +618,7 @@
 - [Netflix/SimianArmy](https://github.com/Netflix/SimianArmy) - Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/archaius](https://github.com/Netflix/archaius) - Library for configuration management API
 - [jeffheaton/aifh](https://github.com/jeffheaton/aifh) - Artificial Intelligence for Humans
-- [elasticinbox/elasticinbox](https://github.com/elasticinbox/elasticinbox) - ElasticInbox - scalable, distributed email store
+- [elasticinbox/elasticinbox-java](https://github.com/elasticinbox/elasticinbox-java) - ElasticInbox - scalable, distributed email store
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [xamarin/XobotOS](https://github.com/xamarin/XobotOS) - XobotOS - Android ported to C#
 - [nicolasgramlich/AndEngine](https://github.com/nicolasgramlich/AndEngine) - Free Android 2D OpenGL Game Engine
