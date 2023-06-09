@@ -635,7 +635,7 @@
 
 - [minalee-research/coauthor-interface](https://github.com/minalee-research/coauthor-interface) - 
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
-- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
@@ -795,7 +795,6 @@
 - [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
 - [node-js-libs/node.io](https://github.com/node-js-libs/node.io) - 
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [infews/keydown](https://github.com/infews/keydown) - An HTML5 presentation builder
 - [mishoo/UglifyJS-old](https://github.com/mishoo/UglifyJS-old) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [wesabe/ssu](https://github.com/wesabe/ssu) - Server-Side Uploader, the data aggregation engine.
@@ -1063,6 +1062,7 @@
 
 ## Python 
 
+- [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [HumanCompatibleAI/imitation](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
 - [Instagram/LibCST](https://github.com/Instagram/LibCST) - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
@@ -1509,7 +1509,7 @@
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [mhogrefe/malachite](https://github.com/mhogrefe/malachite) - An arbitrary-precision arithmetic library for Rust.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -1607,6 +1607,7 @@
 - [ryankanno/bash-it](https://github.com/ryankanno/bash-it) - A community bash framework.
 - [Nerds/NerdPursuit](https://github.com/Nerds/NerdPursuit) - Chase down those nerds .. This repo gathers nerd-questions, so everybody can play geeky questions-answer games and check the nerd level of your buddies.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [CyanogenMod/android_vendor_cyanogen](https://github.com/CyanogenMod/android_vendor_cyanogen) - CyanogenMod Android vendor tree
 - [viccherubini/get-shit-done](https://github.com/viccherubini/get-shit-done) - Small script to configure your hosts file so you don't get distracted during the day.
 
