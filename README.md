@@ -1063,6 +1063,7 @@
 
 ## Python 
 
+- [missionpinball/mpf-docs](https://github.com/missionpinball/mpf-docs) - missionpinball.org website content & all MPF docs
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [HumanCompatibleAI/imitation](https://github.com/HumanCompatibleAI/imitation) - Clean PyTorch implementations of imitation and reward learning algorithms
 - [r2d4/rellm](https://github.com/r2d4/rellm) - Exact structure out of any language model completion.
