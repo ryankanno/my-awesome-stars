@@ -376,7 +376,7 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [jonhadfield/soba](https://github.com/jonhadfield/soba) - backup private and public github, gitlab and bitbucket repositories
+- [jonhadfield/soba](https://github.com/jonhadfield/soba) - backup private and public github, gitlab, bitbucket, and gitea repositories
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
@@ -673,7 +673,6 @@
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [datanews/tik-tok](https://github.com/datanews/tik-tok) - Tik Tok is a Javascript tool to easily create beautiful, simple, mobile-friendly, vertical timelines.
 - [ducksboard/gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
-- [wprl/baucis](https://github.com/wprl/baucis) - Baucis enables you to build scalable REST APIs using the open source tools and standards you and your team already know.
 - [honey/honey](https://github.com/honey/honey) - The human-friendly object notation
 - [superscriptjs/superscript](https://github.com/superscriptjs/superscript) - A dialogue engine for creating chat bots
 - [google/end-to-end](https://github.com/google/end-to-end) - End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP)
@@ -926,7 +925,7 @@
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [KatieLo/README](https://github.com/KatieLo/README) - My leadership readme/operating manual
-- [Police-Data-Accessibility-Project/planning](https://github.com/Police-Data-Accessibility-Project/planning) - The core PDAP application for law enforcement data consumption
+- [Police-Data-Accessibility-Project/planning](https://github.com/Police-Data-Accessibility-Project/planning) - Planning our activities with issues that don't fit in a specific repository yet.
 - [SE-ML/awesome-seml](https://github.com/SE-ML/awesome-seml) - A curated list of articles that cover the software engineering best practices for building machine learning applications.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [dterei/Research-Papers](https://github.com/dterei/Research-Papers) - Collection of various research papers I find interesting
