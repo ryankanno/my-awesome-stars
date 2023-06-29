@@ -1855,7 +1855,6 @@
 - [haywire/haywire](https://github.com/haywire/haywire) - Haywire is an asynchronous HTTP server framework written in C that's built using the event loop based libuv platform layer that node.js is built on top of.
 - [funkymonkeymonk/terraform-demo](https://github.com/funkymonkeymonk/terraform-demo) - A demo of terraform.io creating CoreOS instances.
 - [xordataexchange/crypt](https://github.com/xordataexchange/crypt) - Store and retrieve encrypted configs from etcd or consul
-- [democracyworks/consul-coreos](https://github.com/democracyworks/consul-coreos) - Bootstraps a Consul cluster on CoreOS using fleet and etcd
 - [rdegges/flask-dynamo](https://github.com/rdegges/flask-dynamo) - DynamoDB integration for Flask.
 - [ContainerSolutions/terraform-mesos](https://github.com/ContainerSolutions/terraform-mesos) - Stuff for programming a Mesos cluster on the Google Cloud
 - [flowchartsman/deadman](https://github.com/flowchartsman/deadman) - A usb-based dead man's switch
