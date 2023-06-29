@@ -1579,7 +1579,6 @@
 - [rimusz/coreos-kubernetes-cluster-osx](https://github.com/rimusz/coreos-kubernetes-cluster-osx) - CoreOS-Kubernetes cluster for OS X
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [funkymonkeymonk/terraform-demo](https://github.com/funkymonkeymonk/terraform-demo) - A demo of terraform.io creating CoreOS instances.
-- [democracyworks/consul-coreos](https://github.com/democracyworks/consul-coreos) - Bootstraps a Consul cluster on CoreOS using fleet and etcd
 - [ContainerSolutions/terraform-mesos](https://github.com/ContainerSolutions/terraform-mesos) - Stuff for programming a Mesos cluster on the Google Cloud
 - [gilesbowkett/rewind](https://github.com/gilesbowkett/rewind) - Rewind is an intelligent archivist.
 - [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applica
