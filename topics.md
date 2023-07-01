@@ -365,7 +365,7 @@
 ## aws 
 
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
-- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments
+- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Complex Cloud Environments
 - [99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments
 - [softprops/serverless-rust](https://github.com/softprops/serverless-rust) - ⚡ 🦀 a serverless framework plugin for rustlang applications
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
@@ -650,7 +650,7 @@
 
 ## devops 
 
-- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments
+- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Complex Cloud Environments
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
@@ -1262,7 +1262,7 @@
 ## kubernetes 
 
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments
+- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Complex Cloud Environments
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
@@ -2938,7 +2938,7 @@
 ## terraform 
 
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
-- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Cloud Environments
+- [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Open Source Solution for Managing Complex Cloud Environments
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
 - [skyscrapers/terraform-website-s3-cloudfront-route53](https://github.com/skyscrapers/terraform-website-s3-cloudfront-route53) - Terraform scripts to setup an S3 based static website, with a CloudFront distribution and the required Route53 entries.
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
