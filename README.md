@@ -95,7 +95,7 @@
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
 - [alibaba/nginx-http-sysguard](https://github.com/alibaba/nginx-http-sysguard) - A Nginx module to protect servers when system load or memory use goes too high.
 - [sustrik/libmill](https://github.com/sustrik/libmill) - Go-style concurrency in C
