@@ -1066,6 +1066,7 @@
 
 ## Python 
 
+- [evhub/coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [missionpinball/mpf-docs](https://github.com/missionpinball/mpf-docs) - missionpinball.org website content & all MPF docs
