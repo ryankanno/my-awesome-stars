@@ -77,6 +77,7 @@
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -233,7 +234,7 @@
 
 ## android 
 
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [janishar/android-mvvm-architecture](https://github.com/janishar/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
@@ -848,7 +849,7 @@
 
 ## game-development 
 
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python interpreter in 1 file for game scripting
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -876,6 +877,11 @@
 ## games 
 
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+
+## gis 
+
+- [projectmesa/mesa](https://github.com/projectmesa/mesa) - Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
+- [wavded/ogre](https://github.com/wavded/ogre) - ogr2ogr geojson-focused web client
 
 ## git 
 
@@ -993,7 +999,7 @@
 
 ## google 
 
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud
 - [papanikge/vim-voogle](https://github.com/papanikge/vim-voogle) - google for the word under the cursor to a browser because 2013
 
@@ -1295,7 +1301,7 @@
 ## language 
 
 - [evhub/coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python interpreter in 1 file for game scripting
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
@@ -1565,6 +1571,8 @@
 
 ## others 
 
+- [bigcode-project/bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness) - A framework for the evaluation of autoregressive code generation language models.
+- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
@@ -1839,7 +1847,6 @@
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) - tpope's dotfiles. DON'T USE unless you're tpope
 - [karpathy/char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 - [lindemer/baldr](https://github.com/lindemer/baldr) - Quadcopter flight simulator
-- [projectmesa/mesa](https://github.com/projectmesa/mesa) - Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
 - [rimusz/coreos-kubernetes-cluster-osx](https://github.com/rimusz/coreos-kubernetes-cluster-osx) - CoreOS-Kubernetes cluster for OS X
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
 - [romain-jacotin/quic](https://github.com/romain-jacotin/quic) - QUIC Protocol in Go language
@@ -1866,7 +1873,6 @@
 - [MuseumofModernArt/collection](https://github.com/MuseumofModernArt/collection) - The Museum of Modern Art (MoMA) collection data
 - [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [gpbl/isomorphic500](https://github.com/gpbl/isomorphic500) - A 500px app built with React and Fluxible with babeljs
-- [wavded/ogre](https://github.com/wavded/ogre) - ogr2ogr geojson-focused web client
 - [samyk/proxygambit](https://github.com/samyk/proxygambit) - Anonymize and fracture network traffic/Internet access over a point-to-point wireless link or through TCP-&gt;GSM-&gt;wifi tunnel (advanced resurrection of ProxyHam)
 - [cloudfoundry-attic/lattice-release](https://github.com/cloudfoundry-attic/lattice-release) - Lattice
 - [kubernetes-up-and-running/dockerfiles](https://github.com/kubernetes-up-and-running/dockerfiles) - 
@@ -2701,7 +2707,7 @@
 
 ## python3 
 
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python interpreter in 1 file for game scripting
+- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
@@ -2812,7 +2818,7 @@
 
 ## rust 
 
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [GammaTauAI/opentau](https://github.com/GammaTauAI/opentau) - Using Large Language Models for Gradual Type Inference
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
