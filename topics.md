@@ -2183,7 +2183,7 @@
 - [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [yardenac/ppf](https://github.com/yardenac/ppf) - Past, Present, Future
-- [alphagov/router](https://github.com/alphagov/router) - Router in front on GOV.UK to proxy to backend servers on the single domain
+- [alphagov/router](https://github.com/alphagov/router) - HTTP router in front of GOV.UK to proxy to backend servers on a single domain.
 - [jawerty/btcl](https://github.com/jawerty/btcl) - Follow Bitcoin exchanges from your terminal.
 - [sethlilly/Vapor](https://github.com/sethlilly/Vapor) - A minimal, responsive theme for Ghost.
 - [owin/owin.dll](https://github.com/owin/owin.dll) - OWIN defines a standard interface between .NET web servers and web applications.
