@@ -730,6 +730,7 @@
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 
 ## dotnet 
 
@@ -1423,6 +1424,7 @@
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [jasonrudolph/keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
@@ -1663,7 +1665,7 @@
 - [KatieLo/README](https://github.com/KatieLo/README) - My leadership readme/operating manual
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [minimaxir/person-blocker](https://github.com/minimaxir/person-blocker) - Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
-- [Police-Data-Accessibility-Project/planning](https://github.com/Police-Data-Accessibility-Project/planning) - Planning our activities with issues that don't fit in a specific repository yet.
+- [Police-Data-Accessibility-Project/meta](https://github.com/Police-Data-Accessibility-Project/meta) - Planning our activities with issues that don't fit in a specific repository yet.
 - [2020PB/police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
 - [LanaSina/evolutionary_illusion_generator](https://github.com/LanaSina/evolutionary_illusion_generator) - EIGen: Evolutionary Illusion Generator, based on predictive coding.
 - [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
@@ -2187,7 +2189,6 @@
 - [jawerty/btcl](https://github.com/jawerty/btcl) - Follow Bitcoin exchanges from your terminal.
 - [sethlilly/Vapor](https://github.com/sethlilly/Vapor) - A minimal, responsive theme for Ghost.
 - [owin/owin.dll](https://github.com/owin/owin.dll) - OWIN defines a standard interface between .NET web servers and web applications.
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [hannes-brt/hebel](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python
 - [sarakata/Recipes](https://github.com/sarakata/Recipes) - Cooking and baking all the things.
@@ -2807,6 +2808,7 @@
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [twineworks/ruby-for-pentaho-kettle](https://github.com/twineworks/ruby-for-pentaho-kettle) - Ruby scripting for pentaho-kettle
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [layervault/psd.rb](https://github.com/layervault/psd.rb) - Parse Photoshop files in Ruby with ease
 - [gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
