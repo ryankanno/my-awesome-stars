@@ -930,7 +930,7 @@
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
 - [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
 - [KatieLo/README](https://github.com/KatieLo/README) - My leadership readme/operating manual
-- [Police-Data-Accessibility-Project/planning](https://github.com/Police-Data-Accessibility-Project/planning) - Planning our activities with issues that don't fit in a specific repository yet.
+- [Police-Data-Accessibility-Project/meta](https://github.com/Police-Data-Accessibility-Project/meta) - Planning our activities with issues that don't fit in a specific repository yet.
 - [SE-ML/awesome-seml](https://github.com/SE-ML/awesome-seml) - A curated list of articles that cover the software engineering best practices for building machine learning applications.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [dterei/Research-Papers](https://github.com/dterei/Research-Papers) - Collection of various research papers I find interesting
