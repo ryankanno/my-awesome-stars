@@ -515,6 +515,7 @@
 
 ## cpp 
 
+- [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -1604,7 +1605,6 @@
 - [viznut/vzgpt](https://github.com/viznut/vzgpt) - Viznut's C-only GPT-2 implementation
 - [fsmosca/eco](https://github.com/fsmosca/eco) - Encyclopedia of Chess Opening
 - [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) - An aggregated data set of chess opening names
-- [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [google/golden-path-for-app-delivery](https://github.com/google/golden-path-for-app-delivery) - 
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
