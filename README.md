@@ -1190,7 +1190,7 @@
 - [erik/alexandra](https://github.com/erik/alexandra) - Python toolkit for writing Amazon Echo skills as web services
 - [uggla/alexandria](https://github.com/uggla/alexandria) - Alexandria (Refer to the Great Library of Alexandria) is an “inventory as a service” project that will be written in python. Alexandria will help datacenter team to maintain automatically a CMDB.
 - [anjishnu/ask-alexa-pykit](https://github.com/anjishnu/ask-alexa-pykit) - A minimalist SDK for developing skills for the Amazon Echo's ASK - Alexa Skills Kit using Amazon Web Services's Python Lambda Functions. Currently supported profiles are for Linux servers and AWS Lamb
-- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
+- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [ubergeek42/lambda-letsencrypt](https://github.com/ubergeek42/lambda-letsencrypt) - Free Lets-Encrypt certificate management for CloudFront/AWS
 - [garnaat/kappa](https://github.com/garnaat/kappa) - What precedes Lambda
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
