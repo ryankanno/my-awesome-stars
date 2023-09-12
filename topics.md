@@ -1734,7 +1734,7 @@
 - [timwis/csv-schema](https://github.com/timwis/csv-schema) - Analyzes a CSV file and generates database table schema, all within the browser
 - [FaridSafi/react-native-basketball](https://github.com/FaridSafi/react-native-basketball) - 🏀 React-Native clone of the Facebook Basketball game
 - [uggla/alexandria](https://github.com/uggla/alexandria) - Alexandria (Refer to the Great Library of Alexandria) is an “inventory as a service” project that will be written in python. Alexandria will help datacenter team to maintain automatically a CMDB.
-- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
+- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [ubergeek42/lambda-letsencrypt](https://github.com/ubergeek42/lambda-letsencrypt) - Free Lets-Encrypt certificate management for CloudFront/AWS
 - [garnaat/kappa](https://github.com/garnaat/kappa) - What precedes Lambda
 - [antontarasenko/smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
