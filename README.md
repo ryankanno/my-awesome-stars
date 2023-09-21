@@ -1034,7 +1034,7 @@
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
 - [raamdev/independent-publisher](https://github.com/raamdev/independent-publisher) - A beautiful reader-focused WordPress theme, for you.
 - [etsy/morgue](https://github.com/etsy/morgue) - post mortem tracker
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [Chicago/metalicious](https://github.com/Chicago/metalicious) - An open source data dictionary which can be deployed to track the metadata of one or more databases.
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [ryankanno/wordpress-themes](https://github.com/ryankanno/wordpress-themes) - Just some wordpress themes I've worked on
@@ -1480,7 +1480,7 @@
 - [virtuald/vagrant-rekey-ssh](https://github.com/virtuald/vagrant-rekey-ssh) - Obsolete after Vagrant 1.7. Vagrant plugin which plugs default gaping holes in a vagrant box
 - [pickhardt/betty](https://github.com/pickhardt/betty) - Friendly English-like interface for your command line. Don't remember a command? Ask Betty.
 - [codegangsta/alfred-teamocil](https://github.com/codegangsta/alfred-teamocil) - A teamocil launcher for Alfred
-- [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [jawerty/btcl](https://github.com/jawerty/btcl) - Follow Bitcoin exchanges from your terminal.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
