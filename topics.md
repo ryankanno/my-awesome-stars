@@ -190,7 +190,6 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [wagtail](#wagtail)
 - [web](#web)
 - [web-components](#web-components)
@@ -1319,7 +1318,7 @@
 
 ## laravel 
 
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 
 ## learning 
 
@@ -2185,7 +2184,7 @@
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [machinalis/telegraphy](https://github.com/machinalis/telegraphy) - Telegraphy provides real time events for WSGI Python applications
-- [sferik/t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [yardenac/ppf](https://github.com/yardenac/ppf) - Past, Present, Future
 - [alphagov/router](https://github.com/alphagov/router) - HTTP router in front of GOV.UK to proxy to backend servers on a single domain.
@@ -2524,7 +2523,6 @@
 
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 
@@ -3054,10 +3052,6 @@
 ## vue 
 
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-
-## vuejs 
-
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 
 ## wagtail 
 
