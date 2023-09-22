@@ -486,7 +486,7 @@
 - [pquerna/hurl](https://github.com/pquerna/hurl) - hurl: hurt a url.
 - [flynn-archive/go-discoverd](https://github.com/flynn-archive/go-discoverd) - Archived -- see https://github.com/flynn/flynn
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [pksunkara/alpaca](https://github.com/pksunkara/alpaca) - Given a web API, Generate client libraries in node, php, python, ruby
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
 - [flynn-archive/discoverd](https://github.com/flynn-archive/discoverd) - Archived -- see https://github.com/flynn/flynn
