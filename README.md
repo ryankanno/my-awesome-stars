@@ -372,7 +372,7 @@
 - [lanrat/czds](https://github.com/lanrat/czds) - simple golang API and tools to interact with czds.icann.org
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
-- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
@@ -429,7 +429,6 @@
 - [icecrime/vossibility-collector](https://github.com/icecrime/vossibility-collector) - Open Source visibility
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [ericflo/kube-http-proxy](https://github.com/ericflo/kube-http-proxy) - Easily run a reverse proxy for all your Kubernetes http and https traffic.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [romain-jacotin/quic](https://github.com/romain-jacotin/quic) - QUIC Protocol in Go language
@@ -807,7 +806,7 @@
 - [wesabe/ssu](https://github.com/wesabe/ssu) - Server-Side Uploader, the data aggregation engine.
 - [indexzero/http-agent](https://github.com/indexzero/http-agent) - A simple agent for performing a sequence of http requests in node.js
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
-- [harthur/brain](https://github.com/harthur/brain) - [UNMAINTAINED] Simple feed-forward neural network in JavaScript
+- [harthur/brain](https://github.com/harthur/brain) - Simple feed-forward neural network in JavaScript
 - [mnutt/hummingbird](https://github.com/mnutt/hummingbird) - Real time web analytics using node.js and web sockets
 - [holman/boastful](https://github.com/holman/boastful) - A jQuery plugin to trawl Twitter for people linking to you.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -1522,6 +1521,7 @@
 
 ## Rust 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [GammaTauAI/opentau](https://github.com/GammaTauAI/opentau) - Using Large Language Models for Gradual Type Inference
@@ -1551,6 +1551,7 @@
 - [nebulet/nebulet](https://github.com/nebulet/nebulet) - A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [facebookarchive/witd](https://github.com/facebookarchive/witd) - witd, a daemon to easily communicate with Wit
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [jeaye/q3](https://github.com/jeaye/q3) - A Quake 3 like game with voxelized, destructible maps; written in Rust
