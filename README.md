@@ -237,7 +237,7 @@
 - [googleprojectzero/Street-Party](https://github.com/googleprojectzero/Street-Party) - Street Party is a suite of tools that allows the RTP streams of video conferencing implementations to be viewed and modified.
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
-- [google/bloaty](https://github.com/google/bloaty) - Bloaty McBloatface: a size profiler for binaries
+- [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [eijah/demoncrypt](https://github.com/eijah/demoncrypt) - Believe in the Right to Share.  Secure, Anonymous, Free, Everywhere.  Welcome to the Future of File Sharing.
