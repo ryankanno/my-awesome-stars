@@ -826,6 +826,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & command-line tool to easily transcribe speech-based video files into clean text
