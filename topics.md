@@ -1056,6 +1056,7 @@
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [addok/addok](https://github.com/addok/addok) - Search engine for address. Only address.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
@@ -1727,7 +1728,6 @@
 - [google/bloaty](https://github.com/google/bloaty) - Bloaty: a size profiler for binaries
 - [avelino/liquidluck](https://github.com/avelino/liquidluck) - Felix Felicis (aka liquidluck) is a static blog generator in python
 - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
-- [addok/addok](https://github.com/addok/addok) - Search engine for address. Only address.
 - [rickey-g/fancybear](https://github.com/rickey-g/fancybear) - Fancy Bear Source Code
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
