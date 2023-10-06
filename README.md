@@ -231,7 +231,7 @@
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for working with audio.
-- [aappleby/MetroBoy](https://github.com/aappleby/MetroBoy) - A repository of gate-level simulators and tools for the original Game Boy.
+- [aappleby/metroboy](https://github.com/aappleby/metroboy) - A repository of gate-level simulators and tools for the original Game Boy.
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) - Learning embeddings for classification, retrieval and ranking.
 - [googleprojectzero/Street-Party](https://github.com/googleprojectzero/Street-Party) - Street Party is a suite of tools that allows the RTP streams of video conferencing implementations to be viewed and modified.
@@ -1072,6 +1072,7 @@
 
 ## Python 
 
+- [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [s9roll7/animatediff-cli-prompt-travel](https://github.com/s9roll7/animatediff-cli-prompt-travel) - animatediff prompt travel
 - [VikParuchuri/textbook_quality](https://github.com/VikParuchuri/textbook_quality) - Generate textbook-quality LLM pretraining data
