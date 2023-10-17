@@ -531,6 +531,7 @@
 
 ## HTML 
 
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
@@ -1662,6 +1663,7 @@
 
 ## TeX 
 
+- [KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers) - Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).
 - [0xjac/master-thesis](https://github.com/0xjac/master-thesis) - Written report for my master thesis
 - [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
 - [AllenDowney/ThinkOS](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems, by Allen Downey.
