@@ -140,6 +140,7 @@
 
 ## C# # 
 
+- [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [microsoft/NugetNinja](https://github.com/microsoft/NugetNinja) - A tool for detecting dependencies of .NET projects.
 - [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
