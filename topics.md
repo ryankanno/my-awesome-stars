@@ -993,6 +993,7 @@
 
 ## golang 
 
+- [facebookincubator/nvdtools](https://github.com/facebookincubator/nvdtools) - A set of tools to work with the feeds (vulnerabilities, CPE dictionary etc.) distributed by National Vulnerability Database (NVD)
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
@@ -1050,7 +1051,6 @@
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 - [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
@@ -1612,6 +1612,8 @@
 
 ## others 
 
+- [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
+- [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [Tom-A-Roberts/LangQuest](https://github.com/Tom-A-Roberts/LangQuest) - Using LangChain, GPT-3.5, Chain of thought reasoning to create a Dungeons and Dragons type experience. Complete with hitpoints, inventory, storyline, immersive image generation, and more
 - [xjorma/EarthMeshHoudini](https://github.com/xjorma/EarthMeshHoudini) - Generate real world meshes in Houdini using the Google API.
@@ -2617,7 +2619,6 @@
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & command-line tool to easily transcribe speech-based video files into clean text
@@ -2927,6 +2928,7 @@
 
 ## security 
 
+- [facebookincubator/nvdtools](https://github.com/facebookincubator/nvdtools) - A set of tools to work with the feeds (vulnerabilities, CPE dictionary etc.) distributed by National Vulnerability Database (NVD)
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [google/sandboxed-api](https://github.com/google/sandboxed-api) - Generate sandboxes for C/C++ libraries automatically
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
