@@ -1097,7 +1097,7 @@
 - [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-- [neelnanda-io/TransformerLens](https://github.com/neelnanda-io/TransformerLens) - 
+- [neelnanda-io/TransformerLens](https://github.com/neelnanda-io/TransformerLens) - A library for mechanistic interpretability of GPT-style language models
 - [bigcode-project/bigcode-evaluation-harness](https://github.com/bigcode-project/bigcode-evaluation-harness) - A framework for the evaluation of autoregressive code generation language models.
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [evhub/coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
@@ -1384,7 +1384,7 @@
 - [harperreed/chromecast-control](https://github.com/harperreed/chromecast-control) - Control a chromecast with python
 - [bslatkin/dpxdt](https://github.com/bslatkin/dpxdt) - Make continuous deployment safe by comparing before and after webpage screenshots for each release. Depicted shows when any visual, perceptual differences are found. This is the ultimate, automated en
 - [deis/deis](https://github.com/deis/deis) - Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules.
-- [SeTeM/pync](https://github.com/SeTeM/pync) - Python wrapper for Mac OS 10.8 Notification Center
+- [syabruk/pync](https://github.com/syabruk/pync) - Python wrapper for Mac OS 10.8 Notification Center
 - [brack3t/django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django
 - [facebookarchive/python-instagram](https://github.com/facebookarchive/python-instagram) - Python Client for Instagram API
 - [progrium/skypipe](https://github.com/progrium/skypipe) - A magic pipe in the sky for the command line
