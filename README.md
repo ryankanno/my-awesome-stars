@@ -92,7 +92,7 @@
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
 - [nanovms/nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
-- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [codekitchen/pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
@@ -1079,6 +1079,7 @@
 
 ## Python 
 
+- [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [Tom-A-Roberts/LangQuest](https://github.com/Tom-A-Roberts/LangQuest) - Using LangChain, GPT-3.5, Chain of thought reasoning to create a Dungeons and Dragons type experience. Complete with hitpoints, inventory, storyline, immersive image generation, and more
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
