@@ -212,6 +212,7 @@
 
 ## ai 
 
+- [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs)
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data.
@@ -455,6 +456,7 @@
 
 ## chatgpt 
 
+- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥
 - [KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers) - Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -533,6 +535,7 @@
 
 ## computer-vision 
 
+- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks.
@@ -1077,7 +1080,6 @@
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
-- [blueloveTH/pocketpy](https://github.com/blueloveTH/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
@@ -3110,6 +3112,7 @@
 - [GammaTauAI/opentau](https://github.com/GammaTauAI/opentau) - Using Large Language Models for Gradual Type Inference
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
