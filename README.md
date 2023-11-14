@@ -829,6 +829,7 @@
 
 ## Jupyter Notebook 
 
+- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
@@ -1084,7 +1085,6 @@
 
 ## Python 
 
-- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [insitro/redun](https://github.com/insitro/redun) - Yet another redundant workflow engine
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
@@ -1510,7 +1510,7 @@
 - [codeforamerica/citygram](https://github.com/codeforamerica/citygram) - Subscribe to your city.
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [flapjack/flapjack](https://github.com/flapjack/flapjack) - Monitoring notification routing + event processing system.  For issues with the Flapjack packages, please see https://github.com/flapjack/omnibus-flapjack/
-- [damm/diamond](https://github.com/damm/diamond) - Chef Cookbook for deploying Diamond
+- [scottmlikens/diamond](https://github.com/scottmlikens/diamond) - Chef Cookbook for deploying Diamond
 - [stripe-archive/gaps](https://github.com/stripe-archive/gaps) - Easy management of your Google Groups subscriptions.
 - [cloudfoundry/bosh](https://github.com/cloudfoundry/bosh) - Cloud Foundry BOSH is an open source tool chain for release engineering, deployment and lifecycle management of large scale distributed services.
 - [everpeace/vagrant-mesos](https://github.com/everpeace/vagrant-mesos) - Spin up your Mesos Cluster with Vagrant! (VirtualBox and AWS)
