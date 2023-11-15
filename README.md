@@ -829,7 +829,6 @@
 
 ## Jupyter Notebook 
 
-- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
@@ -1085,6 +1084,7 @@
 
 ## Python 
 
+- [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [insitro/redun](https://github.com/insitro/redun) - Yet another redundant workflow engine
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
@@ -1099,7 +1099,7 @@
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
-- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data.
+- [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
@@ -1703,7 +1703,7 @@
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all frameworks as well as regular HTML/CSS/JS. 🥾
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4, Llama, Falcon, Azure AI) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀
+- [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4, Llama2, Azure AI) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [langchain-ai/auto-evaluator](https://github.com/langchain-ai/auto-evaluator) - 
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
