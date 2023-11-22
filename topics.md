@@ -2656,6 +2656,7 @@
 
 ## python 
 
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [insitro/redun](https://github.com/insitro/redun) - Yet another redundant workflow engine
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
