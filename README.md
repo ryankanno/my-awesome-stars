@@ -643,9 +643,10 @@
 
 ## JavaScript 
 
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [google/swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
 - [minalee-research/coauthor-interface](https://github.com/minalee-research/coauthor-interface) - 
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -919,8 +920,8 @@
 
 ## Others 
 
+- [ethz-spylab/satml-llms-ctf-issues](https://github.com/ethz-spylab/satml-llms-ctf-issues) - Issue tracker for the LLMs CTF co-located with SaTML 2023
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
-- [nbasyl/LLM-FP4](https://github.com/nbasyl/LLM-FP4) - The official implementation of the EMNLP 2023 paper LLM-FP4
 - [xjorma/EarthMeshHoudini](https://github.com/xjorma/EarthMeshHoudini) - Generate real world meshes in Houdini using the Google API.
 - [Timothyxxx/Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) - A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models".
 - [MilesCranmer/awesome-ml-demos](https://github.com/MilesCranmer/awesome-ml-demos) - Curated list of interactive ML demos
@@ -1093,6 +1094,7 @@
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools.
+- [nbasyl/LLM-FP4](https://github.com/nbasyl/LLM-FP4) - The official implementation of the EMNLP 2023 paper LLM-FP4
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs)
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
@@ -1100,7 +1102,6 @@
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
-- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [SuperDuperDB/superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
