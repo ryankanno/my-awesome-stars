@@ -1086,6 +1086,7 @@
 
 ## Python 
 
+- [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine) - Python binding for Rust's library for reading excel and odf file - calamine.
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
