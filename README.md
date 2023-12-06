@@ -302,6 +302,7 @@
 
 ## Clojure 
 
+- [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems.
 - [LightTable/LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE ⛺
 - [overtone/overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music
 - [clojure/clojurescript](https://github.com/clojure/clojurescript) - Clojure to JS compiler
