@@ -1670,6 +1670,7 @@
 
 ## others 
 
+- [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 - [chrisjmccormick/wiki-sim-search](https://github.com/chrisjmccormick/wiki-sim-search) - Similarity search on Wikipedia using gensim in Python.
