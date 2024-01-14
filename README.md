@@ -1715,6 +1715,7 @@
 
 ## TeX 
 
+- [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers) - Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).
 - [0xjac/master-thesis](https://github.com/0xjac/master-thesis) - Written report for my master thesis
 - [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
