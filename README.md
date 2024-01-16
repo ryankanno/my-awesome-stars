@@ -891,7 +891,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Max 
 
@@ -1120,7 +1120,7 @@
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools.
 - [nbasyl/LLM-FP4](https://github.com/nbasyl/LLM-FP4) - The official implementation of the EMNLP 2023 paper LLM-FP4
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs)
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T)
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [Tom-A-Roberts/LangQuest](https://github.com/Tom-A-Roberts/LangQuest) - Using LangChain, GPT-3.5, Chain of thought reasoning to create a Dungeons and Dragons type experience. Complete with hitpoints, inventory, storyline, immersive image generation, and more
@@ -1315,7 +1315,7 @@
 - [projectmesa/mesa](https://github.com/projectmesa/mesa) - Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
 - [zygmuntz/phraug2](https://github.com/zygmuntz/phraug2) - A new version of phraug, which is a set of simple Python scripts for pre-processing large files
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as aesara: www.github.com/p
+- [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com
 - [pydanny/cookiecutter-djangopackage](https://github.com/pydanny/cookiecutter-djangopackage) - A cookiecutter template for creating reusable Django packages quickly.
 - [okfde/froide](https://github.com/okfde/froide) - Freedom Of Information Portal
 - [datamade/usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured United States address strings into address components
@@ -1390,7 +1390,7 @@
 - [tspurway/pymdb-lightning](https://github.com/tspurway/pymdb-lightning) - Python interface to OpenLDAP MDB (aka. lightning db) key/value store.
 - [jtauber/greek-reader](https://github.com/jtauber/greek-reader) - Python 3 tool for generating (initially Biblical) Greek readers
 - [unitedstates/contact-congress](https://github.com/unitedstates/contact-congress) - Sending electronic written messages to members of Congress by reverse engineering their contact forms.
-- [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure) - idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js
+- [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure) - sophisticated automated test library and runner
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versi
 - [google/pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into python processes.
