@@ -984,7 +984,7 @@
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [clef/handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion
 - [edobashira/speech-language-processing](https://github.com/edobashira/speech-language-processing) - A curated list of speech and natural language processing resources
-- [CUTR-at-USF/awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
+- [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 - [44bits/awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.
 - [Randommood/Strangeloop2015](https://github.com/Randommood/Strangeloop2015) - Architectural patterns of resilient distributed systems
 - [danderson/pixiecore](https://github.com/danderson/pixiecore) - PXE booting for people in a hurry.
@@ -1118,9 +1118,9 @@
 - [insitro/redun](https://github.com/insitro/redun) - Yet another redundant workflow engine
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
-- [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools.
+- [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24].
 - [nbasyl/LLM-FP4](https://github.com/nbasyl/LLM-FP4) - The official implementation of the EMNLP 2023 paper LLM-FP4
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T)
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet)
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [Tom-A-Roberts/LangQuest](https://github.com/Tom-A-Roberts/LangQuest) - Using LangChain, GPT-3.5, Chain of thought reasoning to create a Dungeons and Dragons type experience. Complete with hitpoints, inventory, storyline, immersive image generation, and more
