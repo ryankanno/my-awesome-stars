@@ -1092,7 +1092,6 @@
 ## hacktoberfest 
 
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
@@ -1675,13 +1674,14 @@
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 - [chrisjmccormick/wiki-sim-search](https://github.com/chrisjmccormick/wiki-sim-search) - Similarity search on Wikipedia using gensim in Python.
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
 - [attardi/wikiextractor](https://github.com/attardi/wikiextractor) - A tool for extracting plain text from Wikipedia dumps
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [sail-sg/sewformer](https://github.com/sail-sg/sewformer) - 
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
-- [ethz-spylab/satml-llms-ctf-issues](https://github.com/ethz-spylab/satml-llms-ctf-issues) - Issue tracker for the LLMs CTF co-located with SaTML 2023
+- [ethz-spylab/satml-llms-ctf-issues](https://github.com/ethz-spylab/satml-llms-ctf-issues) - Issue tracker for the LLMs CTF co-located with SaTML 2024
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper) - Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
