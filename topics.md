@@ -200,6 +200,7 @@
 - [wagtail](#wagtail)
 - [web](#web)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
@@ -3272,6 +3273,10 @@
 ## web-components 
 
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+
+## web-development 
+
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
 ## webapp 
 
