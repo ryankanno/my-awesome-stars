@@ -2480,7 +2480,6 @@
 - [vmware-archive/scripted](https://github.com/vmware-archive/scripted) - The Scripted code editor
 - [phoboslab/Ejecta](https://github.com/phoboslab/Ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS
 - [WhiteHouse/petitions](https://github.com/WhiteHouse/petitions) - Drupal installation profile powering We The People at petitions.whitehouse.gov
-- [jamesamcl/spdy](https://github.com/jamesamcl/spdy) - Portable SPDY implementation in ANSI C
 - [colinhowe/monner](https://github.com/colinhowe/monner) - monner
 - [adafruit/Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) - Adafruit library code for Raspberry Pi
 - [ryankanno/ecommercehackday](https://github.com/ryankanno/ecommercehackday) - Our ecommerce hack day app has to deal with foods. Food is awesome.
