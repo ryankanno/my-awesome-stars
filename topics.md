@@ -232,6 +232,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [thunlp/PromptPapers](https://github.com/thunlp/PromptPapers) - Must-read papers on prompt-based tuning for pre-trained language models.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
 ## ajax 
 
@@ -302,6 +303,7 @@
 - [noahshinn/reflexion-draft](https://github.com/noahshinn/reflexion-draft) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 
 ## aspnet 
 
@@ -1244,7 +1246,6 @@
 
 ## iot 
 
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 
 ## java 
