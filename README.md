@@ -98,7 +98,7 @@
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
 - [alibaba/nginx-http-sysguard](https://github.com/alibaba/nginx-http-sysguard) - A Nginx module to protect servers when system load or memory use goes too high.
 - [sustrik/libmill](https://github.com/sustrik/libmill) - Go-style concurrency in C
@@ -1162,7 +1162,7 @@
 - [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.
 - [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) - An aggregated data set of chess opening names
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [HazyResearch/manifest](https://github.com/HazyResearch/manifest) - Prompt programming with FMs.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
@@ -1755,6 +1755,7 @@
 - [preconstruct/preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 Dev and build your code painlessly in monorepos
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [dvcrn/obsidian-filename-heading-sync](https://github.com/dvcrn/obsidian-filename-heading-sync) - Obisdian.md plugin to keep the filename and the first header of the file in sync
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [microsoft/code-push](https://github.com/microsoft/code-push) - A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
@@ -1789,7 +1790,6 @@
 
 ## Vim Script 
 
-- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [durdn/cfg](https://github.com/durdn/cfg) - dotfiles and related syncing scripts
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) - tpope's dotfiles. DON'T USE unless you're tpope
