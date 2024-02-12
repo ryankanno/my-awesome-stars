@@ -1742,7 +1742,7 @@
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
 - [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and 
 - [uchidalab/book-dataset](https://github.com/uchidalab/book-dataset) - This dataset contains 207,572 books from the Amazon.com, Inc. marketplace.
-- [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.
+- [zakird/crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in Google BigQuery.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [mhogrefe/malachite](https://github.com/mhogrefe/malachite) - An arbitrary-precision arithmetic library for Rust.
