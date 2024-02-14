@@ -201,7 +201,7 @@
 - [marksl/DotNetFlumeNG.Clients](https://github.com/marksl/DotNetFlumeNG.Clients) - 
 - [Readify/GitViz](https://github.com/Readify/GitViz) - Real-time, presentation-quality, Git visualizer to help with Git training
 - [sq/JSIL](https://github.com/sq/JSIL) - CIL to Javascript Compiler
-- [EventStore/EventStore](https://github.com/EventStore/EventStore) - The stream database optimised for event sourcing
+- [EventStore/EventStore](https://github.com/EventStore/EventStore) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 - [AArnott/IronPigeon](https://github.com/AArnott/IronPigeon) - IronPigeon is a decentralized communication protocol that provides high confidentiality and authenticity for the messages.
 - [moq/moq.spikes](https://github.com/moq/moq.spikes) - The most popular and friendly mocking framework for .NET
 - [VsVim/VsVim](https://github.com/VsVim/VsVim) - Vim Emulator Plugin for Visual Studio 2015+
