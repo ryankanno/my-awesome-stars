@@ -873,6 +873,7 @@
 
 ## flask 
 
+- [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
 - [python-security/pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [zeekay/flask-uwsgi-websocket](https://github.com/zeekay/flask-uwsgi-websocket) - 🔌 High-performance WebSockets for your Flask apps powered by uWSGI.
@@ -2703,6 +2704,7 @@
 
 ## python 
 
+- [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
