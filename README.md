@@ -536,7 +536,6 @@
 
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [run-llama/create_llama_projects](https://github.com/run-llama/create_llama_projects) - 
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -1376,7 +1375,7 @@
 - [AppScale/gts](https://github.com/AppScale/gts) - AppScale is an easy-to-manage serverless platform for building and running scalable web and mobile applications on any infrastructure.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [zachwill/moment](https://github.com/zachwill/moment) - A Python library for dealing with dates
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [charlesthomas/magpie](https://github.com/charlesthomas/magpie) - Git-backed Evernote replacement
 - [robclewley/compneuro](https://github.com/robclewley/compneuro) - Computational Neuroscience class materials in PyDSTool based on Hugh Wilson's book (and some from Eugene Izhikevich's book). DRAFT VERSION! See files_info.txt for index. Please improve and discuss!
@@ -1736,6 +1735,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof) - Lean theorem proving interface which feels like pen-and-paper proofs.
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [pixiv/ChatVRM](https://github.com/pixiv/ChatVRM) - 
 - [eumemic/ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform
 - [vega/vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
