@@ -675,7 +675,7 @@
 - [Mailtrain-org/mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app
 - [etsy/opsweekly](https://github.com/etsy/opsweekly) - On call alert classification and reporting
 - [magicbookproject/magicbook](https://github.com/magicbookproject/magicbook) - The magic book project returns!
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [aearly/icepick](https://github.com/aearly/icepick) - Utilities for treating frozen JavaScript objects as persistent immutable collections
 - [justengland/phantom-lambda-template](https://github.com/justengland/phantom-lambda-template) - The bare minimum for a phantomjs app to run on Amazon Lambda.
 - [catberry/catberry](https://github.com/catberry/catberry) - Catberry is an isomorphic framework for building universal front-end apps using components, Flux architecture and progressive rendering.
