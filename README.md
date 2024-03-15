@@ -1131,6 +1131,7 @@
 - [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine) - Python binding for Rust's library for reading excel and odf file - calamine.
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 - [insitro/redun](https://github.com/insitro/redun) - Yet another redundant workflow engine
@@ -1138,7 +1139,7 @@
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24].
 - [nbasyl/LLM-FP4](https://github.com/nbasyl/LLM-FP4) - The official implementation of the EMNLP 2023 paper LLM-FP4
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet)
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [Tom-A-Roberts/LangQuest](https://github.com/Tom-A-Roberts/LangQuest) - Using LangChain, GPT-3.5, Chain of thought reasoning to create a Dungeons and Dragons type experience. Complete with hitpoints, inventory, storyline, immersive image generation, and more
@@ -1751,7 +1752,6 @@
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper) - Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof) - Lean theorem proving interface which feels like pen-and-paper proofs.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
