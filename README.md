@@ -386,7 +386,7 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [jonhadfield/soba](https://github.com/jonhadfield/soba) - backup private and public github, gitlab, bitbucket, and gitea repositories
+- [jonhadfield/soba](https://github.com/jonhadfield/soba) - backup github, gitlab, bitbucket, azure devops, and gitea repositories
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
@@ -1023,7 +1023,6 @@
 - [sunlightlabs/us-laws](https://github.com/sunlightlabs/us-laws) - A ticket for every new law of the United States, as of March 12, 2014.
 - [slickage/baron](https://github.com/slickage/baron) - Baron is a Bitcoin payment processor that anyone can deploy
 - [plumatic/eng-practices](https://github.com/plumatic/eng-practices) - Prismatic's Engineering Practices
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [NotaryChains/NotaryChainDocs](https://github.com/NotaryChains/NotaryChainDocs) - Repository for the documentation for what was NotaryChains, now Factom
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases
 - [TheUpshot/Military-Surplus-Gear](https://github.com/TheUpshot/Military-Surplus-Gear) - Military equipment given to law enforcement agencies
@@ -1692,6 +1691,7 @@
 - [jwerak/coreos-mesos-marathon](https://github.com/jwerak/coreos-mesos-marathon) - This will serve as set of docker images that should enable running mesos on CoreOS
 - [CloudCredo/mesos-boshrelease](https://github.com/CloudCredo/mesos-boshrelease) - A Bosh release for Apache Mesos
 - [cattleio/stampede](https://github.com/cattleio/stampede) - Hybrid IaaS/Docker orchestration platform running on CoreOS
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - A plugin that enhances tmux search
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [guardianproject/android-ffmpeg](https://github.com/guardianproject/android-ffmpeg) - a system for building custom ffmpeg binaries for Android
