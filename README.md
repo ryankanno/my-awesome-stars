@@ -1102,6 +1102,7 @@
 
 ## Python 
 
+- [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [microsoft/ToolTalk](https://github.com/microsoft/ToolTalk) - Evaluating tool-augmented LLMs in conversation settings
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -1109,7 +1110,7 @@
 - [microsoft/simulated-trial-and-error](https://github.com/microsoft/simulated-trial-and-error) - 
 - [baaivision/JudgeLM](https://github.com/baaivision/JudgeLM) - An open-sourced LLM judge for evaluating LLM-generated answers.
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
 - [dyabel/AnyTool](https://github.com/dyabel/AnyTool) - 
 - [python-hyper/h2](https://github.com/python-hyper/h2) - HTTP/2 State-Machine based protocol implementation
@@ -1604,6 +1605,8 @@
 
 ## Rust 
 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
