@@ -839,10 +839,12 @@
 
 ## Jupyter Notebook 
 
+- [AviSoori1x/makeMoE](https://github.com/AviSoori1x/makeMoE) - From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
+- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"
@@ -1101,6 +1103,7 @@
 
 ## Python 
 
+- [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [runpod-workers/worker-vllm](https://github.com/runpod-workers/worker-vllm) - The RunPod worker template for serving our large language model endpoints. Powered by vLLM.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [microsoft/ToolTalk](https://github.com/microsoft/ToolTalk) - Evaluating tool-augmented LLMs in conversation settings
@@ -1141,7 +1144,6 @@
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [microsoft/ToRA](https://github.com/microsoft/ToRA) - ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24].
 - [nbasyl/LLM-FP4](https://github.com/nbasyl/LLM-FP4) - The official implementation of the EMNLP 2023 paper LLM-FP4
-- [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [Tom-A-Roberts/LangQuest](https://github.com/Tom-A-Roberts/LangQuest) - Using LangChain, GPT-3.5, Chain of thought reasoning to create a Dungeons and Dragons type experience. Complete with hitpoints, inventory, storyline, immersive image generation, and more
