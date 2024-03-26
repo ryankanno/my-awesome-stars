@@ -1874,7 +1874,7 @@
 - [Police-Data-Accessibility-Project/meta](https://github.com/Police-Data-Accessibility-Project/meta) - Planning our activities with issues that don't fit in a specific repository yet.
 - [2020PB/police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
 - [LanaSina/evolutionary_illusion_generator](https://github.com/LanaSina/evolutionary_illusion_generator) - EIGen: Evolutionary Illusion Generator, based on predictive coding.
-- [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google App Engine
+- [google/nomulus](https://github.com/google/nomulus) - Top-level domain name registry service on Google Cloud Platform
 - [Manishearth/oreutils](https://github.com/Manishearth/oreutils) - Installer for various Rust reimaginations of coreutils. These are not drop-in replacements.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [dterei/Research-Papers](https://github.com/dterei/Research-Papers) - Collection of various research papers I find interesting
