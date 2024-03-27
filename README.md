@@ -840,6 +840,7 @@
 
 ## Jupyter Notebook 
 
+- [intel/GenAIExamples](https://github.com/intel/GenAIExamples) - Intel Generative AI Examples (e.g., ChatQnA with RAG) on Xeon and Gaudi2
 - [AviSoori1x/makeMoE](https://github.com/AviSoori1x/makeMoE) - From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
@@ -1109,6 +1110,7 @@
 
 ## Python 
 
+- [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [runpod-workers/worker-vllm](https://github.com/runpod-workers/worker-vllm) - The RunPod worker template for serving our large language model endpoints. Powered by vLLM.
