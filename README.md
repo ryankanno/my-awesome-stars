@@ -1110,6 +1110,7 @@
 
 ## Python 
 
+- [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
@@ -1617,6 +1618,7 @@
 
 ## Rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
