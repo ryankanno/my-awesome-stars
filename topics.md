@@ -980,6 +980,7 @@
 
 ## git 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
@@ -1116,6 +1117,7 @@
 
 ## hacktoberfest 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
@@ -1718,6 +1720,7 @@
 
 ## others 
 
+- [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
 - [intel/GenAIExamples](https://github.com/intel/GenAIExamples) - Intel Generative AI Examples (e.g., ChatQnA with RAG) on Xeon and Gaudi2
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
@@ -3062,6 +3065,7 @@
 
 ## rust 
 
+- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
