@@ -1110,6 +1110,8 @@
 
 ## Python 
 
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models
+- [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Sensible and typesafe datetimes for Python
 - [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
