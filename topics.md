@@ -275,7 +275,7 @@
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
-- [vspiewak/ansible-mesosphere](https://github.com/vspiewak/ansible-mesosphere) - Installation of Mesosphere stack on EC2 using Ansible
+- [vspiewak/ansible-mesosphere](https://github.com/vspiewak/ansible-mesosphere) - Installation of Mesosphere stack on AWS EC2 using Ansible
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -409,7 +409,7 @@
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, and DevOps projects.
-- [vspiewak/ansible-mesosphere](https://github.com/vspiewak/ansible-mesosphere) - Installation of Mesosphere stack on EC2 using Ansible
+- [vspiewak/ansible-mesosphere](https://github.com/vspiewak/ansible-mesosphere) - Installation of Mesosphere stack on AWS EC2 using Ansible
 - [pynamodb/PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
 - [oliverlloyd/jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2) - Automates running Apache JMeter on Amazon EC2
 
@@ -1127,7 +1127,7 @@
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
-- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
@@ -1724,7 +1724,7 @@
 
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
-- [intel/GenAIExamples](https://github.com/intel/GenAIExamples) - Intel Generative AI Examples (e.g., ChatQnA with RAG) on Xeon and Gaudi2
+- [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Intel Generative AI Examples (e.g., ChatQnA with RAG) on Xeon and Gaudi2
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
@@ -2799,7 +2799,7 @@
 - [ryankanno/cookiecutter-py](https://github.com/ryankanno/cookiecutter-py) - 🐍 Modern Python project Cookiecutter template
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
-- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
