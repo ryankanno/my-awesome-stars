@@ -1355,7 +1355,7 @@
 - [okfde/froide](https://github.com/okfde/froide) - Freedom Of Information Portal
 - [datamade/usaddress](https://github.com/datamade/usaddress) - :us: a python library for parsing unstructured United States address strings into address components
 - [rdegges/flask-dynamo](https://github.com/rdegges/flask-dynamo) - DynamoDB integration for Flask.
-- [vspiewak/ansible-mesosphere](https://github.com/vspiewak/ansible-mesosphere) - Installation of Mesosphere stack on EC2 using Ansible
+- [vspiewak/ansible-mesosphere](https://github.com/vspiewak/ansible-mesosphere) - Installation of Mesosphere stack on AWS EC2 using Ansible
 - [ecprice/newsdiffs](https://github.com/ecprice/newsdiffs) - Automatic scraper that tracks changes in news articles over time.
 - [thefactory/marathon-python](https://github.com/thefactory/marathon-python) - Python client library for Mesos Marathon's REST API
 - [Capgemini/Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
@@ -1627,7 +1627,7 @@
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [GammaTauAI/opentau](https://github.com/GammaTauAI/opentau) - Using Large Language Models for Gradual Type Inference
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -1748,7 +1748,7 @@
 
 ## Svelte 
 
-- [intel/GenAIExamples](https://github.com/intel/GenAIExamples) - Intel Generative AI Examples (e.g., ChatQnA with RAG) on Xeon and Gaudi2
+- [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Intel Generative AI Examples (e.g., ChatQnA with RAG) on Xeon and Gaudi2
 
 ## TLA 
 
