@@ -1723,6 +1723,7 @@
 
 ## others 
 
+- [ryankanno/dotfiles](https://github.com/ryankanno/dotfiles) - All my dotfiles
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
@@ -2649,7 +2650,6 @@
 - [Yelp/mrjob](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services
 - [Yelp/Tron](https://github.com/Yelp/Tron) - Next generation batch process scheduling and management
 - [infews/keydown](https://github.com/infews/keydown) - An HTML5 presentation builder
-- [ryankanno/dotfiles](https://github.com/ryankanno/dotfiles) - All my dotfiles
 - [ryankanno/vim-config](https://github.com/ryankanno/vim-config) - My vim configuration.  Complete with plugin goodness.
 - [mishoo/UglifyJS-old](https://github.com/mishoo/UglifyJS-old) - JavaScript parser / mangler / compressor / beautifier library for NodeJS
 - [wesabe/ssu](https://github.com/wesabe/ssu) - Server-Side Uploader, the data aggregation engine.
