@@ -1116,6 +1116,7 @@
 
 ## Python 
 
+- [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Sensible and typesafe datetimes for Python
@@ -1591,7 +1592,7 @@
 - [codegangsta/alfred-teamocil](https://github.com/codegangsta/alfred-teamocil) - A teamocil launcher for Alfred
 - [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
 - [jawerty/btcl](https://github.com/jawerty/btcl) - Follow Bitcoin exchanges from your terminal.
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [vmware-archive/projectmonitor](https://github.com/vmware-archive/projectmonitor) - Big Visible Chart CI aggregator
 - [danecjensen/mywanderlust](https://github.com/danecjensen/mywanderlust) - A web and mobile application to help organize travel plans among multiple people.  Wanderlust is open source software that could be called one of the following: trip planning application, or vacation 
@@ -1692,6 +1693,7 @@
 
 ## Shell 
 
+- [hikeratlas/qrank](https://github.com/hikeratlas/qrank) - Wikidata's QRank as a SQLite DB.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 - [JakeWharton/docker-gphotos-sync](https://github.com/JakeWharton/docker-gphotos-sync) - A Docker image for synchronizing your original-quality Google Photos
@@ -1768,6 +1770,7 @@
 
 ## TeX 
 
+- [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - :closed_book: Clarity in the current fast-paced mess of Open Source innovation
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers) - Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).
 - [0xjac/master-thesis](https://github.com/0xjac/master-thesis) - Written report for my master thesis
