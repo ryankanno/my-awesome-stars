@@ -1738,6 +1738,8 @@
 
 ## others 
 
+- [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
+- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
 - [hikeratlas/qrank](https://github.com/hikeratlas/qrank) - Wikidata's QRank as a SQLite DB.
