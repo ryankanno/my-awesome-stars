@@ -390,7 +390,7 @@
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [jonhadfield/soba](https://github.com/jonhadfield/soba) - backup github, gitlab, bitbucket, azure devops, and gitea repositories
-- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+- [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - Kubernetes-like control planes for form-factors and use-cases beyond Kubernetes and container workloads.
 - [jdxyw/generativeart](https://github.com/jdxyw/generativeart) - Generative Art in Go
@@ -880,6 +880,7 @@
 
 ## Lua 
 
+- [tzachar/cmp-ai](https://github.com/tzachar/cmp-ai) - 
 - [ryankanno/dotfiles](https://github.com/ryankanno/dotfiles) - All my dotfiles
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
@@ -1251,7 +1252,7 @@
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
 - [thombashi/sqlitebiter](https://github.com/thombashi/sqlitebiter) - A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.
-- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns your Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fas
+- [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [minimaxir/person-blocker](https://github.com/minimaxir/person-blocker) - Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
 - [2020PB/police-brutality](https://github.com/2020PB/police-brutality) - Repository containing evidence of police brutality during the 2020 George Floyd protests
