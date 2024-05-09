@@ -62,6 +62,7 @@
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [Smarty](#smarty)
+- [StringTemplate](#stringtemplate)
 - [TLA](#tla)
 - [TSQL](#tsql)
 - [TeX](#tex)
@@ -1762,6 +1763,10 @@
 ## Smarty 
 
 - [bobtfish/terraform-aws-coreos-kubernates-cluster](https://github.com/bobtfish/terraform-aws-coreos-kubernates-cluster) - 
+
+## StringTemplate 
+
+- [Cuis-Smalltalk/TheCuisBook](https://github.com/Cuis-Smalltalk/TheCuisBook) - A book about Cuis Smalltalk
 
 ## TLA 
 
