@@ -1415,7 +1415,7 @@
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [balanced/status.balancedpayments.com](https://github.com/balanced/status.balancedpayments.com) - Balanced status dashboard.
 - [amiller/redblackmerkle](https://github.com/amiller/redblackmerkle) - An authenticated data structure based on a red-black tree.
-- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+- [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
 - [eparis/kubernetes-ansible](https://github.com/eparis/kubernetes-ansible) - Ansible playbooks to build a kubernetes cluster from scratch
 - [Dobiasd/programming-language-subreddits-and-their-choice-of-words](https://github.com/Dobiasd/programming-language-subreddits-and-their-choice-of-words) - How do the different communities talk?
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
