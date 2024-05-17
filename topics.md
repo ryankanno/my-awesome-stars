@@ -1016,7 +1016,7 @@
 - [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover.
 - [deadc0de6/dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 - [jonhadfield/soba](https://github.com/jonhadfield/soba) - backup github, gitlab, bitbucket, azure devops, and gitea repositories
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
@@ -1784,6 +1784,7 @@
 
 ## others 
 
+- [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 - [Cuis-Smalltalk/TheCuisBook](https://github.com/Cuis-Smalltalk/TheCuisBook) - A book about Cuis Smalltalk
 - [tzachar/cmp-ai](https://github.com/tzachar/cmp-ai) - 
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
@@ -3155,7 +3156,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [nebulet/nebulet](https://github.com/nebulet/nebulet) - A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
