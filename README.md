@@ -63,6 +63,7 @@
 - [Smalltalk](#smalltalk)
 - [Smarty](#smarty)
 - [StringTemplate](#stringtemplate)
+- [Svelte](#svelte)
 - [TLA](#tla)
 - [TSQL](#tsql)
 - [TeX](#tex)
@@ -1132,7 +1133,6 @@
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Sensible and typesafe datetimes for Python
 - [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
-- [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
 - [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
@@ -1769,6 +1769,10 @@
 ## StringTemplate 
 
 - [Cuis-Smalltalk/TheCuisBook](https://github.com/Cuis-Smalltalk/TheCuisBook) - A book about Cuis Smalltalk
+
+## Svelte 
+
+- [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.
 
 ## TLA 
 
