@@ -1129,7 +1129,7 @@
 - [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Sensible and typesafe datetimes for Python
 - [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
 - [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.
@@ -1640,6 +1640,7 @@
 
 ## Rust 
 
+- [warp-tech/russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
