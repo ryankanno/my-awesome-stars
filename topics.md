@@ -629,7 +629,7 @@
 - [premailer/premailer](https://github.com/premailer/premailer) - Preflight for HTML email
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-- [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+- [matype/stylefmt](https://github.com/matype/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 - [molivier/nest](https://github.com/molivier/nest) - Nest Pelican Template
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -3171,7 +3171,7 @@
 
 ## sass 
 
-- [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+- [matype/stylefmt](https://github.com/matype/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## scala 
