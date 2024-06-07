@@ -901,6 +901,7 @@
 
 ## Makefile 
 
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. On premise.
 - [kubernetes-up-and-running/dockerfiles](https://github.com/kubernetes-up-and-running/dockerfiles) - 
 - [justinclayton/coreos-and-consul-cluster-via-terraform](https://github.com/justinclayton/coreos-and-consul-cluster-via-terraform) - Deploy Your Own CoreOS and Consul Cluster on AWS via Terraform
 - [bobtfish/terraform-example-mesos-cluster](https://github.com/bobtfish/terraform-example-mesos-cluster) - A self contained example of using Terraform to build a Mesos cluster
@@ -1123,6 +1124,7 @@
 
 ## Python 
 
+- [TechnologyBrewery/poetry-monorepo-dependency-plugin](https://github.com/TechnologyBrewery/poetry-monorepo-dependency-plugin) - Poetry plugin that facilitates the usage of more complex monorepo project structures by pinning version dependencies when building and publishing archives with local path dependencies to other Poetry 
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [gemelo-ai/vocos](https://github.com/gemelo-ai/vocos) - Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
