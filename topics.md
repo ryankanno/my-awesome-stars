@@ -927,7 +927,7 @@
 
 ## finance 
 
-- [ssantoshp/Empyrial](https://github.com/ssantoshp/Empyrial) - An Open Source Portfolio Backtesting Engine for Everyone | 面向所有人的开源投资组合回测引擎
+- [santoshlite/Empyrial](https://github.com/santoshlite/Empyrial) - An Open Source Portfolio Backtesting Engine for Everyone | 面向所有人的开源投资组合回测引擎
 
 ## flask 
 
@@ -2889,7 +2889,7 @@
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [GjjvdBurg/HugoPhotoSwipe](https://github.com/GjjvdBurg/HugoPhotoSwipe) - Command-line tool for easy PhotoSwipe galleries in Hugo
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-- [ssantoshp/Empyrial](https://github.com/ssantoshp/Empyrial) - An Open Source Portfolio Backtesting Engine for Everyone | 面向所有人的开源投资组合回测引擎
+- [santoshlite/Empyrial](https://github.com/santoshlite/Empyrial) - An Open Source Portfolio Backtesting Engine for Everyone | 面向所有人的开源投资组合回测引擎
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -3062,7 +3062,7 @@
 
 ## quantitative-finance 
 
-- [ssantoshp/Empyrial](https://github.com/ssantoshp/Empyrial) - An Open Source Portfolio Backtesting Engine for Everyone | 面向所有人的开源投资组合回测引擎
+- [santoshlite/Empyrial](https://github.com/santoshlite/Empyrial) - An Open Source Portfolio Backtesting Engine for Everyone | 面向所有人的开源投资组合回测引擎
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 
 ## r 
