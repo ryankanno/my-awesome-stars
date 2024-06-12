@@ -2129,7 +2129,7 @@
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [pudo/graphkit](https://github.com/pudo/graphkit) - Process data based on JSON schema
 - [Chicago/metalicious](https://github.com/Chicago/metalicious) - An open source data dictionary which can be deployed to track the metadata of one or more databases.
-- [xamarin/monodroid-samples](https://github.com/xamarin/monodroid-samples) - A collection of Xamarin.Android sample projects.
+- [dotnet/android-samples](https://github.com/dotnet/android-samples) - A collection of .NET for Android sample projects
 - [tpope/dotfiles](https://github.com/tpope/dotfiles) - tpope's dotfiles. DON'T USE unless you're tpope
 - [karpathy/char-rnn](https://github.com/karpathy/char-rnn) - Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 - [lindemer/baldr](https://github.com/lindemer/baldr) - Quadcopter flight simulator
