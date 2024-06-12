@@ -163,7 +163,7 @@
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
 - [spreadsheetlab/XLParser](https://github.com/spreadsheetlab/XLParser) - A C# parser for Microsoft Excel formulas with a 99.9% compatibility rate
 - [microsoft/MIEngine](https://github.com/microsoft/MIEngine) - The Visual Studio MI Debug Engine ("MIEngine") provides an open-source Visual Studio Debugger extension that works with MI-enabled debuggers such as gdb and lldb.
-- [xamarin/monodroid-samples](https://github.com/xamarin/monodroid-samples) - A collection of Xamarin.Android sample projects.
+- [dotnet/android-samples](https://github.com/dotnet/android-samples) - A collection of .NET for Android sample projects
 - [voat/voat](https://github.com/voat/voat) - The code that powers Voat
 - [Netflix/Fido](https://github.com/Netflix/Fido) - 
 - [xamarin/evolve-quest](https://github.com/xamarin/evolve-quest) - Evolve Quest is an iBeacon based scavenger hunt that attendees enjoyed at Evolve 2014
