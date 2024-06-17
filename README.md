@@ -959,7 +959,6 @@
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 - [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
-- [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline) - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [xjorma/EarthMeshHoudini](https://github.com/xjorma/EarthMeshHoudini) - Generate real world meshes in Houdini using the Google API.
@@ -1445,7 +1444,7 @@
 - [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org) - Python Packaging User Guide
 - [openstack/python-heatclient](https://github.com/openstack/python-heatclient) - OpenStack Orchestration (Heat) Client. Mirror of code maintained at opendev.org.
 - [openstack/heat](https://github.com/openstack/heat) - OpenStack Orchestration (Heat). Mirror of code maintained at opendev.org.
-- [seandst/cfn-pyplates](https://github.com/seandst/cfn-pyplates) - Amazon Web Services CloudFormation templates, generated with Python!
+- [tehsmyers/cfn-pyplates](https://github.com/tehsmyers/cfn-pyplates) - Amazon Web Services CloudFormation templates, generated with Python!
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [tspurway/pymdb-lightning](https://github.com/tspurway/pymdb-lightning) - Python interface to OpenLDAP MDB (aka. lightning db) key/value store.
 - [jtauber/greek-reader](https://github.com/jtauber/greek-reader) - Python 3 tool for generating (initially Biblical) Greek readers
@@ -1807,6 +1806,7 @@
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
+- [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper) - Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
