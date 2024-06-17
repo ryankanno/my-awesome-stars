@@ -42,6 +42,7 @@
 - [covid-19](#covid-19)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [data](#data)
@@ -615,6 +616,13 @@
 ## cryptocurrency 
 
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+
+## cryptography 
+
+- [google/end-to-end](https://github.com/google/end-to-end) - End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP)
+- [Lyndir/MasterPassword](https://github.com/Lyndir/MasterPassword) - Project moved to https://gitlab.com/spectre.app
+- [pyca/pyopenssl](https://github.com/pyca/pyopenssl) - A Python wrapper around the OpenSSL library
+- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 
 ## csharp 
 
@@ -2391,7 +2399,7 @@
 - [openstack/heat](https://github.com/openstack/heat) - OpenStack Orchestration (Heat). Mirror of code maintained at opendev.org.
 - [rakyll/boom](https://github.com/rakyll/boom) - HTTP(S) load generator, ApacheBench (ab) replacement, written in Go
 - [armon/circbuf](https://github.com/armon/circbuf) - Golang circular (ring) buffer
-- [seandst/cfn-pyplates](https://github.com/seandst/cfn-pyplates) - Amazon Web Services CloudFormation templates, generated with Python!
+- [tehsmyers/cfn-pyplates](https://github.com/tehsmyers/cfn-pyplates) - Amazon Web Services CloudFormation templates, generated with Python!
 - [sutoiku/formula.js](https://github.com/sutoiku/formula.js) - JavaScript implementation of most Microsoft Excel formula functions
 - [wlloyd/eiger](https://github.com/wlloyd/eiger) - A research fork of cassandra that provides causal+ consistency, read-only transaction, and write-only transaction across all the servers in each datacenter.
 - [panrafal/depthy](https://github.com/panrafal/depthy) - Extract depth map and original from photos made with Google Camera's Lens Blur.
@@ -2559,7 +2567,6 @@
 - [properssl/nginx-pfs](https://github.com/properssl/nginx-pfs) - Sample configuration of nginx for PFS using ECDHE
 - [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 - [pvillega/ansible-ec2-play](https://github.com/pvillega/ansible-ec2-play) - Ansible scripts to deploy Play projects in Ec2
-- [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns) - An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
 - [adriancooney/console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn't need.
 - [git-deploy/git-deploy](https://github.com/git-deploy/git-deploy) - Tool to manage using git as a deployment management tool
 - [jeffheaton/aifh](https://github.com/jeffheaton/aifh) - Artificial Intelligence for Humans
