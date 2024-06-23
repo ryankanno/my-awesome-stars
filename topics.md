@@ -222,6 +222,7 @@
 
 ## ai 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - :closed_book: Clarity in the current fast-paced mess of Open Source innovation
@@ -408,6 +409,7 @@
 
 ## aws 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. On premise.
 - [insitro/redun](https://github.com/insitro/redun) - Yet another redundant workflow engine
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
@@ -1517,6 +1519,7 @@
 
 ## llm 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -1803,6 +1806,7 @@
 
 ## others 
 
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
@@ -2861,6 +2865,7 @@
 
 ## python 
 
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Sensible and typesafe datetimes for Python
