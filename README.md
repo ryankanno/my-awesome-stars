@@ -89,6 +89,7 @@
 
 ## C 
 
+- [containers/composefs](https://github.com/containers/composefs) - a file system for mounting container images
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
