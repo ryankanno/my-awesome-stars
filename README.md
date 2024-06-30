@@ -28,6 +28,7 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -37,7 +38,6 @@
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
-- [Markdown](#markdown)
 - [Max](#max)
 - [Meson](#meson)
 - [Nim](#nim)
@@ -598,6 +598,10 @@
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 - [bos/stanford-cs240h](https://github.com/bos/stanford-cs240h) - Course materials for Stanford CS240h, "Functional Systems in Haskell"
 
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java 
 
 - [Parrit/Parrit](https://github.com/Parrit/Parrit) - Software Development Pairing Management App
@@ -848,6 +852,7 @@
 
 ## Jupyter Notebook 
 
+- [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
@@ -908,10 +913,6 @@
 - [kubernetes-up-and-running/dockerfiles](https://github.com/kubernetes-up-and-running/dockerfiles) - 
 - [justinclayton/coreos-and-consul-cluster-via-terraform](https://github.com/justinclayton/coreos-and-consul-cluster-via-terraform) - Deploy Your Own CoreOS and Consul Cluster on AWS via Terraform
 - [bobtfish/terraform-example-mesos-cluster](https://github.com/bobtfish/terraform-example-mesos-cluster) - A self contained example of using Terraform to build a Mesos cluster
-
-## Markdown 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Max 
 
