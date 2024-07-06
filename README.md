@@ -1652,6 +1652,7 @@
 
 ## Rust 
 
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [warp-tech/russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
