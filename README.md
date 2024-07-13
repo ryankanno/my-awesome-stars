@@ -1088,6 +1088,7 @@
 
 ## PHP 
 
+- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
 - [raamdev/independent-publisher](https://github.com/raamdev/independent-publisher) - A beautiful reader-focused WordPress theme, for you.
 - [etsy/morgue](https://github.com/etsy/morgue) - post mortem tracker
@@ -1128,6 +1129,7 @@
 
 ## Python 
 
+- [harperreed/vcard-tools](https://github.com/harperreed/vcard-tools) - some vcard management tools
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
@@ -1812,6 +1814,7 @@
 
 ## TypeScript 
 
+- [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
