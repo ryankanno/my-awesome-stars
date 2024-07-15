@@ -1821,6 +1821,7 @@
 
 ## others 
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [harperreed/vcard-tools](https://github.com/harperreed/vcard-tools) - some vcard management tools
 - [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 - [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
@@ -2533,7 +2534,7 @@
 - [incompl/cloak](https://github.com/incompl/cloak) - A network layer for HTML5 games using Node.js
 - [hashicorp/serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
-- [gravityblast/traffic](https://github.com/gravityblast/traffic) - Sinatra inspired regexp/pattern mux and web framework for Go [NOT MAINTAINED]
+- [gravityblast/traffic](https://github.com/gravityblast/traffic) - Sinatra inspired regexp/pattern mux and web framework for Go
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
 - [sq/JSIL](https://github.com/sq/JSIL) - CIL to Javascript Compiler
 - [andviro/flake8-vim](https://github.com/andviro/flake8-vim) - Pyflakes, Pep8 and mccabe code complexity checker for Vim, bundled with latest libraries for easy installation
@@ -3193,6 +3194,7 @@
 
 ## rust 
 
+- [larksuite/rsmpeg](https://github.com/larksuite/rsmpeg) - A Rust crate that exposes FFmpeg's power as much as possible.
 - [warp-tech/russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, written in Rust
