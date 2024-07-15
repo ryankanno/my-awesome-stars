@@ -509,7 +509,7 @@
 - [alphagov/router](https://github.com/alphagov/router) - HTTP router in front of GOV.UK to proxy to backend servers on a single domain.
 - [perkeep/perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [hashicorp/serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
-- [gravityblast/traffic](https://github.com/gravityblast/traffic) - Sinatra inspired regexp/pattern mux and web framework for Go [NOT MAINTAINED]
+- [gravityblast/traffic](https://github.com/gravityblast/traffic) - Sinatra inspired regexp/pattern mux and web framework for Go
 - [tent/sigil](https://github.com/tent/sigil) - Identicon generator
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [maddyblue/go-dsp](https://github.com/maddyblue/go-dsp) - Digital Signal Processing for Go
@@ -664,6 +664,7 @@
 
 ## JavaScript 
 
+- [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [google/swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
@@ -1654,6 +1655,7 @@
 
 ## Rust 
 
+- [larksuite/rsmpeg](https://github.com/larksuite/rsmpeg) - A Rust crate that exposes FFmpeg's power as much as possible.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [warp-tech/russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
