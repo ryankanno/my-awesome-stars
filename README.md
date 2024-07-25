@@ -63,7 +63,6 @@
 - [Smalltalk](#smalltalk)
 - [Smarty](#smarty)
 - [StringTemplate](#stringtemplate)
-- [Svelte](#svelte)
 - [TLA](#tla)
 - [TSQL](#tsql)
 - [TeX](#tex)
@@ -1157,7 +1156,7 @@
 - [runpod-workers/worker-vllm](https://github.com/runpod-workers/worker-vllm) - The RunPod worker template for serving our large language model endpoints. Powered by vLLM.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
 - [microsoft/ToolTalk](https://github.com/microsoft/ToolTalk) - Evaluating tool-augmented LLMs in conversation settings
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [itamarst/eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [microsoft/simulated-trial-and-error](https://github.com/microsoft/simulated-trial-and-error) - 
@@ -1724,6 +1723,7 @@
 ## Shell 
 
 - [hikeratlas/qrank](https://github.com/hikeratlas/qrank) - Wikidata's QRank as a SQLite DB.
+- [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 - [JakeWharton/docker-gphotos-sync](https://github.com/JakeWharton/docker-gphotos-sync) - A Docker image for synchronizing your original-quality Google Photos
@@ -1789,10 +1789,6 @@
 ## StringTemplate 
 
 - [Cuis-Smalltalk/TheCuisBook](https://github.com/Cuis-Smalltalk/TheCuisBook) - A book about Cuis Smalltalk
-
-## Svelte 
-
-- [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.
 
 ## TLA 
 
