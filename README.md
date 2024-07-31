@@ -1462,7 +1462,7 @@
 - [unitedstates/contact-congress](https://github.com/unitedstates/contact-congress) - Sending electronic written messages to members of Congress by reverse engineering their contact forms.
 - [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure) - sophisticated automated test library and runner
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versi
+- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our vers
 - [google/pyringe](https://github.com/google/pyringe) - Debugger capable of attaching to and injecting code into python processes.
 - [gsko/mdht](https://github.com/gsko/mdht) - A library with protocols needed to run a Mainline DHT node (written with Twisted)
 - [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
