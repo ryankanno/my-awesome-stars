@@ -1166,7 +1166,7 @@
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
 - [dyabel/AnyTool](https://github.com/dyabel/AnyTool) - 
 - [python-hyper/h2](https://github.com/python-hyper/h2) - HTTP/2 State-Machine based protocol implementation
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [chrisjmccormick/wiki-sim-search](https://github.com/chrisjmccormick/wiki-sim-search) - Similarity search on Wikipedia using gensim in Python.
