@@ -94,6 +94,7 @@
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
+- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C
 - [viznut/vzgpt](https://github.com/viznut/vzgpt) - Viznut's C-only GPT-2 implementation
 - [kaievns/halmak](https://github.com/kaievns/halmak) - The final version of the AI designed keyboard layout
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
@@ -227,7 +228,6 @@
 ## C++ 
 
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Open Source Python Interpreter in 1 File for Game Scripting
 - [official-stockfish/Stockfish](https://github.com/official-stockfish/Stockfish) - A free and strong UCI chess engine
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
