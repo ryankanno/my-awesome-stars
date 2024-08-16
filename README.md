@@ -486,7 +486,7 @@
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
 - [andlabs/ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go.
 - [ehazlett/docker-havok](https://github.com/ehazlett/docker-havok) - Docker bridge to Vulcand
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [hashicorp/yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library
 - [gokyle/gopherref](https://github.com/gokyle/gopherref) - Attempting to typeset and produce ebook versions of some of the go docs.
 - [nsf/termbox-go](https://github.com/nsf/termbox-go) - Pure Go termbox implementation
@@ -1132,6 +1132,7 @@
 
 ## Python 
 
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
 - [harperreed/vcard-tools](https://github.com/harperreed/vcard-tools) - some vcard management tools
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
