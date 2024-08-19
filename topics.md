@@ -109,6 +109,7 @@
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
 - [jquery](#jquery)
+- [js](#js)
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
@@ -195,6 +196,7 @@
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
+- [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -225,7 +227,9 @@
 
 ## ai 
 
+- [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - :closed_book: Clarity in the current fast-paced mess of Open Source innovation
@@ -496,6 +500,7 @@
 
 ## chatgpt 
 
+- [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
@@ -698,7 +703,7 @@
 ## data-visualization 
 
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
@@ -715,7 +720,7 @@
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
 - [janishar/android-mvvm-architecture](https://github.com/janishar/android-mvvm-architecture) - This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView
 - [tidwall/summitdb](https://github.com/tidwall/summitdb) - In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [usc-isi-i2/Web-Karma](https://github.com/usc-isi-i2/Web-Karma) - Information Integration Tool
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -796,7 +801,7 @@
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -833,7 +838,7 @@
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [tiangolo/uvicorn-gunicorn-fastapi-docker](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python with performance auto-tuning.
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [fabiolb/fabio](https://github.com/fabiolb/fabio) - Consul Load-Balancing made simple
 - [gliderlabs/registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker with pluggable adapters
@@ -1350,6 +1355,7 @@
 
 ## javascript 
 
+- [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [MilesCranmer/awesome-ml-demos](https://github.com/MilesCranmer/awesome-ml-demos) - Curated list of interactive ML demos
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
@@ -1423,6 +1429,10 @@
 
 - [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 
+## js 
+
+- [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
+
 ## json 
 
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
@@ -1462,7 +1472,7 @@
 - [pytest-dev/pytest-testinfra](https://github.com/pytest-dev/pytest-testinfra) - Testinfra test your infrastructures
 - [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [weaveworks/weave](https://github.com/weaveworks/weave) - Simple, resilient multi-host containers networking and more.
@@ -1519,7 +1529,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -1533,6 +1543,7 @@
 
 ## llm 
 
+- [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
@@ -1608,7 +1619,7 @@
 - [ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks.
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [tflearn/tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
@@ -1665,7 +1676,7 @@
 
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Bring AI to your database! Integrate AI models and workflows with your database  to implement custom AI applications, without moving your data. Including streaming inference, scalable mode
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 
@@ -1673,7 +1684,7 @@
 
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
@@ -1692,7 +1703,7 @@
 
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 
@@ -1766,6 +1777,7 @@
 
 ## nodejs 
 
+- [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -2860,7 +2872,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
@@ -3130,7 +3142,7 @@
 ## raspberry-pi 
 
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [openframeworks/openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 
@@ -3363,6 +3375,12 @@
 - [onmyway133/awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation) - :umbrella: A collection of iOS animation repos
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
+## tailwindcss 
+
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+- [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
 ## tensorflow 
 
 - [nekitmm/starnet](https://github.com/nekitmm/starnet) - StarNet
@@ -3418,6 +3436,7 @@
 
 ## typescript 
 
+- [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [GammaTauAI/opentau](https://github.com/GammaTauAI/opentau) - Using Large Language Models for Repo-wide Type Prediction
