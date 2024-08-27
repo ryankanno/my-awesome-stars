@@ -1849,6 +1849,7 @@
 
 ## others 
 
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX based on the Huggingface Diffusers implementation.
 - [postalsys/emailengine](https://github.com/postalsys/emailengine) - Headless email client
 - [harperreed/vcard-tools](https://github.com/harperreed/vcard-tools) - some vcard management tools
