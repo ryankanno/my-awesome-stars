@@ -1870,6 +1870,7 @@
 
 ## others 
 
+- [ryankanno/dotfiles](https://github.com/ryankanno/dotfiles) - All my dotfiles
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
@@ -1897,7 +1898,6 @@
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
 - [hikeratlas/qrank](https://github.com/hikeratlas/qrank) - Wikidata's QRank as a SQLite DB.
-- [ryankanno/dotfiles](https://github.com/ryankanno/dotfiles) - All my dotfiles
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
 - [larryboyko/dimityjones](https://github.com/larryboyko/dimityjones) - electronic escape novel requiring readers to solve puzzles before reading the next chapter
