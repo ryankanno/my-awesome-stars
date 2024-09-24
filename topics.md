@@ -3153,7 +3153,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
+- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator (Presently Unmaintained).
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [Frozen-Flask/Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
