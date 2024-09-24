@@ -1563,7 +1563,7 @@
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [ilektrojohn/creepy](https://github.com/ilektrojohn/creepy) - A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms.
 - [devstructure/blueprint](https://github.com/devstructure/blueprint) - Reverse engineer server configuration
-- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
+- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator (Presently Unmaintained).
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 - [Frozen-Flask/Frozen-Flask](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files.
 - [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
