@@ -501,7 +501,7 @@
 - [pquerna/hurl](https://github.com/pquerna/hurl) - hurl: hurt a url.
 - [flynn-archive/go-discoverd](https://github.com/flynn-archive/go-discoverd) - Archived -- see https://github.com/flynn/flynn
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [pksunkara/alpaca](https://github.com/pksunkara/alpaca) - Given a web API, Generate client libraries in node, php, python, ruby
 - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol).
 - [flynn-archive/discoverd](https://github.com/flynn-archive/discoverd) - Archived -- see https://github.com/flynn/flynn
@@ -1169,7 +1169,7 @@
 - [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, available in Rust or pure Python
 - [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
