@@ -432,7 +432,7 @@
 ## aws 
 
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. Self-hosted on AWS.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
 - [insitro/redun](https://github.com/insitro/redun) - Yet another redundant workflow engine
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Self-service management of complex Cloud Environments
@@ -637,12 +637,12 @@
 
 ## continuous-integration 
 
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. Self-hosted on AWS.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
-- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [Strider-CD/strider](https://github.com/Strider-CD/strider) - Open Source Continuous Integration & Deployment Server
 
 ## covid-19 
@@ -895,7 +895,7 @@
 - [ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -1096,7 +1096,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [lolcommits/lolcommits](https://github.com/lolcommits/lolcommits) - :camera: git-based selfies for software developers
 - [mhinz/vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -1156,7 +1156,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [pksunkara/alpaca](https://github.com/pksunkara/alpaca) - Given a web API, Generate client libraries in node, php, python, ruby
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -1288,7 +1288,7 @@
 - [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) - This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our vers
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
-- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -3375,7 +3375,7 @@
 
 ## self-hosted 
 
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Action runners. 5x faster caches. Self-hosted on AWS.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
 - [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
