@@ -1939,7 +1939,7 @@
 - [TechnologyBrewery/poetry-monorepo-dependency-plugin](https://github.com/TechnologyBrewery/poetry-monorepo-dependency-plugin) - Poetry plugin that facilitates the usage of more complex monorepo project structures by pinning version dependencies when building and publishing archives with local path dependencies to other Poetry 
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [gemelo-ai/vocos](https://github.com/gemelo-ai/vocos) - Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis
-- [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
+- [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Accepted as [NeurIPS 2024] Spotlight Presentation Paper
 - [Cuis-Smalltalk/TheCuisBook](https://github.com/Cuis-Smalltalk/TheCuisBook) - A book about Cuis Smalltalk
 - [tzachar/cmp-ai](https://github.com/tzachar/cmp-ai) - 
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
