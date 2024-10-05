@@ -269,7 +269,7 @@
 - [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 - [abique/hefur](https://github.com/abique/hefur) - Standalone C++ BitTorrent tracker
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [sit/dht](https://github.com/sit/dht) - MIT Chord/DHash
 - [cisco/openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet) - Lightweight in-process concurrent programming
@@ -565,7 +565,6 @@
 - [nko5/hicapacity](https://github.com/nko5/hicapacity) - 
 - [codeforamerica/chime](https://github.com/codeforamerica/chime) - A city-focused content management system
 - [hashicorp/otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
-- [alphagov/smart-answers](https://github.com/alphagov/smart-answers) - Serves smart answers on GOV.UK
 - [pyhi/pyhawaii-blog](https://github.com/pyhi/pyhawaii-blog) - The blog for PyHawaii; created using Pelican :)
 - [molivier/nest](https://github.com/molivier/nest) - Nest Pelican Template
 - [thomaswilley/pelicanyan](https://github.com/thomaswilley/pelicanyan) - A Pelican port of Jekyll's Lanyon Theme
@@ -1147,7 +1146,7 @@
 
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [catcathh/UltraPixel](https://github.com/catcathh/UltraPixel) - Implementation of UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks
 - [tigerchen52/awesome_role_of_small_models](https://github.com/tigerchen52/awesome_role_of_small_models) - a curated list of the role of small models in the LLM era
@@ -1623,6 +1622,7 @@
 - [mattfinlayson/ansible-consul](https://github.com/mattfinlayson/ansible-consul) - Ansible role for consul
 - [18F/dolores-landingham-slack-bot](https://github.com/18F/dolores-landingham-slack-bot) - A Slack bot to welcome new 18F hires with the authority and compassion of Mrs. Landingham
 - [heyellieday/attend](https://github.com/heyellieday/attend) - Simple web app to bulk-register for recurring Eventbrite events
+- [alphagov/smart-answers](https://github.com/alphagov/smart-answers) - Serves smart answers on GOV.UK
 - [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms
 - [iw/mirage-jekyll](https://github.com/iw/mirage-jekyll) - Supports building of Mirage unikernels using Test Kitchen and Vagrant, and launching on AWS EC2
 - [allourideas/allourideas.org](https://github.com/allourideas/allourideas.org) - allourideas allows groups to collect and priorize information in an open, democratic, and efficient process.
