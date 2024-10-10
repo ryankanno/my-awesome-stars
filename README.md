@@ -148,6 +148,7 @@
 ## C# # 
 
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [microsoft/NugetNinja](https://github.com/microsoft/NugetNinja) - A tool for detecting dependencies of .NET projects.
 - [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
@@ -874,7 +875,6 @@
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" (ICLR 2024)
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Integrate AI models and machine learning workflows with your database to implement custom AI applications, without moving your data. Including streaming inference, scalable model hosting, 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & command-line tool to easily transcribe speech-based video files into clean text
@@ -1172,7 +1172,7 @@
 - [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [Filimoa/open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, available in Rust or pure Python
 - [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
