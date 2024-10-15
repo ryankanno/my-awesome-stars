@@ -1847,6 +1847,7 @@
 
 ## TypeScript 
 
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [fxnai/fxn-llm-js](https://github.com/fxnai/fxn-llm-js) - Use local LLMs in your browser and Node.js apps. Register at https://fxn.ai
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [yamadashy/repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like 
