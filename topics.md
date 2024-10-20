@@ -1944,6 +1944,7 @@
 
 ## others 
 
+- [google-deepmind/searchless_chess](https://github.com/google-deepmind/searchless_chess) - Grandmaster-Level Chess Without Search
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) - 
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
