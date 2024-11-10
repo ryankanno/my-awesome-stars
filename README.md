@@ -750,7 +750,7 @@
 - [patcon/flock-encryption-proxy](https://github.com/patcon/flock-encryption-proxy) - 
 - [cuckoosandbox/cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is an automated dynamic malware analysis system
 - [mentum/lambdaws](https://github.com/mentum/lambdaws) - Deploy, run and get results from Amazon AWS Lambda in a breeze
-- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [teampizza/backpack](https://github.com/teampizza/backpack) - _you_ got your back
 - [Kong/mashape-oauth](https://github.com/Kong/mashape-oauth) - OAuth Modules for Node.js - Supporting RSA, HMAC, PLAINTEXT, 2,3-Legged, 1.0a, Echo, XAuth, and 2.0
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
@@ -1854,6 +1854,7 @@
 
 ## TypeScript 
 
+- [dalindev/XNOHub.com](https://github.com/dalindev/XNOHub.com) - Real-time 3D visualizer of the Nano cryptocurrency network, displaying live blockchain transactions and major nodes on an interactive 3D globe with immersive effects.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [fxnai/fxn-llm-js](https://github.com/fxnai/fxn-llm-js) - Use local LLMs in your browser and Node.js apps. Register at https://fxn.ai
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
