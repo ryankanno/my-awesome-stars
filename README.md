@@ -1147,6 +1147,8 @@
 
 ## Python 
 
+- [OpenCoder-llm/OpenCoder-llm](https://github.com/OpenCoder-llm/OpenCoder-llm) - The Open Cookbook for Top-Tier Code Large Language Model
+- [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [google-deepmind/searchless_chess](https://github.com/google-deepmind/searchless_chess) - Grandmaster-Level Chess Without Search
@@ -1689,7 +1691,7 @@
 
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [larksuite/rsmpeg](https://github.com/larksuite/rsmpeg) - A Rust crate that exposes FFmpeg's power as much as possible.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -1749,7 +1751,7 @@
 - [laurilehmijoki/s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
 - [dispatch/reboot](https://github.com/dispatch/reboot) - Scala wrapper for the Java AsyncHttpClient.
 - [dispatch/classic](https://github.com/dispatch/classic) - [UNSUPPORTED] Dispatch Classic. See dispatch/reboot for the modern Dispatch for Scala 2.11/2.12
-- [akka/akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+- [akka/akka](https://github.com/akka/akka) - A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
 
 ## Scheme 
 
