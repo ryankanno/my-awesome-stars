@@ -1856,7 +1856,7 @@
 
 ## TypeScript 
 
-- [dalindev/XNOHub.com](https://github.com/dalindev/XNOHub.com) - Real-time 3D visualizer of the Nano cryptocurrency network, displaying live blockchain transactions and major nodes on an interactive 3D globe with immersive effects.
+- [dalindev/XNOHub.com](https://github.com/dalindev/XNOHub.com) - 🌍 Real-time 3D visualization of Nano cryptocurrency networks - Watch live transactions fly across an interactive globe with 🚀 SpaceX-inspired animations
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [fxnai/fxn-llm-js](https://github.com/fxnai/fxn-llm-js) - Use local LLMs in your browser and Node.js apps. Register at https://fxn.ai
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
