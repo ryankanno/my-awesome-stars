@@ -229,7 +229,7 @@
 
 ## 3d 
 
-- [dalindev/XNOHub.com](https://github.com/dalindev/XNOHub.com) - Real-time 3D visualizer of the Nano cryptocurrency network, displaying live blockchain transactions and major nodes on an interactive 3D globe with immersive effects.
+- [dalindev/XNOHub.com](https://github.com/dalindev/XNOHub.com) - 🌍 Real-time 3D visualization of Nano cryptocurrency networks - Watch live transactions fly across an interactive globe with 🚀 SpaceX-inspired animations
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 
@@ -488,7 +488,7 @@
 
 ## blockchain 
 
-- [dalindev/XNOHub.com](https://github.com/dalindev/XNOHub.com) - Real-time 3D visualizer of the Nano cryptocurrency network, displaying live blockchain transactions and major nodes on an interactive 3D globe with immersive effects.
+- [dalindev/XNOHub.com](https://github.com/dalindev/XNOHub.com) - 🌍 Real-time 3D visualization of Nano cryptocurrency networks - Watch live transactions fly across an interactive globe with 🚀 SpaceX-inspired animations
 
 ## bootstrap 
 
