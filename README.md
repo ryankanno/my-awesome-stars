@@ -415,7 +415,7 @@
 - [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language.
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The database for modern applications. Common use cases: knowledge graphs for AI, fraud detection, personalization, and search. Built and maintained by @HypermodeInc.
 - [alexellis/spotminer](https://github.com/alexellis/spotminer) - Golang automation for mining cryptocurrencies on the Spot Market
 - [qax-os/goreporter](https://github.com/qax-os/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
@@ -1133,7 +1133,6 @@
 
 ## PowerShell 
 
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [joefitzgerald/packer-windows](https://github.com/joefitzgerald/packer-windows) - Windows Packer Templates
 
 ## Processing 
@@ -1147,7 +1146,7 @@
 
 ## Python 
 
-- [arkohut/pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。
+- [arkohut/pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
 - [OpenCoder-llm/OpenCoder-llm](https://github.com/OpenCoder-llm/OpenCoder-llm) - The Open Cookbook for Top-Tier Code Large Language Model
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
@@ -1354,6 +1353,7 @@
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [inejc/painters](https://github.com/inejc/painters) - :art: Winning solution for the Painter by Numbers competition on Kaggle.
 - [mplewis/expose.py](https://github.com/mplewis/expose.py) - Photojournalism static site generator, inspired by Jack000/Expose
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
 - [ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks.
 - [rholder/retrying](https://github.com/rholder/retrying) - Retrying is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.
