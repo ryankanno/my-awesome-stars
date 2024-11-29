@@ -227,6 +227,7 @@
 
 ## C++ 
 
+- [wesql/wesql](https://github.com/wesql/wesql) - WeSQL is an innovative MySQL distribution that adopts a compute-storage separation architecture, with storage backed by S3 (and S3-compatible systems). It can run on any cloud, ensuring no vendor lock
 - [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
 - [kevmo314/scuda](https://github.com/kevmo314/scuda) - SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -1146,6 +1147,7 @@
 
 ## Python 
 
+- [Infini-AI-Lab/MagicPIG](https://github.com/Infini-AI-Lab/MagicPIG) - MagicPIG: LSH Sampling for Efficient LLM Generation
 - [arkohut/pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
 - [OpenCoder-llm/OpenCoder-llm](https://github.com/OpenCoder-llm/OpenCoder-llm) - The Open Cookbook for Top-Tier Code Large Language Model
@@ -1694,7 +1696,7 @@
 
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - nextjs for desktop agents. agents powered by 24/7 screen, voice, keyboard, mouse, camera recording. sandboxed. keyboard and mouse control in js
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [larksuite/rsmpeg](https://github.com/larksuite/rsmpeg) - A Rust crate that exposes FFmpeg's power as much as possible.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
