@@ -329,7 +329,7 @@
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [pksunkara/alpaca](https://github.com/pksunkara/alpaca) - Given a web API, Generate client libraries in node, php, python, ruby
 - [twilio/twilio-csharp](https://github.com/twilio/twilio-csharp) - Twilio C#/.NET Helper Library for .NET6+.
@@ -1374,7 +1374,7 @@
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [hugapi/hug](https://github.com/hugapi/hug) - Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [reactiveui/Fusillade](https://github.com/reactiveui/Fusillade) - An opinionated HTTP library for Mobile Development
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
@@ -3190,7 +3190,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [ianmiell/shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [oliver006/elasticsearch-gmail](https://github.com/oliver006/elasticsearch-gmail) - Index your Gmail Inbox with Elasticsearch
 - [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine 🚀
@@ -3689,7 +3689,7 @@
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [catberry/catberry](https://github.com/catberry/catberry) - Catberry is an isomorphic framework for building universal front-end apps using components, Flux architecture and progressive rendering.
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
