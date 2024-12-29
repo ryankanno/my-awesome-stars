@@ -878,6 +878,7 @@
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" (ICLR 2024)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & command-line tool to easily transcribe speech-based video files into clean text
@@ -930,6 +931,7 @@
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 
 ## Max 
 
@@ -1074,7 +1076,6 @@
 - [TheUpshot/Military-Surplus-Gear](https://github.com/TheUpshot/Military-Surplus-Gear) - Military equipment given to law enforcement agencies
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [smontanaro/pylockfile](https://github.com/smontanaro/pylockfile) - Cross-platform file locking in Python
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [prili/fb-hfc](https://github.com/prili/fb-hfc) - Facebook hidden friends crawler POC
 - [Bloomberg-Beta/Manual](https://github.com/Bloomberg-Beta/Manual) - You were probably looking for our website... this is it. We moved our website here, so you can see the insides of how we work.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -1246,7 +1247,6 @@
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [s9roll7/animatediff-cli-prompt-travel](https://github.com/s9roll7/animatediff-cli-prompt-travel) - animatediff prompt travel
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [VikParuchuri/textbook_quality](https://github.com/VikParuchuri/textbook_quality) - Generate textbook-quality synthetic LLM pretraining data
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
@@ -1288,7 +1288,7 @@
 - [libvips/pyvips](https://github.com/libvips/pyvips) - python binding for libvips using cffi
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [GjjvdBurg/HugoPhotoSwipe](https://github.com/GjjvdBurg/HugoPhotoSwipe) - Command-line tool for easy PhotoSwipe galleries in Hugo
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch and FLAX.
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [anthonywritescode/explains](https://github.com/anthonywritescode/explains) - more easily searchable list of explains playlist
 - [Tinche/incant](https://github.com/Tinche/incant) - 
@@ -1853,7 +1853,7 @@
 
 - [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - :closed_book: Clarity in the current fast-paced mess of Open Source innovation
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
-- [KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers) - Papers & Works for large languange models (OpenAI GPT-4, Meta Llama, etc.).
+- [SEU-COIN/LLMPapers](https://github.com/SEU-COIN/LLMPapers) - Papers & Works for large languange models (OpenAI GPT-4, Meta Llama, etc.).
 - [0xjac/master-thesis](https://github.com/0xjac/master-thesis) - Written report for my master thesis
 - [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
 - [AllenDowney/ThinkOS](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems, by Allen Downey.
@@ -1891,7 +1891,7 @@
 - [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [langchain-ai/auto-evaluator](https://github.com/langchain-ai/auto-evaluator) - 
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
