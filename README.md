@@ -540,7 +540,7 @@
 
 ## HCL 
 
-- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
+- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [skyscrapers/terraform-website-s3-cloudfront-route53](https://github.com/skyscrapers/terraform-website-s3-cloudfront-route53) - Terraform scripts to setup an S3 based static website, with a CloudFront distribution and the required Route53 entries.
 - [xuwang/aws-terraform](https://github.com/xuwang/aws-terraform) - Code examples to create CoreOS cluster on AWS  with Terraform
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
@@ -877,6 +877,7 @@
 - [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [eureka-research/Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models" (ICLR 2024)
+- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Build end-to-end AI applications and agent workflows on your existing data infrastructure and preferred tools - without migrating your data.
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & command-line tool to easily transcribe speech-based video files into clean text
@@ -921,7 +922,7 @@
 
 ## Makefile 
 
-- [runs-on/runs-on](https://github.com/runs-on/runs-on) - 10x cheaper GitHub Actions runners. 5x faster caches. Self-hosted on AWS.
+- [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [kubernetes-up-and-running/dockerfiles](https://github.com/kubernetes-up-and-running/dockerfiles) - 
 - [justinclayton/coreos-and-consul-cluster-via-terraform](https://github.com/justinclayton/coreos-and-consul-cluster-via-terraform) - Deploy Your Own CoreOS and Consul Cluster on AWS via Terraform
 - [bobtfish/terraform-example-mesos-cluster](https://github.com/bobtfish/terraform-example-mesos-cluster) - A self contained example of using Terraform to build a Mesos cluster
@@ -1110,7 +1111,7 @@
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
 - [raamdev/independent-publisher](https://github.com/raamdev/independent-publisher) - A beautiful reader-focused WordPress theme, for you.
 - [etsy/morgue](https://github.com/etsy/morgue) - post mortem tracker
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [Chicago/metalicious](https://github.com/Chicago/metalicious) - An open source data dictionary which can be deployed to track the metadata of one or more databases.
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 - [ryankanno/wordpress-themes](https://github.com/ryankanno/wordpress-themes) - Just some wordpress themes I've worked on
@@ -1146,6 +1147,8 @@
 
 ## Python 
 
+- [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) - 
+- [NVIDIA/Cosmos](https://github.com/NVIDIA/Cosmos) - Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cos
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [thousandbrainsproject/tbp.monty](https://github.com/thousandbrainsproject/tbp.monty) - Monty is a sensorimotor learning framework based on the thousand brains theory of the neocortex.
@@ -1185,7 +1188,7 @@
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [gemelo-ai/vocos](https://github.com/gemelo-ai/vocos) - Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
@@ -1242,7 +1245,6 @@
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-- [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: Build end-to-end AI applications and agent workflows on your existing data infrastructure and preferred tools - without migrating your data.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
@@ -1895,7 +1897,7 @@
 - [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [langchain-ai/auto-evaluator](https://github.com/langchain-ai/auto-evaluator) - 
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
