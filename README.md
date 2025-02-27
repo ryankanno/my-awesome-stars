@@ -107,7 +107,7 @@
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [MagicStack/immutables](https://github.com/MagicStack/immutables) - A high-performance immutable mapping type for Python.
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [antirez/disque](https://github.com/antirez/disque) - Disque is a distributed message broker
 - [alibaba/nginx-http-sysguard](https://github.com/alibaba/nginx-http-sysguard) - A Nginx module to protect servers when system load or memory use goes too high.
 - [sustrik/libmill](https://github.com/sustrik/libmill) - Go-style concurrency in C
@@ -860,6 +860,7 @@
 
 ## Jupyter Notebook 
 
+- [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [fireducks-dev/fireducks](https://github.com/fireducks-dev/fireducks) - Create an issue on FireDucks
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
@@ -894,6 +895,7 @@
 - [hammadshaikhha/Data-Science-and-Machine-Learning-from-Scratch](https://github.com/hammadshaikhha/Data-Science-and-Machine-Learning-from-Scratch) - Implements common data science methods and machine learning algorithms from scratch in python. Intuition and theory behind the algorithms is also discussed.
 - [rouseguy/DeepLearning-NLP](https://github.com/rouseguy/DeepLearning-NLP) - Introduction to Deep Learning for Natural Language Processing
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
+- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [ocropus-archive/DUP-ocropy](https://github.com/ocropus-archive/DUP-ocropy) - Python-based tools for document analysis and OCR
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
 - [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
@@ -979,6 +981,7 @@
 
 ## Others 
 
+- [patrickloeber/llm-data-scrapers](https://github.com/patrickloeber/llm-data-scrapers) - A list of useful Open Source tools and scrapers to gather data for LLMs
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
 - [sporto/awesome-elm](https://github.com/sporto/awesome-elm) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
@@ -1009,7 +1012,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 - [mercari/engineer-vocabulary-list](https://github.com/mercari/engineer-vocabulary-list) - Engineer Vocabulary List in Japanese/English
-- [iwangjian/Paper-Reading-ConvAI](https://github.com/iwangjian/Paper-Reading-ConvAI) - 📖 Paper reading list in conversational AI (constantly updating 🤗).
+- [iwangjian/Paper-Reading-ConvAI](https://github.com/iwangjian/Paper-Reading-ConvAI) - 📖 Paper reading list in conversational AI.
 - [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [faroit/awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) - Curated list of python software and packages related to scientific research in audio
 - [diimdeep/awesome-split-keyboards](https://github.com/diimdeep/awesome-split-keyboards) - A collection of ergonomic split keyboards ⌨
@@ -1175,7 +1178,7 @@
 - [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) - Aggregates RSS and web content(Calibre recipe), sends to Kindle, and includes an e-ink optimized online reader.
 - [Infini-AI-Lab/MagicPIG](https://github.com/Infini-AI-Lab/MagicPIG) - [ICLR2025 Spotlight] MagicPIG: LSH Sampling for Efficient LLM Generation
 - [arkohut/pensieve](https://github.com/arkohut/pensieve) - A passive recording project allows you to have complete control over your data. Automatically take screenshots of all your screens, index them, and save them locally.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping easy again!
 - [OpenCoder-llm/OpenCoder-llm](https://github.com/OpenCoder-llm/OpenCoder-llm) - The Open Cookbook for Top-Tier Code Large Language Model
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
@@ -1414,7 +1417,6 @@
 - [bhrigu123/classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders
 - [intel/IntelSEAPI](https://github.com/intel/IntelSEAPI) - IntelSEAPI
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-- [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - [Yelp/paasta](https://github.com/Yelp/paasta) - An open, distributed platform as a service
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks
 - [mailgun/talon](https://github.com/mailgun/talon) - 
@@ -1722,6 +1724,7 @@
 
 ## Rust 
 
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
