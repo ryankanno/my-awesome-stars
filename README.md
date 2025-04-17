@@ -1172,6 +1172,7 @@
 
 ## Python 
 
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
@@ -1182,7 +1183,7 @@
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [SesameAILabs/csm](https://github.com/SesameAILabs/csm) - A Conversational Speech Generation Model
 - [ElectricAlexis/NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms
-- [plexe-ai/smolmodels](https://github.com/plexe-ai/smolmodels) - ✨ build ml models in natural language and minimal code
+- [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ build ml models in natural language and minimal code
 - [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling
 - [strangeloopcanon/llm-poker](https://github.com/strangeloopcanon/llm-poker) - Evaluating LLMs by having them play games against each other
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
@@ -1927,6 +1928,8 @@
 
 ## TypeScript 
 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
