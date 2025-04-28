@@ -208,6 +208,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [tailwindcss](#tailwindcss)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -248,13 +249,13 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent & Windsurf Agent System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping simple and easy again!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
@@ -377,7 +378,7 @@
 ## automation 
 
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping simple and easy again!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Agentic AI framework for enterprise workflow automation.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
@@ -776,7 +777,7 @@
 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets) - A list of publicly available datasets with real-time data maintained by the team at bytewax.io
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping simple and easy again!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
@@ -827,6 +828,7 @@
 
 ## database 
 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
@@ -1147,6 +1149,7 @@
 
 ## game-development 
 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [SFTtech/openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine 🚀
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -1325,7 +1328,7 @@
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping simple and easy again!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Agentic AI framework for enterprise workflow automation.
@@ -1825,7 +1828,7 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [Lyndir/MasterPassword](https://github.com/Lyndir/MasterPassword) - Project moved to https://gitlab.com/spectre.app
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -1995,6 +1998,7 @@
 
 ## open-source 
 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
 - [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - Command & Conquer: Remastered Collection
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -2061,6 +2065,7 @@
 
 ## others 
 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [agentica-project/rllm](https://github.com/agentica-project/rllm) - Democratizing Reinforcement Learning for LLMs
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -3160,7 +3165,7 @@
 ## privacy 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 
 ## programming 
 
@@ -3188,7 +3193,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [meeb/whoisit](https://github.com/meeb/whoisit) - A Python library to RDAP WHOIS-like services for internet resources such as ASNs, IPs, CIDRs and domains
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping simple and easy again!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -3376,7 +3381,7 @@
 
 ## python3 
 
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping simple and easy again!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [ajndkr/lanarky](https://github.com/ajndkr/lanarky) - The web framework for building LLM microservices
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -3579,7 +3584,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [python-security/pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
 - [Netflix/Fido](https://github.com/Netflix/Fido) - 
 
@@ -3695,6 +3700,10 @@
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
+## telegram-bot 
+
+- [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
 
 ## tensorflow 
 
