@@ -1175,6 +1175,7 @@
 
 ## Python 
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
@@ -1937,7 +1938,7 @@
 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [iliane5/meridian](https://github.com/iliane5/meridian) - Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs.
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
@@ -1949,7 +1950,7 @@
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [fxnai/fxn-llm-js](https://github.com/fxnai/fxn-llm-js) - Use local LLMs in your browser and Node.js apps. Register at https://fxn.ai
 - [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
