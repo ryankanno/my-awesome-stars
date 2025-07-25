@@ -404,7 +404,7 @@
 - [lanrat/czds](https://github.com/lanrat/czds) - simple golang API and tools to interact with czds.icann.org
 - [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 - [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
 - [adalkiran/webrtc-nuts-and-bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation.
@@ -478,7 +478,7 @@
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [weaveworks/go-odp](https://github.com/weaveworks/go-odp) - A Go library to control the Open vSwitch in-kernel datapath
 - [hashicorp/go-immutable-radix](https://github.com/hashicorp/go-immutable-radix) - An immutable radix tree implementation in Golang
-- [docker/machine](https://github.com/docker/machine) - Machine management for a container-centric world
+- [docker-archive-public/docker.machine](https://github.com/docker-archive-public/docker.machine) - Machine management for a container-centric world
 - [bradfitz/talk-http2go](https://github.com/bradfitz/talk-http2go) - HTTP/2 Go Talk
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -497,7 +497,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [dgryski/go-gk](https://github.com/dgryski/go-gk) - gk: streaming quantiles
-- [docker/libchan](https://github.com/docker/libchan) - Like Go channels over the network
+- [docker-archive-public/docker.libchan](https://github.com/docker-archive-public/docker.libchan) - Like Go channels over the network
 - [docker-archive/classicswarm](https://github.com/docker-archive/classicswarm) - Swarm Classic: a container clustering system. Not to be confused with Docker Swarm which is at https://github.com/docker/swarmkit
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 - [kelseyhightower/confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul
@@ -552,7 +552,6 @@
 
 ## HCL 
 
-- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [skyscrapers/terraform-website-s3-cloudfront-route53](https://github.com/skyscrapers/terraform-website-s3-cloudfront-route53) - Terraform scripts to setup an S3 based static website, with a CloudFront distribution and the required Route53 entries.
 - [xuwang/aws-terraform](https://github.com/xuwang/aws-terraform) - Code examples to create CoreOS cluster on AWS  with Terraform
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
@@ -596,7 +595,6 @@
 - [shower/jekyller](https://github.com/shower/jekyller) - Shower presentation generator with Jekyll underneath
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
-- [toptal/webdevchecklist.com](https://github.com/toptal/webdevchecklist.com) - Web Developer Checklist
 - [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [jakesgordon/javascript-racer](https://github.com/jakesgordon/javascript-racer) - How to build an outrun-style racing game in javascript
@@ -608,6 +606,7 @@
 
 ## Haskell 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [rberenguel/glancer](https://github.com/rberenguel/glancer) - Glance over some technical videos
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
@@ -922,7 +921,6 @@
 
 ## Kotlin 
 
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [square/leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android.
 - [google/iosched](https://github.com/google/iosched) - The Google I/O Android App
 
@@ -1002,13 +1000,14 @@
 
 ## Others 
 
+- [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - AI SYSTEMS TRANSPARENCY FOR ALL! - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 - [KalyanKS-NLP/LLM-Survey-Papers-Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) - A category wise collection of 200+ LLM survey papers.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Mode
 - [Amplify-Partners/annotation-reading-list](https://github.com/Amplify-Partners/annotation-reading-list) - A reading list of relevant papers and projects on foundation model annotation
 - [patrickloeber/llm-data-scrapers](https://github.com/patrickloeber/llm-data-scrapers) - A list of useful Open Source tools and scrapers to gather data for LLMs
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1190,6 +1189,7 @@
 
 ## Python 
 
+- [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
 - [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) - 
@@ -1280,7 +1280,7 @@
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python
 - [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
-- [OpenInterpreter/01](https://github.com/OpenInterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
+- [openinterpreter/01](https://github.com/openinterpreter/01) - The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [runpod-workers/worker-vllm](https://github.com/runpod-workers/worker-vllm) - The RunPod worker template for serving our large language model endpoints. Powered by vLLM.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
@@ -1308,7 +1308,7 @@
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.
 - [sail-sg/sewformer](https://github.com/sail-sg/sewformer) - 
 - [Picovoice/porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning
-- [ajndkr/lanarky](https://github.com/ajndkr/lanarky) - The web framework for building LLM microservices
+- [ajndkr/lanarky](https://github.com/ajndkr/lanarky) - The web framework for building LLM microservices [deprecated]
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - Python client library for Modal
 - [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine) - Python binding for Rust's library for reading excel and odf file - calamine.
 - [ethz-spylab/satml-llm-ctf](https://github.com/ethz-spylab/satml-llm-ctf) - Code used to run the platform for the LLM CTF colocated with SaTML 2024
@@ -1327,7 +1327,7 @@
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
-- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -1864,9 +1864,9 @@
 
 ## Shell 
 
+- [ryankanno/dotfiles](https://github.com/ryankanno/dotfiles) - All my dotfiles
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
-- [ryankanno/dotfiles](https://github.com/ryankanno/dotfiles) - All my dotfiles
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [hikeratlas/qrank](https://github.com/hikeratlas/qrank) - Wikidata's QRank as a SQLite DB.
 - [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.
@@ -2012,6 +2012,7 @@
 - [langchain-ai/auto-evaluator](https://github.com/langchain-ai/auto-evaluator) - 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
+- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Self-service management of complex Cloud Environments
