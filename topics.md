@@ -2163,6 +2163,8 @@
 
 ## others 
 
+- [stretchcloud/deepscrape](https://github.com/stretchcloud/deepscrape) - 
+- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 3 minutes
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
