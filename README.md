@@ -684,7 +684,6 @@
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [jalehman/mcp-sage](https://github.com/jalehman/mcp-sage) - MCP Server for getting second opinions/reviews on large amounts of code.
 - [hayatbiralem/eco.json](https://github.com/hayatbiralem/eco.json) - Encyplopedia of Chess Openings (ECO) json data.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
@@ -747,6 +746,7 @@
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 - [azmenak/react-stripe-checkout](https://github.com/azmenak/react-stripe-checkout) - Load stripe's checkout.js as a react component. Easiest way to use checkout with React.
 - [erikras/react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
+- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [gpbl/isomorphic500](https://github.com/gpbl/isomorphic500) - A 500px app built with React and Fluxible with babeljs
 - [YahooArchive/end-to-end](https://github.com/YahooArchive/end-to-end) - Use OpenPGP-based encryption in Yahoo mail.
 - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
@@ -969,7 +969,6 @@
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
-- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [budimanjojo/nix-config](https://github.com/budimanjojo/nix-config) - My infrastructure managed by Nix Flakes and Chezmoi are here
@@ -1215,7 +1214,7 @@
 - [bytedance/monolith](https://github.com/bytedance/monolith) - A Lightweight Recommendation System
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - GenAI Agent Framework, the Pydantic way
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [fynnfluegge/doc-comments-ai](https://github.com/fynnfluegge/doc-comments-ai) - LLM-powered code documentation generation
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
@@ -1321,7 +1320,7 @@
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [insitro/redun](https://github.com/insitro/redun) - Yet another redundant workflow engine
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
@@ -1383,7 +1382,7 @@
 - [libvips/pyvips](https://github.com/libvips/pyvips) - python binding for libvips using cffi
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [GjjvdBurg/HugoPhotoSwipe](https://github.com/GjjvdBurg/HugoPhotoSwipe) - Command-line tool for easy PhotoSwipe galleries in Hugo
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - :hugging_face: Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [anthonywritescode/explains](https://github.com/anthonywritescode/explains) - more easily searchable list of explains playlist
 - [Tinche/incant](https://github.com/Tinche/incant) - 
@@ -1426,7 +1425,7 @@
 - [sarugaku/passa](https://github.com/sarugaku/passa) - Resolver implementation and toolset for generating and interacting with Pipfile and Pipfile.lock.
 - [KamitaniLab/DeepImageReconstruction](https://github.com/KamitaniLab/DeepImageReconstruction) - Data and code for Shen, Horikawa, Majima, and Kamitani (2019) Deep image reconstruction from human brain activity. PLoS Comput. Biol. http://dx.doi.org/10.1371/journal.pcbi.1006633.
 - [vespene-io/_old_vespene](https://github.com/vespene-io/_old_vespene) - DISCONTINUED: a frozen fork will exist forever at mpdehaan/vespene
-- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 - [eth0izzle/the-endorser](https://github.com/eth0izzle/the-endorser) - An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [python-security/pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
@@ -1890,7 +1889,6 @@
 - [micahwedemeyer/automongobackup](https://github.com/micahwedemeyer/automongobackup) - Nightly, rotated backups of MongoDB (port of AutoMySQLBackup for use with Mongo)
 - [redbooth/gockerize](https://github.com/redbooth/gockerize) - Package golang service into minimal docker containers.
 - [rimusz/coreos-kubernetes-cluster-osx](https://github.com/rimusz/coreos-kubernetes-cluster-osx) - CoreOS-Kubernetes cluster for OS X
-- [graphql/graphql-spec](https://github.com/graphql/graphql-spec) - GraphQL is a query language and execution engine tied to any backend service.
 - [funkymonkeymonk/terraform-demo](https://github.com/funkymonkeymonk/terraform-demo) - A demo of terraform.io creating CoreOS instances.
 - [ContainerSolutions/terraform-mesos](https://github.com/ContainerSolutions/terraform-mesos) - Stuff for programming a Mesos cluster on the Google Cloud
 - [gilesbowkett/rewind](https://github.com/gilesbowkett/rewind) - Rewind is an intelligent archivist.
@@ -1984,6 +1982,7 @@
 - [alwaysnomads/better-hono](https://github.com/alwaysnomads/better-hono) - Minimal starter template using Hono, Better-Auth, Drizzle ORM, and Cloudflare Workers — powered by Bun.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
+- [jalehman/mcp-sage](https://github.com/jalehman/mcp-sage) - MCP Server for getting second opinions/reviews on large amounts of code.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
@@ -2001,6 +2000,7 @@
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [dzhng/zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 - [llm-jp/awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) - 日本語LLMまとめ - Overview of Japanese LLMs
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
