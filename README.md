@@ -1000,7 +1000,7 @@
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL!
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [KalyanKS-NLP/LLM-Survey-Papers-Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) - A category wise collection of 200+ LLM survey papers.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
