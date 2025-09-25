@@ -871,7 +871,7 @@
 
 ## Jupyter Notebook 
 
-- [martimfasantos/ai-agent-frameworks](https://github.com/martimfasantos/ai-agent-frameworks) - Foundational code for testing, exploring and comparing various AI Agents Frameworks
+- [martimfasantos/ai-agents-frameworks](https://github.com/martimfasantos/ai-agents-frameworks) - Foundational code repo for learning, exploring, testing, and comparing various state-of-the-art open-source AI Agents Frameworks
 - [unslothai/notebooks](https://github.com/unslothai/notebooks) - 100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more.
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [rllm-org/rllm](https://github.com/rllm-org/rllm) - Democratizing Reinforcement Learning for LLMs
