@@ -328,7 +328,6 @@
 
 ## CoffeeScript 
 
-- [groupon/greenscreen](https://github.com/groupon/greenscreen) - 
 - [atom/vim-mode](https://github.com/atom/vim-mode) - Next generation vim support for atom
 - [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
 
@@ -530,7 +529,7 @@
 - [gravityblast/traffic](https://github.com/gravityblast/traffic) - Sinatra inspired regexp/pattern mux and web framework for Go
 - [tent/sigil](https://github.com/tent/sigil) - Identicon generator
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [maddyblue/go-dsp](https://github.com/maddyblue/go-dsp) - Digital Signal Processing for Go
+- [madelynnblue/go-dsp](https://github.com/madelynnblue/go-dsp) - Digital Signal Processing for Go
 - [htcat/htcat](https://github.com/htcat/htcat) - Parallel and Pipelined HTTP GET Utility
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS)
@@ -1186,6 +1185,8 @@
 
 ## Python 
 
+- [SamsungSAILMontreal/TinyRecursiveModels](https://github.com/SamsungSAILMontreal/TinyRecursiveModels) - 
+- [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Async RL Training at Scale
 - [slavakurilyak/awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
@@ -1980,6 +1981,7 @@
 
 ## TypeScript 
 
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 - [stretchcloud/deepscrape](https://github.com/stretchcloud/deepscrape) - 
 - [alwaysnomads/better-hono](https://github.com/alwaysnomads/better-hono) - Minimal starter template using Hono, Better-Auth, Drizzle ORM, and Cloudflare Workers — powered by Bun.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
