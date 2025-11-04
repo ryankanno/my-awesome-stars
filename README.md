@@ -680,6 +680,7 @@
 
 ## JavaScript 
 
+- [badlogic/browser-tools](https://github.com/badlogic/browser-tools) - 
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -1211,7 +1212,7 @@
 - [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
 - [Mirascope/lilypad](https://github.com/Mirascope/lilypad) - Open-source versioning, tracing, and annotation tooling.
@@ -1264,7 +1265,7 @@
 - [catcathh/UltraPixel](https://github.com/catcathh/UltraPixel) - Implementation of UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks
 - [tigerchen52/awesome_role_of_small_models](https://github.com/tigerchen52/awesome_role_of_small_models) - a curated list of the role of small models in the LLM era
 - [patched-codes/patchwork](https://github.com/patched-codes/patchwork) - Agentic AI framework for enterprise workflow automation.
-- [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
+- [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 - [koaning/uvtrick](https://github.com/koaning/uvtrick) - A fun party trick to run Python code from another venv into this one.
@@ -1378,7 +1379,7 @@
 - [lichess-org/chess-openings](https://github.com/lichess-org/chess-openings) - An aggregated data set of chess opening names
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [HazyResearch/manifest](https://github.com/HazyResearch/manifest) - Prompt programming with FMs.
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
@@ -1800,7 +1801,7 @@
 
 ## Rust 
 
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform for real-time stream processing, low-latency serving, and Iceberg table management.
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Streaming data platform. Real-time stream processing, low-latency serving, and Iceberg table management.
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -1880,7 +1881,7 @@
 
 - [ryankanno/dotfiles](https://github.com/ryankanno/dotfiles) - All my dotfiles
 - [erikw/vim-keybindings-everywhere-the-ultimate-list](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list) - The ultimate list of which programs support Vim-like keybindings natively, or how they can be added with extensions. A collaborative project.
-- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
+- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 - [runs-on/runs-on](https://github.com/runs-on/runs-on) - Self-hosted GitHub Actions runners made simple. For AWS. 10x cheaper, 30% faster, and unlimited caching. Best alternative to Actions Runner Controller.
 - [hikeratlas/qrank](https://github.com/hikeratlas/qrank) - Wikidata's QRank as a SQLite DB.
 - [opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples) - Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.
@@ -1988,7 +1989,7 @@
 
 ## TypeScript 
 
-- [johannschopplich/toon](https://github.com/johannschopplich/toon) - 🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks & TypeScript implementation.
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 - [stretchcloud/deepscrape](https://github.com/stretchcloud/deepscrape) - 
 - [alwaysnomads/better-hono](https://github.com/alwaysnomads/better-hono) - Minimal starter template using Hono, Better-Auth, Drizzle ORM, and Cloudflare Workers — powered by Bun.
