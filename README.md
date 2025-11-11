@@ -1074,7 +1074,6 @@
 - [migibert/terraform-role](https://github.com/migibert/terraform-role) - Ansible role to install Terraform
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [AGV-IIT-KGP/awesome-motion-planning](https://github.com/AGV-IIT-KGP/awesome-motion-planning) - A curated list of Resources for Motion Planning
-- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [clef/handbook](https://github.com/clef/handbook) - An employee handbook built for inclusion
 - [edobashira/speech-language-processing](https://github.com/edobashira/speech-language-processing) - A curated list of speech and natural language processing resources
 - [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
@@ -1743,6 +1742,7 @@
 - [gposton/sagan](https://github.com/gposton/sagan) - Blue/Green deployments in AWS using Terraform
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [mattfinlayson/ansible-consul](https://github.com/mattfinlayson/ansible-consul) - Ansible role for consul
+- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [18F/dolores-landingham-slack-bot](https://github.com/18F/dolores-landingham-slack-bot) - A Slack bot to welcome new 18F hires with the authority and compassion of Mrs. Landingham
 - [heyellieday/attend](https://github.com/heyellieday/attend) - Simple web app to bulk-register for recurring Eventbrite events
 - [alphagov/smart-answers](https://github.com/alphagov/smart-answers) - Serves smart answers on GOV.UK
@@ -1990,7 +1990,7 @@
 
 ## TypeScript 
 
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – A compact, deterministic JSON format for LLM prompts. Spec, benchmarks, TypeScript SDK.
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 - [stretchcloud/deepscrape](https://github.com/stretchcloud/deepscrape) - 
 - [alwaysnomads/better-hono](https://github.com/alwaysnomads/better-hono) - Minimal starter template using Hono, Better-Auth, Drizzle ORM, and Cloudflare Workers — powered by Bun.
