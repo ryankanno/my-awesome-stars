@@ -274,14 +274,13 @@
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, T
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
@@ -1903,7 +1902,7 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [plexe-ai/plexe](https://github.com/plexe-ai/plexe) - ✨ Build a machine learning model from a prompt
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [thousandbrainsproject/tbp.monty](https://github.com/thousandbrainsproject/tbp.monty) - Monty is a sensorimotor learning framework based on the thousand brains theory of the neocortex.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -1953,7 +1952,7 @@
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 - [mikker/LeaderKey.app](https://github.com/mikker/LeaderKey.app) - The *faster than your launcher* launcher
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -2181,7 +2180,7 @@
 - [fynnfluegge/doc-comments-ai](https://github.com/fynnfluegge/doc-comments-ai) - LLM-powered code documentation generation
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
@@ -3404,7 +3403,7 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [meeb/whoisit](https://github.com/meeb/whoisit) - A Python library to RDAP WHOIS-like services for internet resources such as ASNs, IPs, CIDRs and domains
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -4136,7 +4135,7 @@
 
 ## windows 
 
-- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+- [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
