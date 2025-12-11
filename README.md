@@ -1276,7 +1276,7 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX and other state of the art diffusion image models based on the Huggingface Diffusers implementation.
 - [harperreed/vcard-tools](https://github.com/harperreed/vcard-tools) - some vcard management tools
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -1529,7 +1529,7 @@
 - [pudo/graphkit](https://github.com/pudo/graphkit) - Process data based on JSON schema
 - [EducationalTestingService/skll](https://github.com/EducationalTestingService/skll) - SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.
 - [lindemer/baldr](https://github.com/lindemer/baldr) - Quadcopter flight simulator
-- [projectmesa/mesa](https://github.com/projectmesa/mesa) - Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
+- [mesa/mesa](https://github.com/mesa/mesa) - Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
 - [zygmuntz/phraug2](https://github.com/zygmuntz/phraug2) - A new version of phraug, which is a set of simple Python scripts for pre-processing large files
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [Theano/Theano](https://github.com/Theano/Theano) - Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com
