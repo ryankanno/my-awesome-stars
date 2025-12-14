@@ -67,7 +67,6 @@
 - [Swift](#swift)
 - [TLA](#tla)
 - [TSQL](#tsql)
-- [Tcl](#tcl)
 - [TeX](#tex)
 - [Tree-sitter Query](#tree-sitter-query)
 - [Twig](#twig)
@@ -95,6 +94,7 @@
 ## C 
 
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
+- [FolkComputer/folk](https://github.com/FolkComputer/folk) - 🎁 Physical computing system.
 - [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
@@ -1185,6 +1185,7 @@
 
 ## Python 
 
+- [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) - 
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
@@ -1971,10 +1972,6 @@
 ## TSQL 
 
 - [antontarasenko/smq](https://github.com/antontarasenko/smq) - A collection of SQL queries to social media datasets.
-
-## Tcl 
-
-- [FolkComputer/folk](https://github.com/FolkComputer/folk) - 🎁 Physical computing system.
 
 ## TeX 
 
