@@ -2303,6 +2303,7 @@
 
 ## others 
 
+- [actionstatelabs/android-action-kernel](https://github.com/actionstatelabs/android-action-kernel) - 
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
