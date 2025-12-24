@@ -64,6 +64,7 @@
 - [Smalltalk](#smalltalk)
 - [Smarty](#smarty)
 - [StringTemplate](#stringtemplate)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TLA](#tla)
 - [TSQL](#tsql)
@@ -1277,7 +1278,7 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX and other state of the art diffusion image models based on the Huggingface Diffusers implementation.
 - [harperreed/vcard-tools](https://github.com/harperreed/vcard-tools) - some vcard management tools
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent toolkit: framework, runtime, and control plane.
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -1956,6 +1957,10 @@
 ## StringTemplate 
 
 - [DrCuis/TheCuisBook](https://github.com/DrCuis/TheCuisBook) - Get started with Cuis Smalltalk
+
+## Svelte 
+
+- [cvhariharan/flowctl](https://github.com/cvhariharan/flowctl) - An open source self-service workflow execution platform
 
 ## Swift 
 
