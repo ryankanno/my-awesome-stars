@@ -417,6 +417,7 @@
 
 ## api 
 
+- [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
 - [dbccccccc/ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
@@ -1075,6 +1076,7 @@
 
 ## development 
 
+- [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -3776,6 +3778,7 @@
 
 ## react 
 
+- [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
 - [0010aor/FlashNotes](https://github.com/0010aor/FlashNotes) - 
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
@@ -3981,6 +3984,7 @@
 
 ## software 
 
+- [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
