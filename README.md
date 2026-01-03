@@ -297,6 +297,7 @@
 
 ## CSS 
 
+- [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
 - [csswizardry/ct](https://github.com/csswizardry/ct) - Let’s take a look inside your &lt;head&gt;…
 - [nielsenramon/chalk](https://github.com/nielsenramon/chalk) - Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.
 - [nishanths/cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme) - Responsive Hugo blog theme (note: not actively worked on)
