@@ -2328,6 +2328,7 @@
 
 ## others 
 
+- [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
 - [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) - 
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
