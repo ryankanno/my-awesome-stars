@@ -743,7 +743,7 @@
 - [MandarinConLaBarba/flux-immutable-todomvc](https://github.com/MandarinConLaBarba/flux-immutable-todomvc) - Uses ImmutableJS as described in the presentation by @leebyron at React Conf 2015.
 - [chrisharrington/Leaf](https://github.com/chrisharrington/Leaf) - 
 - [facebookarchive/flux](https://github.com/facebookarchive/flux) - Application Architecture for Building User Interfaces
-- [morishxt/stylefmt](https://github.com/morishxt/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+- [msaktype/stylefmt](https://github.com/msaktype/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 - [openplans/shareabouts](https://github.com/openplans/shareabouts) - Shareabouts is a mapping application for crowdsourced info gathering.
 - [rauchg/slackin](https://github.com/rauchg/slackin) - Public Slack organizations made easy
 - [RisingStack/graphql-server](https://github.com/RisingStack/graphql-server) - Example GraphQL server with Mongoose (MongoDB) and Node.js
@@ -891,7 +891,7 @@
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Accepted as [NeurIPS 2024] Spotlight Presentation Paper
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [AviSoori1x/makeMoE](https://github.com/AviSoori1x/makeMoE) - From scratch implementation of a sparse mixture of experts language model inspired by Andrej Karpathy's makemore :)
-- [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.   - Professor Yu Liu
+- [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [jalammar/ecco](https://github.com/jalammar/ecco) - Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT
 - [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
@@ -1282,7 +1282,7 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - A MLX port of FLUX and other state of the art diffusion image models based on the Huggingface Diffusers implementation.
 - [harperreed/vcard-tools](https://github.com/harperreed/vcard-tools) - some vcard management tools
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Engineers: framework, runtime and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for Agent Engineering: framework, runtime and control plane.
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -2004,6 +2004,7 @@
 
 ## TypeScript 
 
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform.
 - [gabrielvaldivia/big-year](https://github.com/gabrielvaldivia/big-year) - 
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [0010aor/FlashNotes](https://github.com/0010aor/FlashNotes) - 
