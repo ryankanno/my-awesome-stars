@@ -1197,7 +1197,7 @@
 - [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel) - 
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
-- [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
+- [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroFlow is an agent framework that enables tool-use agent tasks, featuring a reproducible GAIA score of 82.4%.
 - [serialdotai/car-counter](https://github.com/serialdotai/car-counter) - 🚗 Effortlessly count cars in videos using YOLOv8-powered computer vision program for streamlined traffic monitoring.
 - [raja-patnaik/dspy-examples](https://github.com/raja-patnaik/dspy-examples) - Examples for how to use DSPY and GEPA
 - [weaviate/retrieve-dspy](https://github.com/weaviate/retrieve-dspy) - A collection of Compound Retrieval Systems implemented with DSPy and Weaviate.
