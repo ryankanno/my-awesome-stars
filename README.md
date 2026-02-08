@@ -153,7 +153,6 @@
 
 ## C# # 
 
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [microsoft/NugetNinja](https://github.com/microsoft/NugetNinja) - A tool for detecting dependencies of .NET projects.
 - [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
@@ -1203,6 +1202,7 @@
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroFlow is an agent framework that enables tool-use agent tasks, featuring a reproducible GAIA score of 82.4%.
 - [serialdotai/car-counter](https://github.com/serialdotai/car-counter) - 🚗 Effortlessly count cars in videos using YOLOv8-powered computer vision program for streamlined traffic monitoring.
 - [raja-patnaik/dspy-examples](https://github.com/raja-patnaik/dspy-examples) - Examples for how to use DSPY and GEPA
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [weaviate/retrieve-dspy](https://github.com/weaviate/retrieve-dspy) - A collection of Compound Retrieval Systems implemented with DSPy and Weaviate.
 - [Archelunch/awesome-dspy-agents](https://github.com/Archelunch/awesome-dspy-agents) - 
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
