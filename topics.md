@@ -2359,6 +2359,7 @@
 
 ## others 
 
+- [KANABOON1/MemGen](https://github.com/KANABOON1/MemGen) - MemGen: Weaving Generative Latent Memory for Self-Evolving Agents
 - [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
 - [gabrielvaldivia/big-year](https://github.com/gabrielvaldivia/big-year) - 
