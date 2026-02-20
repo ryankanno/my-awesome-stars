@@ -687,6 +687,7 @@
 
 ## JavaScript 
 
+- [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
 - [badlogic/browser-tools](https://github.com/badlogic/browser-tools) - 
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
@@ -1895,6 +1896,7 @@
 
 ## Shell 
 
+- [trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config) - Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [ryankanno/dotfiles](https://github.com/ryankanno/dotfiles) - All my dotfiles
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
