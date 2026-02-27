@@ -1000,6 +1000,7 @@
 
 ## Others 
 
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 - [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of  120+ LLM libraries category wise.
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
@@ -1192,6 +1193,7 @@
 
 ## Python 
 
+- [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) - 
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated) - Curated, community-vetted Claude Code plugin marketplace
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
