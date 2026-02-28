@@ -1198,7 +1198,7 @@
 - [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated) - Curated, community-vetted Claude Code plugin marketplace
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
 - [symbolica-ai/arcgentica](https://github.com/symbolica-ai/arcgentica) - An ARC-AGI solution using Agentica from Symbolica
-- [KANABOON1/MemGen](https://github.com/KANABOON1/MemGen) - MemGen: Weaving Generative Latent Memory for Self-Evolving Agents
+- [bingreeky/MemGen](https://github.com/bingreeky/MemGen) - MemGen: Weaving Generative Latent Memory for Self-Evolving Agents
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [19-84/redd-archiver](https://github.com/19-84/redd-archiver) - A PostgreSQL-backed archive generator that creates browsable HTML archives from link aggregator platforms including Reddit, Voat, and Ruqqus.
@@ -1295,7 +1295,7 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - MLX native implementations of state-of-the-art generative image models
 - [harperreed/vcard-tools](https://github.com/harperreed/vcard-tools) - some vcard management tools
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The programming language for agentic software. Build, run, and manage multi-agent systems at scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage agentic software at scale.
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [ddangelov/Top2Vec](https://github.com/ddangelov/Top2Vec) - Top2Vec learns jointly embedded topic, document and word vectors.
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -1752,6 +1752,7 @@
 
 ## Ruby 
 
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc.
 - [premailer/premailer](https://github.com/premailer/premailer) - Preflight for HTML email
 - [mikekelly/btc-endgame](https://github.com/mikekelly/btc-endgame) - 
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
