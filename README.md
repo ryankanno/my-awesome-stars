@@ -385,6 +385,7 @@
 
 ## Go 
 
+- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 - [roborev-dev/roborev](https://github.com/roborev-dev/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
@@ -731,7 +732,6 @@
 - [jsantell/dancer.js](https://github.com/jsantell/dancer.js) - high-level audio API, designed to make sweet visualizations
 - [arduina/access_map](https://github.com/arduina/access_map) - A visualization of the Berlin public transport map with and without accessible stations.
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [motdotla/node-lambda](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your node.js application to Amazon Lambda
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [datanews/tik-tok](https://github.com/datanews/tik-tok) - Tik Tok is a Javascript tool to easily create beautiful, simple, mobile-friendly, vertical timelines.
@@ -1194,6 +1194,7 @@
 
 ## Python 
 
+- [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen
 - [krafton-ai/KIRA](https://github.com/krafton-ai/KIRA) - KIRA
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) - 
@@ -2072,7 +2073,7 @@
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Self-service management of complex Cloud Environments
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for Vim/Neovim
 - [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don't let the cursor slow you down
@@ -2094,6 +2095,7 @@
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [bqplot/bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
