@@ -2379,6 +2379,7 @@
 
 ## others 
 
+- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 - [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen
 - [roborev-dev/roborev](https://github.com/roborev-dev/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [krafton-ai/KIRA](https://github.com/krafton-ai/KIRA) - KIRA
