@@ -165,7 +165,7 @@
 - [awslabs/aws-apigateway-lambda-authorizer-blueprints](https://github.com/awslabs/aws-apigateway-lambda-authorizer-blueprints) - Blueprints and examples for Lambda-based custom Authorizers for use in API Gateway.
 - [paybyphone/flipperdotnet](https://github.com/paybyphone/flipperdotnet) - 
 - [brakmic/OpenCV](https://github.com/brakmic/OpenCV) - :camera: Computer-Vision Demos
-- [damianh/LibLog](https://github.com/damianh/LibLog) - LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.
+- [damianh-archive/LibLog](https://github.com/damianh-archive/LibLog) - LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.
 - [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 - [datalust/seq-api](https://github.com/datalust/seq-api) - HTTP API client for Seq
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -1198,7 +1198,7 @@
 
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
-- [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP server or OpenAPI spec into a CLI — at runtime, with zero codegen
+- [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
 - [krafton-ai/KIRA](https://github.com/krafton-ai/KIRA) - KIRA
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) - 
