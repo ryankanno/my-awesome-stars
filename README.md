@@ -1197,6 +1197,7 @@
 
 ## Python 
 
+- [omkaark/mithrl](https://github.com/omkaark/mithrl) - Lighter than feather, Harder than steel, RL Framework
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [drivelineresearch/autoresearch-claude-code](https://github.com/drivelineresearch/autoresearch-claude-code) - Autonomous experiment loop skill for Claude Code — port of pi-autoresearch
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
@@ -1292,7 +1293,7 @@
 - [3b1b/videos](https://github.com/3b1b/videos) - Code for the manim-generated scenes used in 3blue1brown videos
 - [facebookresearch/lingua](https://github.com/facebookresearch/lingua) - Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 - [google-deepmind/searchless_chess](https://github.com/google-deepmind/searchless_chess) - Grandmaster-Level Chess Without Search
-- [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
+- [osprey-oss/deptry](https://github.com/osprey-oss/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities s
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -2026,6 +2027,7 @@
 
 ## TypeScript 
 
+- [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [gocodeweb/terminal-visualizer](https://github.com/gocodeweb/terminal-visualizer) - Interactive terminal visualizations for AI coding agents — pixel-perfect SVG graphics via Kitty protocol with Ink/blessed fallback
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
@@ -2157,6 +2159,7 @@
 
 ## Zig 
 
+- [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
