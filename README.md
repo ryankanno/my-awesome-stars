@@ -690,6 +690,7 @@
 
 ## JavaScript 
 
+- [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience to agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [Free-APIs/Free-APIs.github.io](https://github.com/Free-APIs/Free-APIs.github.io) - A collection of free APIs for new and experienced developers
@@ -1198,6 +1199,7 @@
 
 ## Python 
 
+- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [caylent/tufte-data-viz](https://github.com/caylent/tufte-data-viz) - Agent skill: Edward Tufte's data visualization principles for clean, honest, high-data-ink-ratio charts. Recharts, ECharts, Chart.js, matplotlib, Plotly, D3/SVG.
 - [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and
 - [omkaark/mithrl](https://github.com/omkaark/mithrl) - Lighter than feather, Harder than steel, RL Framework
@@ -1322,7 +1324,6 @@
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [gemelo-ai/vocos](https://github.com/gemelo-ai/vocos) - Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
@@ -1883,7 +1884,7 @@
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda
+- [aws/aws-lambda-web-adapter](https://github.com/aws/aws-lambda-web-adapter) - Run web applications on AWS Lambda
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [cbiffle/keybrain](https://github.com/cbiffle/keybrain) - Drop-in replacement controller for WASD CODE v2B keyboard
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
