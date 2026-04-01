@@ -1323,6 +1323,7 @@
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [gemelo-ai/vocos](https://github.com/gemelo-ai/vocos) - Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
@@ -1623,7 +1624,7 @@
 - [AppScale/gts](https://github.com/AppScale/gts) - AppScale is an easy-to-manage serverless platform for building and running scalable web and mobile applications on any infrastructure.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [zachwill/moment](https://github.com/zachwill/moment) - A Python library for dealing with dates
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [charlesthomas/magpie](https://github.com/charlesthomas/magpie) - Git-backed Evernote replacement
 - [robclewley/compneuro](https://github.com/robclewley/compneuro) - Computational Neuroscience class materials in PyDSTool based on Hugh Wilson's book (and some from Eugene Izhikevich's book). DRAFT VERSION! See files_info.txt for index. Please improve and discuss!
@@ -2053,7 +2054,7 @@
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 - [jalehman/mcp-sage](https://github.com/jalehman/mcp-sage) - MCP Server for getting second opinions/reviews on large amounts of code.
 - [hayatbiralem/eco.json](https://github.com/hayatbiralem/eco.json) - Encyplopedia of Chess Openings (ECO) json data.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [iliane5/meridian](https://github.com/iliane5/meridian) - Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs.
