@@ -46,6 +46,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PLSQL](#plsql)
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [PostScript](#postscript)
@@ -72,7 +73,6 @@
 - [Twig](#twig)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [ZIL](#zil)
 - [Zig](#zig)
@@ -1168,6 +1168,10 @@
 - [anchepiece/statuspanic](https://github.com/anchepiece/statuspanic) - A PHP clone of Panic's status board
 - [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 
+## PLSQL 
+
+- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+
 ## PLpgSQL 
 
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
@@ -1200,6 +1204,7 @@
 
 ## Python 
 
+- [zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to lear
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability
 - [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Blueprint for Ingesting massive volumes of live or archived videos and extract insights for summarization and interactive Q&A
 - [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) - Semantic search over videos using Gemini Embedding 2 or Qwen3-VL.
@@ -2086,7 +2091,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 - [Paper-Proof/paperproof](https://github.com/Paper-Proof/paperproof) - Lean theorem proving interface which feels like pen-and-paper proofs.
-- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, Mus
+- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, Au
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [pixiv/ChatVRM](https://github.com/pixiv/ChatVRM) - 
 - [eumemic/ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform
@@ -2141,10 +2146,6 @@
 ## Vala 
 
 - [p-e-w/finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator (NO LONGER MAINTAINED)
-
-## Verilog 
-
-- [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) - Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
 ## Vim Script 
 
