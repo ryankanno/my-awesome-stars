@@ -1600,7 +1600,6 @@
 - [danvk/oldnyc](https://github.com/danvk/oldnyc) - Mapping photos of Old New York
 - [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
-- [karan/slack-overflow](https://github.com/karan/slack-overflow) - A programmer's best friend, now in Slack.
 - [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
 - [crossbario/autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP in Python for Twisted and asyncio
 - [thearn/webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector) - A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time.
