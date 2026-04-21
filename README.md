@@ -842,7 +842,7 @@
 - [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
 - [yaronn/wcf.js](https://github.com/yaronn/wcf.js) - A WCF-compatible web service client stack for node.js. Written in pure javascript!
 - [blasten/turn.js](https://github.com/blasten/turn.js) - The page flip effect for HTML5
-- [ryankanno/apihackday](https://github.com/ryankanno/apihackday) - API Hacks
+- [ryankanno/archive-apihackday](https://github.com/ryankanno/archive-apihackday) - API Hacks
 - [ryankanno/playground](https://github.com/ryankanno/playground) - Just my playground of various languages that I'm interested in.
 - [ql-io/ql.io](https://github.com/ql-io/ql.io) - A node.js based declarative, data-retrieval and aggregation gateway for quickly consuming HTTP APIs
 - [jquery-boilerplate/jquery-patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development
@@ -854,7 +854,7 @@
 - [bsstoner/opentok](https://github.com/bsstoner/opentok) - OpenTokSDK for node.js
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [facebookarchive/Realtime-Demo](https://github.com/facebookarchive/Realtime-Demo) - Instagram Real-time API Demo
-- [ryankanno/drydrop-sites](https://github.com/ryankanno/drydrop-sites) - I &lt;3 Harper Reed. He is my new bicycle (and hero).  These are all the static sites hosted on App Engine
+- [ryankanno/archive-drydrop-sites](https://github.com/ryankanno/archive-drydrop-sites) - I &lt;3 Harper Reed. He is my new bicycle (and hero).  These are all the static sites hosted on App Engine
 - [socketstream/socketstream](https://github.com/socketstream/socketstream) - A framework for Realtime Web Apps
 - [1602/compound](https://github.com/1602/compound) - MVC framework. Built on Node.JS. Works on server and browser.
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
@@ -1163,7 +1163,7 @@
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 - [Chicago/metalicious](https://github.com/Chicago/metalicious) - An open source data dictionary which can be deployed to track the metadata of one or more databases.
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
-- [ryankanno/wordpress-themes](https://github.com/ryankanno/wordpress-themes) - Just some wordpress themes I've worked on
+- [ryankanno/archive-wordpress-themes](https://github.com/ryankanno/archive-wordpress-themes) - Just some wordpress themes I've worked on
 - [hicapacity/foodtrucks](https://github.com/hicapacity/foodtrucks) - Food Trucks
 - [fruminator/openstreetblock](https://github.com/fruminator/openstreetblock) - Simple web service for turning a lat/lon into a block name (e.g. "5th avenue between president st and union st") using OpenStreetMap data
 - [anchepiece/statuspanic](https://github.com/anchepiece/statuspanic) - A PHP clone of Panic's status board
@@ -1334,7 +1334,7 @@
 - [TechnologyBrewery/poetry-monorepo-dependency-plugin](https://github.com/TechnologyBrewery/poetry-monorepo-dependency-plugin) - Poetry plugin that facilitates the usage of more complex monorepo project structures by pinning version dependencies when building and publishing archives with local path dependencies to other Poetry 
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [gemelo-ai/vocos](https://github.com/gemelo-ai/vocos) - Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis
-- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+- [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -1716,14 +1716,14 @@
 - [MarcWeber/ultisnips](https://github.com/MarcWeber/ultisnips) - Official Mirror of UltiSnips trunk on LaunchPad. Send pull requests to SirVer/ultisnips!
 - [googlearchive/storage-getting-started-python](https://github.com/googlearchive/storage-getting-started-python) - This demo allows you to test many of the API features of the Google Cloud Storage XML API from the command line.
 - [colinhowe/monner](https://github.com/colinhowe/monner) - monner
-- [ryankanno/ecommercehackday](https://github.com/ryankanno/ecommercehackday) - Our ecommerce hack day app has to deal with foods. Food is awesome.
-- [ryankanno/nyc-restaurant-inspections-api](https://github.com/ryankanno/nyc-restaurant-inspections-api) - NYC Restaurant Inspection API
-- [ryankanno/django-registration-templates](https://github.com/ryankanno/django-registration-templates) - Just a small Django app to get the latest and greatest registration templates.  Depends on django-registration and django-templates.
-- [ryankanno/django-templates](https://github.com/ryankanno/django-templates) - Just a small Django app to get the latest and greatest templates.
+- [ryankanno/archive-ecommercehackday](https://github.com/ryankanno/archive-ecommercehackday) - Our ecommerce hack day app has to deal with foods. Food is awesome.
+- [ryankanno/archive-nyc-restaurant-inspections-api](https://github.com/ryankanno/archive-nyc-restaurant-inspections-api) - NYC Restaurant Inspection API
+- [ryankanno/archive-django-registration-templates](https://github.com/ryankanno/archive-django-registration-templates) - Just a small Django app to get the latest and greatest registration templates.  Depends on django-registration and django-templates.
+- [ryankanno/archive-django-templates](https://github.com/ryankanno/archive-django-templates) - Just a small Django app to get the latest and greatest templates.
 - [ryankanno/django-utilities](https://github.com/ryankanno/django-utilities) - Just a bit of utilities I tend to use in Django projects.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [0rpc/zerorpc-python](https://github.com/0rpc/zerorpc-python) - zerorpc for python
-- [ryankanno/django-skeleton](https://github.com/ryankanno/django-skeleton) - Django skeleton project
+- [ryankanno/archive-django-skeleton](https://github.com/ryankanno/archive-django-skeleton) - Django skeleton project
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [talsafran/domainr](https://github.com/talsafran/domainr) - 🌎 A command line interface for Domainr
 - [rdegges/django-twilio](https://github.com/rdegges/django-twilio) - A simple library for building twilio-powered Django webapps.
@@ -1829,7 +1829,7 @@
 - [devopsgroup-io/vagrant-digitalocean](https://github.com/devopsgroup-io/vagrant-digitalocean) - :droplet: A Vagrant provider plugin that manages DigitalOcean droplets.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [najamelan/git-backup](https://github.com/najamelan/git-backup) - Backup up local git repositories using git bundle with settings from git config
-- [ryankanno/uwsgi-vagrant](https://github.com/ryankanno/uwsgi-vagrant) - A Vagrant instance to help you get started with WSGI applications.
+- [ryankanno/archive-uwsgi-vagrant](https://github.com/ryankanno/archive-uwsgi-vagrant) - A Vagrant instance to help you get started with WSGI applications.
 - [alsmola/nopassword](https://github.com/alsmola/nopassword) - An authentication and session management framework that eliminates the need for passwords.
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
