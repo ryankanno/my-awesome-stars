@@ -345,7 +345,6 @@
 - [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT, OpenAI API, and Codex
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [modal-labs/modal-client](https://github.com/modal-labs/modal-client) - SDK libraries for Modal
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -2593,7 +2592,7 @@
 - [DrCuis/TheCuisBook](https://github.com/DrCuis/TheCuisBook) - Get started with Cuis Smalltalk
 - [tzachar/cmp-ai](https://github.com/tzachar/cmp-ai) - 
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
-- [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+- [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 - [canonical/netplan](https://github.com/canonical/netplan) - Declarative network configuration for various backends
 - [hikeratlas/qrank](https://github.com/hikeratlas/qrank) - Wikidata's QRank as a SQLite DB.
 - [sourcegraph/sg.nvim](https://github.com/sourcegraph/sg.nvim) - Experimental Sourcegraph + Cody plugin for Neovim
@@ -3393,14 +3392,14 @@
 - [WhiteHouse/petitions](https://github.com/WhiteHouse/petitions) - Drupal installation profile powering We The People at petitions.whitehouse.gov
 - [colinhowe/monner](https://github.com/colinhowe/monner) - monner
 - [adafruit/Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) - Adafruit library code for Raspberry Pi
-- [ryankanno/ecommercehackday](https://github.com/ryankanno/ecommercehackday) - Our ecommerce hack day app has to deal with foods. Food is awesome.
+- [ryankanno/archive-ecommercehackday](https://github.com/ryankanno/archive-ecommercehackday) - Our ecommerce hack day app has to deal with foods. Food is awesome.
 - [burke/zeus](https://github.com/burke/zeus) - Boot any rails app in under a second.
-- [ryankanno/uwsgi-vagrant](https://github.com/ryankanno/uwsgi-vagrant) - A Vagrant instance to help you get started with WSGI applications.
-- [ryankanno/nyc-restaurant-inspections-api](https://github.com/ryankanno/nyc-restaurant-inspections-api) - NYC Restaurant Inspection API
+- [ryankanno/archive-uwsgi-vagrant](https://github.com/ryankanno/archive-uwsgi-vagrant) - A Vagrant instance to help you get started with WSGI applications.
+- [ryankanno/archive-nyc-restaurant-inspections-api](https://github.com/ryankanno/archive-nyc-restaurant-inspections-api) - NYC Restaurant Inspection API
 - [tlvince/w3c-validator-guide](https://github.com/tlvince/w3c-validator-guide) - Build guide for W3C HTML validator
 - [ryankanno/django-vagrant](https://github.com/ryankanno/django-vagrant) - A Vagrant instance to help you get started with the Django framework.
-- [ryankanno/django-registration-templates](https://github.com/ryankanno/django-registration-templates) - Just a small Django app to get the latest and greatest registration templates.  Depends on django-registration and django-templates.
-- [ryankanno/django-templates](https://github.com/ryankanno/django-templates) - Just a small Django app to get the latest and greatest templates.
+- [ryankanno/archive-django-registration-templates](https://github.com/ryankanno/archive-django-registration-templates) - Just a small Django app to get the latest and greatest registration templates.  Depends on django-registration and django-templates.
+- [ryankanno/archive-django-templates](https://github.com/ryankanno/archive-django-templates) - Just a small Django app to get the latest and greatest templates.
 - [ryankanno/django-utilities](https://github.com/ryankanno/django-utilities) - Just a bit of utilities I tend to use in Django projects.
 - [ginzamarkets/Apache2-Authen-OdinAuth](https://github.com/ginzamarkets/Apache2-Authen-OdinAuth) - 
 - [hicapacity/HICapacity-iPhone](https://github.com/hicapacity/HICapacity-iPhone) - 
@@ -3414,13 +3413,13 @@
 - [Azure/node-sqlserver](https://github.com/Azure/node-sqlserver) - 
 - [0rpc/zerorpc-python](https://github.com/0rpc/zerorpc-python) - zerorpc for python
 - [yaronn/wcf.js](https://github.com/yaronn/wcf.js) - A WCF-compatible web service client stack for node.js. Written in pure javascript!
-- [ryankanno/django-skeleton](https://github.com/ryankanno/django-skeleton) - Django skeleton project
+- [ryankanno/archive-django-skeleton](https://github.com/ryankanno/archive-django-skeleton) - Django skeleton project
 - [XVimProject/XVim](https://github.com/XVimProject/XVim) - Xcode plugin for Vim keybindings
 - [microsoftarchive/redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 - [blasten/turn.js](https://github.com/blasten/turn.js) - The page flip effect for HTML5
-- [ryankanno/apihackday](https://github.com/ryankanno/apihackday) - API Hacks
+- [ryankanno/archive-apihackday](https://github.com/ryankanno/archive-apihackday) - API Hacks
 - [disruptor-net/Disruptor-net](https://github.com/disruptor-net/Disruptor-net) - Port of LMAX Disruptor to .NET
-- [ryankanno/wordpress-themes](https://github.com/ryankanno/wordpress-themes) - Just some wordpress themes I've worked on
+- [ryankanno/archive-wordpress-themes](https://github.com/ryankanno/archive-wordpress-themes) - Just some wordpress themes I've worked on
 - [Victa/path-menu](https://github.com/Victa/path-menu) - Path menu in pure CSS3
 - [TTimo/doom3.gpl](https://github.com/TTimo/doom3.gpl) - Doom 3 GPL source release
 - [Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline) - Moved to powerline/powerline.
@@ -3463,7 +3462,7 @@
 - [facebookarchive/Realtime-Demo](https://github.com/facebookarchive/Realtime-Demo) - Instagram Real-time API Demo
 - [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
 - [ilektrojohn/creepy](https://github.com/ilektrojohn/creepy) - A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms.
-- [ryankanno/drydrop-sites](https://github.com/ryankanno/drydrop-sites) - I &lt;3 Harper Reed. He is my new bicycle (and hero).  These are all the static sites hosted on App Engine
+- [ryankanno/archive-drydrop-sites](https://github.com/ryankanno/archive-drydrop-sites) - I &lt;3 Harper Reed. He is my new bicycle (and hero).  These are all the static sites hosted on App Engine
 - [devstructure/blueprint](https://github.com/devstructure/blueprint) - Reverse engineer server configuration
 - [1602/compound](https://github.com/1602/compound) - MVC framework. Built on Node.JS. Works on server and browser.
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
