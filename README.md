@@ -96,6 +96,7 @@
 
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [FolkComputer/folk](https://github.com/FolkComputer/folk) - 🎁 Physical computing system.
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [composefs/composefs](https://github.com/composefs/composefs) - The reliability of disk images, the flexibility of files
 - [janet-lang/janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 - [renderlet/wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
@@ -2181,7 +2182,6 @@
 
 - [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 
 ## License
