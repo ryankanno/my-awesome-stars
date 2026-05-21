@@ -469,7 +469,7 @@
 - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 - [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go
 - [ericflo/kube-http-proxy](https://github.com/ericflo/kube-http-proxy) - Easily run a reverse proxy for all your Kubernetes http and https traffic.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [romain-jacotin/quic](https://github.com/romain-jacotin/quic) - QUIC Protocol in Go language
 - [uber-archive/go-torch](https://github.com/uber-archive/go-torch) - Stochastic flame graph profiler for Go programs
 - [tools/godep](https://github.com/tools/godep) - dependency tool for go
