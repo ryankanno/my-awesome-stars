@@ -302,7 +302,7 @@
 
 ## agents 
 
-- [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
+- [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
@@ -424,6 +424,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI coding agents and developers.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, DevOps, and AI (tada!) projects.
 
 ## ajax 
 
@@ -641,7 +642,7 @@
 - [MitocGroup/deep-framework](https://github.com/MitocGroup/deep-framework) - Full-stack JavaScript Framework for Cloud-Native Web Applications (perfect for Serverless use cases)
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, and DevOps projects.
+- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, DevOps, and AI (tada!) projects.
 - [vspiewak/ansible-mesosphere](https://github.com/vspiewak/ansible-mesosphere) - Installation of Mesosphere stack on AWS EC2 using Ansible
 - [pynamodb/PynamoDB](https://github.com/pynamodb/PynamoDB) - A pythonic interface to Amazon's DynamoDB
 - [oliverlloyd/jmeter-ec2](https://github.com/oliverlloyd/jmeter-ec2) - Automates running Apache JMeter on Amazon EC2
@@ -2065,7 +2066,7 @@
 ## llm 
 
 - [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
-- [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
+- [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
@@ -2118,6 +2119,7 @@
 - [noahshinn/reflexion-draft](https://github.com/noahshinn/reflexion-draft) - Reflexion: an autonomous agent with dynamic memory and self-reflection
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
+- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, DevOps, and AI (tada!) projects.
 
 ## localization 
 
@@ -2629,7 +2631,7 @@
 - [SakanaAI/self-adaptive-llms](https://github.com/SakanaAI/self-adaptive-llms) - A Self-adaptation Framework🐙 that adapts LLMs for unseen tasks in real-time!
 - [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
 - [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) - 
-- [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - New repo collection for NVIDIA Cosmos: https://github.com/nvidia-cosmos
+- [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) - Aggregates RSS and web content(Calibre recipe), sends to Kindle, and includes an e-ink optimized online reader.
 - [wesql/wesql](https://github.com/wesql/wesql) - WeSQL is an innovative MySQL distribution that adopts a compute-storage separation architecture, with storage backed by S3 (and S3-compatible systems). It can run on any cloud, ensuring no vendor lock
@@ -4008,7 +4010,7 @@
 
 ## rag 
 
-- [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
+- [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - DeepTutor: Agent-native, Open-sourced Personalized Tutoring. https://deeptutor.info/.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
@@ -4234,7 +4236,7 @@
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, and DevOps projects.
+- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, DevOps, and AI (tada!) projects.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 
 ## shell 
@@ -4370,7 +4372,7 @@
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [skyscrapers/terraform-website-s3-cloudfront-route53](https://github.com/skyscrapers/terraform-website-s3-cloudfront-route53) - Terraform scripts to setup an S3 based static website, with a CloudFront distribution and the required Route53 entries.
 - [dtan4/terraforming](https://github.com/dtan4/terraforming) - Export existing AWS resources to Terraform style (tf, tfstate) / No longer actively maintained
-- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, and DevOps projects.
+- [antonbabenko/terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops) - Info about many of my Terraform, AWS, DevOps, and AI (tada!) projects.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 
 ## testing 
