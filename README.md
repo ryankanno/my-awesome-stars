@@ -1236,7 +1236,7 @@
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - 🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI
 - [serialdotai/car-counter](https://github.com/serialdotai/car-counter) - 🚗 Effortlessly count cars in videos using YOLOv8-powered computer vision program for streamlined traffic monitoring.
 - [raja-patnaik/dspy-examples](https://github.com/raja-patnaik/dspy-examples) - Examples for how to use DSPY and GEPA
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [weaviate/retrieve-dspy](https://github.com/weaviate/retrieve-dspy) - A collection of Compound Retrieval Systems implemented with DSPy and Weaviate.
 - [Archelunch/awesome-dspy-agents](https://github.com/Archelunch/awesome-dspy-agents) - 
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
