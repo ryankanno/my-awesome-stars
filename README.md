@@ -296,6 +296,7 @@
 
 ## CSS 
 
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
 - [csswizardry/ct](https://github.com/csswizardry/ct) - Let’s take a look inside your &lt;head&gt;…
 - [nielsenramon/chalk](https://github.com/nielsenramon/chalk) - Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.
@@ -1203,6 +1204,7 @@
 
 ## Python 
 
+- [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 - [zubair-trabzada/ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude) - AI Legal Assistant skill for Claude Code. Contract review, risk analysis, NDA generation, compliance auditing, negotiation strategy, and PDF reports — 14 skills, 5 parallel agents. If you want to lear
