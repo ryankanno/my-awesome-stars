@@ -346,6 +346,7 @@
 
 ## Dart 
 
+- [BoltzmannEntropy/MimikaStudio](https://github.com/BoltzmannEntropy/MimikaStudio) - MimikaStudio - A local-first application for macOS (Apple Silicon) + Agentic MCP Support
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 
 ## Dockerfile 
@@ -803,7 +804,7 @@
 - [panrafal/depthy](https://github.com/panrafal/depthy) - Extract depth map and original from photos made with Google Camera's Lens Blur.
 - [shachaf/jsgif](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
 - [novus/nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
-- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [totem/discover](https://github.com/totem/discover) - Service Discovery for Docker
 - [anvaka/VivaGraphJS](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript
 - [marcelduran/yslow](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
@@ -1211,6 +1212,7 @@
 
 ## Python 
 
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
