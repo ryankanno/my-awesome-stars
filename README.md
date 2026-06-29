@@ -1012,7 +1012,7 @@
 
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) - Agent Skills for Marketing — SEO, Social, Influencer & More. 160+ open-source skills for SEO, content, 40+ page types, paid ads, channels, and strategies. Add project context; get tailored, production
-- [aapersh/strategy-skills-for-claude](https://github.com/aapersh/strategy-skills-for-claude) - This repository contains 21 standalone Claude skills for strategy work, grouped into six practical consulting domains. Each skill is a small, uploadable workflow that teaches Claude how to perform one
+- [aapersh/strategy-skills-for-claude](https://github.com/aapersh/strategy-skills-for-claude) - 21 standalone Claude skills for strategy work, grouped into six practical consulting domains. Each skill is a small, uploadable workflow that teaches Claude how to perform one high-value consulting ta
 - [Jason2Brownlee/awesome-llm-books](https://github.com/Jason2Brownlee/awesome-llm-books) - Awesome LLM Books: Curated list of books on Large Language Models
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
@@ -2101,7 +2101,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [iliane5/meridian](https://github.com/iliane5/meridian) - Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs.
-- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.
 - [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK For Browser Agents
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
