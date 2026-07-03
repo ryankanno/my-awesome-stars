@@ -150,6 +150,7 @@
 - [language](#language)
 - [languages](#languages)
 - [laravel](#laravel)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -350,6 +351,7 @@
 
 ## ai 
 
+- [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [rzru/nightingale](https://github.com/rzru/nightingale) - Machine learning powered Karaoke app (with scores!)
@@ -426,6 +428,8 @@
 
 ## ai-agents 
 
+- [Intelligent-Internet/zenith](https://github.com/Intelligent-Internet/zenith) - Zenith — a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP.
+- [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
@@ -824,6 +828,8 @@
 
 ## claude-code 
 
+- [Intelligent-Internet/zenith](https://github.com/Intelligent-Internet/zenith) - Zenith — a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP.
+- [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [caylent/tufte-data-viz](https://github.com/caylent/tufte-data-viz) - Agent skill: Edward Tufte's data visualization principles for clean, honest, high-data-ink-ratio charts. Recharts, ECharts, Chart.js, matplotlib, Plotly, D3/SVG.
@@ -1197,6 +1203,7 @@
 
 ## developer-tools 
 
+- [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -1637,7 +1644,7 @@
 
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
-- [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9
+- [tractordev/wanix](https://github.com/tractordev/wanix) - A sandbox toolkit for the web, inspired by Plan 9
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
 - [facebookincubator/nvdtools](https://github.com/facebookincubator/nvdtools) - A set of tools to work with the feeds (vulnerabilities, CPE dictionary etc.) distributed by National Vulnerability Database (NVD)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
@@ -2064,6 +2071,10 @@
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
 
+## learn-to-code 
+
+- [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
+
 ## learning 
 
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
@@ -2108,6 +2119,8 @@
 
 ## llm 
 
+- [Intelligent-Internet/zenith](https://github.com/Intelligent-Internet/zenith) - Zenith — a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP.
+- [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -2298,6 +2311,7 @@
 
 ## mcp 
 
+- [Intelligent-Internet/zenith](https://github.com/Intelligent-Internet/zenith) - Zenith — a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP.
 - [BoltzmannEntropy/MimikaStudio](https://github.com/BoltzmannEntropy/MimikaStudio) - MimikaStudio - A local-first application for macOS (Apple Silicon) + Agentic MCP Support
 - [knowsuchagency/mcp2cli](https://github.com/knowsuchagency/mcp2cli) - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
@@ -2573,7 +2587,7 @@
 
 ## operating-system 
 
-- [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9
+- [tractordev/wanix](https://github.com/tractordev/wanix) - A sandbox toolkit for the web, inspired by Plan 9
 - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 - [nebulet/nebulet](https://github.com/nebulet/nebulet) - A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0.
 
@@ -3729,6 +3743,7 @@
 
 ## privacy 
 
+- [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [19-84/redd-archiver](https://github.com/19-84/redd-archiver) - A PostgreSQL-backed archive generator that creates browsable HTML archives from link aggregator platforms including Reddit, Voat, and Ruqqus.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -3738,6 +3753,7 @@
 
 ## productivity 
 
+- [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
@@ -3802,6 +3818,7 @@
 
 ## python 
 
+- [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [BoltzmannEntropy/MimikaStudio](https://github.com/BoltzmannEntropy/MimikaStudio) - MimikaStudio - A local-first application for macOS (Apple Silicon) + Agentic MCP Support
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
@@ -4315,7 +4332,6 @@
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
-- [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -4629,7 +4645,7 @@
 
 ## web-development 
 
-- [tractordev/wanix](https://github.com/tractordev/wanix) - A virtual environment runtime for the web, inspired by Plan 9
+- [tractordev/wanix](https://github.com/tractordev/wanix) - A sandbox toolkit for the web, inspired by Plan 9
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 
