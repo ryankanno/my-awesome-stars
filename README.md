@@ -1010,6 +1010,7 @@
 
 ## Others 
 
+- [ankane/awesome-legal](https://github.com/ankane/awesome-legal) - Awesome free legal documents for companies
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 - [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) - Agent Skills for Marketing — SEO, Social, Influencer & More. 160+ open-source skills for SEO, content, 40+ page types, paid ads, channels, and strategies. Add project context; get tailored, production
 - [aapersh/strategy-skills-for-claude](https://github.com/aapersh/strategy-skills-for-claude) - 21 standalone Claude skills for strategy work, grouped into six practical consulting domains. Each skill is a small, uploadable workflow that teaches Claude how to perform one high-value consulting ta
@@ -1212,6 +1213,7 @@
 
 ## Python 
 
+- [HKUDS/FutureShow](https://github.com/HKUDS/FutureShow) - "FutureShow: Can AI Predict the Future? Live Real-World Forecasting"
 - [Intelligent-Internet/zenith](https://github.com/Intelligent-Internet/zenith) - Zenith — a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP.
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
