@@ -3128,7 +3128,7 @@
 - [Capgemini/Apollo](https://github.com/Capgemini/Apollo) - :rocket: An open-source platform for cloud native applications based on Apache Mesos and Docker.
 - [holoviz/holoviews](https://github.com/holoviz/holoviews) - With Holoviews, your data visualizes itself.
 - [DrkSephy/django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
-- [Asana/typed-react](https://github.com/Asana/typed-react) - A binding layer between React and TypeScript
+- [AsanaArchive/typed-react](https://github.com/AsanaArchive/typed-react) - A binding layer between React and TypeScript
 - [voat/voat](https://github.com/voat/voat) - The code that powers Voat
 - [japerk/nltk3-cookbook](https://github.com/japerk/nltk3-cookbook) - Code for NLTK3 Cookbook
 - [iw/mirage-jekyll](https://github.com/iw/mirage-jekyll) - Supports building of Mirage unikernels using Test Kitchen and Vagrant, and launching on AWS EC2
