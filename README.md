@@ -2163,7 +2163,7 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
-- [Asana/typed-react](https://github.com/Asana/typed-react) - A binding layer between React and TypeScript
+- [AsanaArchive/typed-react](https://github.com/AsanaArchive/typed-react) - A binding layer between React and TypeScript
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [palantir/plottable](https://github.com/palantir/plottable) - :bar_chart: A library of modular chart components built on D3
 - [danvk/localturk](https://github.com/danvk/localturk) - Mechanical Turk on your own machine.
