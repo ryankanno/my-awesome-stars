@@ -343,7 +343,7 @@
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
@@ -398,7 +398,7 @@
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [filipstrand/mflux](https://github.com/filipstrand/mflux) - MLX native implementations of state-of-the-art generative image models
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 - [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - :closed_book: Clarity in the current fast-paced mess of Open Source innovation
@@ -449,7 +449,7 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
@@ -1246,7 +1246,7 @@
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
@@ -2110,7 +2110,7 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 
 ## latex 
 
@@ -2647,6 +2647,7 @@
 
 ## others 
 
+- [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) - Infinite Worlds with Versatile Interactions
 - [HKUDS/FutureShow](https://github.com/HKUDS/FutureShow) - "FutureShow: Can AI Predict the Future? Live Real-World Forecasting"
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [angelos-p/llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
@@ -3763,7 +3764,7 @@
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 - [timber/timber](https://github.com/timber/timber) - Create WordPress themes with beautiful OOP code and the Twig Template Engine
 
@@ -3903,7 +3904,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [TechnologyBrewery/poetry-monorepo-dependency-plugin](https://github.com/TechnologyBrewery/poetry-monorepo-dependency-plugin) - Poetry plugin that facilitates the usage of more complex monorepo project structures by pinning version dependencies when building and publishing archives with local path dependencies to other Poetry 
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
@@ -4265,7 +4266,7 @@
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies
@@ -4348,7 +4349,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -4537,7 +4538,6 @@
 ## tui 
 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
