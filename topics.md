@@ -357,6 +357,7 @@
 
 ## ai 
 
+- [AgriciDaniel/claude-canvas](https://github.com/AgriciDaniel/claude-canvas) - AI-orchestrated visual production for Obsidian Canvas. Create presentations, flowcharts, mood boards, knowledge graphs, and galleries with intelligent layout and AI-generated content.
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
@@ -861,6 +862,7 @@
 
 ## claude-code 
 
+- [AgriciDaniel/claude-canvas](https://github.com/AgriciDaniel/claude-canvas) - AI-orchestrated visual production for Obsidian Canvas. Create presentations, flowcharts, mood boards, knowledge graphs, and galleries with intelligent layout and AI-generated content.
 - [educlopez/ui-craft](https://github.com/educlopez/ui-craft) - Design engineering system for AI coding agents — ship UI with craft-level quality. Install as an agent skill.
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
@@ -2548,6 +2550,7 @@
 
 ## obsidian 
 
+- [AgriciDaniel/claude-canvas](https://github.com/AgriciDaniel/claude-canvas) - AI-orchestrated visual production for Obsidian Canvas. Create presentations, flowcharts, mood boards, knowledge graphs, and galleries with intelligent layout and AI-generated content.
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [RamXX/zettelvault](https://github.com/RamXX/zettelvault) - Transform an Obsidian vault into PARA + Zettelkasten structure using DSPy and RLM
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -2564,6 +2567,7 @@
 
 ## open-source 
 
+- [AgriciDaniel/claude-canvas](https://github.com/AgriciDaniel/claude-canvas) - AI-orchestrated visual production for Obsidian Canvas. Create presentations, flowcharts, mood boards, knowledge graphs, and galleries with intelligent layout and AI-generated content.
 - [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
