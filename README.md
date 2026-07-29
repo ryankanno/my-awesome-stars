@@ -1872,7 +1872,7 @@
 
 ## Rust 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Open-source desktop app for downloading, organizing and studying media. Native cross-platform (Tauri + Rust + Svelte). PDF/EPUB reader with focus mode, timestamped notes and spaced repetition. Media d
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB read
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [icann/icann-rdap](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol (RDAP)
