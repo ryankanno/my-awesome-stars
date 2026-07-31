@@ -2654,6 +2654,8 @@
 
 ## others 
 
+- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
+- [digimata/parrot](https://github.com/digimata/parrot) - Ultra-minimalist macOS dictation.
 - [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) - Infinite Worlds with Versatile Interactions
 - [HKUDS/FutureShow](https://github.com/HKUDS/FutureShow) - "FutureShow: Can AI Predict the Future? Live Real-World Forecasting"
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
