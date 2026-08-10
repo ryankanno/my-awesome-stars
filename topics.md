@@ -403,7 +403,7 @@
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [filipstrand/mflux](https://github.com/filipstrand/mflux) - MLX native implementations of state-of-the-art generative image models
+- [mflux-community/mflux](https://github.com/mflux-community/mflux) - MLX native implementations of state-of-the-art generative image models
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [langroid/langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
@@ -2674,7 +2674,7 @@
 - [vasilytrofimchuk/domainsearcher-app](https://github.com/vasilytrofimchuk/domainsearcher-app) - Score and choose the best domain name for your startup — AI-powered generation, real-time availability, and multi-dimensional scoring (LEN, PRO, MEM, BRD, FIT). Free, no signup.
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [dogwood-policy/dogwood](https://github.com/dogwood-policy/dogwood) - Reference parser and interpreter for the Dogwood policy language
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
 - [digimata/parrot](https://github.com/digimata/parrot) - Ultra-minimalist macOS dictation.
