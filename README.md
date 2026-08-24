@@ -694,6 +694,7 @@
 
 ## JavaScript 
 
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a Senior Design Architect — DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework code, 138 design systems, and runnable skills.
 - [educlopez/ui-craft](https://github.com/educlopez/ui-craft) - Design engineering system for AI coding agents — ship UI with craft-level quality. Install as an agent skill.
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1578,7 +1579,6 @@
 - [python-rope/rope](https://github.com/python-rope/rope) - a python refactoring library
 - [occrp-attic/loom](https://github.com/occrp-attic/loom) - Weaving SQL databases into graph data.
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
-- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [bwhaley/asg_deploy](https://github.com/bwhaley/asg_deploy) - Python code and Ansible playbooks to do continuous deployment by replacing autoscaling groups
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
@@ -1877,6 +1877,7 @@
 
 ## Rust 
 
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [erans/lunaroute](https://github.com/erans/lunaroute) - LunaRoute is a high-performance local proxy for AI coding assistants like Claude Code, OpenAI Codex CLI, and OpenCode. Get complete visibility into every LLM interaction with zero-overhead passthrough
 - [dogwood-policy/dogwood](https://github.com/dogwood-policy/dogwood) - Reference parser and interpreter for the Dogwood policy language
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
