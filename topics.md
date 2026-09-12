@@ -4151,7 +4151,7 @@
 
 ## pytorch 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
@@ -4510,6 +4510,7 @@
 - [2009-Nissan-Cube/About-This-Hack](https://github.com/2009-Nissan-Cube/About-This-Hack) - Discover your hardware on macOS with this simple, user-friendly hardware info app that retains the beloved design language of the classic 'About This Mac' interface, while gaining access to a wealth o
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [onmyway133/awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation) - :umbrella: A collection of iOS animation repos
 - [kanaka/mal](https://github.com/kanaka/mal) - mal - Make a Lisp
 
@@ -4517,6 +4518,7 @@
 
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## tailwind 
 
@@ -4589,7 +4591,7 @@
 ## text-to-speech 
 
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, Au
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
