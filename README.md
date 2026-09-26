@@ -567,7 +567,6 @@
 ## HCL 
 
 - [goshops-com/clipshare](https://github.com/goshops-com/clipshare) - An incredibly simple, open-source alternative to Loom that only requires S3-compatible storage—no servers needed
-- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [xuwang/aws-terraform](https://github.com/xuwang/aws-terraform) - Code examples to create CoreOS cluster on AWS  with Terraform
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) - 
 - [phinze/tf-bluegreen-asg-deployment](https://github.com/phinze/tf-bluegreen-asg-deployment) - example of a blue/green deployment with asgs
@@ -1322,7 +1321,7 @@
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [Om-Alve/smolGPT](https://github.com/Om-Alve/smolGPT) - 
 - [mdomke/python-ulid](https://github.com/mdomke/python-ulid) - ULID implementation for Python
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Your AI agent browses the web without captchas: self-hosted Python MCP server on undetected anti-detect stealth Firefox, for browser automation, scraping, computer use.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
 - [SakanaAI/self-adaptive-llms](https://github.com/SakanaAI/self-adaptive-llms) - A Self-adaptation Framework🐙 that adapts LLMs for unseen tasks in real-time!
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
 - [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) - 
@@ -2053,8 +2052,8 @@
 
 ## Swift 
 
-- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
-- [digimata/parrot](https://github.com/digimata/parrot) - Ultra-minimalist macOS dictation.
+- [humanitas-labs/quill](https://github.com/humanitas-labs/quill) - Ultra-minimalist macOS recording + transcription.
+- [humanitas-labs/parrot](https://github.com/humanitas-labs/parrot) - Ultra-minimalist macOS dictation.
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.
 - [2009-Nissan-Cube/About-This-Hack](https://github.com/2009-Nissan-Cube/About-This-Hack) - Discover your hardware on macOS with this simple, user-friendly hardware info app that retains the beloved design language of the classic 'About This Mac' interface, while gaining access to a wealth o
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
@@ -2161,6 +2160,7 @@
 - [langchain-ai/auto-evaluator](https://github.com/langchain-ai/auto-evaluator) - 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
+- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [TfTHacker/obsidian42-strange-new-worlds](https://github.com/TfTHacker/obsidian42-strange-new-worlds) - Revealing the strange new world of connected thoughts in your vault.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.
 - [cloudknit-io/cloudknit](https://github.com/cloudknit-io/cloudknit) - Self-service management of complex Cloud Environments
