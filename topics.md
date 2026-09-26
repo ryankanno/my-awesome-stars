@@ -448,7 +448,7 @@
 
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Your AI agent browses the web without captchas: self-hosted Python MCP server on undetected anti-detect stealth Firefox, for browser automation, scraping, computer use.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
 - [EgoAlpha/prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 
 ## ai-agents 
@@ -1075,7 +1075,7 @@
 
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Your AI agent browses the web without captchas: self-hosted Python MCP server on undetected anti-detect stealth Firefox, for browser automation, scraping, computer use.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [elliotgao2/gain](https://github.com/elliotgao2/gain) - Web crawling framework  based on asyncio.
@@ -2706,8 +2706,8 @@
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [dogwood-policy/dogwood](https://github.com/dogwood-policy/dogwood) - Reference parser and interpreter for the Dogwood policy language
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
-- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
-- [digimata/parrot](https://github.com/digimata/parrot) - Ultra-minimalist macOS dictation.
+- [humanitas-labs/quill](https://github.com/humanitas-labs/quill) - Ultra-minimalist macOS recording + transcription.
+- [humanitas-labs/parrot](https://github.com/humanitas-labs/parrot) - Ultra-minimalist macOS dictation.
 - [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) - Infinite Worlds with Versatile Interactions
 - [HKUDS/FutureShow](https://github.com/HKUDS/FutureShow) - "FutureShow: Can AI Predict the Future? Live Real-World Forecasting"
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
@@ -3867,7 +3867,7 @@
 - [viperrcrypto/Siftly](https://github.com/viperrcrypto/Siftly) - Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
 - [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Your AI agent browses the web without captchas: self-hosted Python MCP server on undetected anti-detect stealth Firefox, for browser automation, scraping, computer use.
+- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
