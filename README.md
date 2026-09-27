@@ -298,7 +298,7 @@
 - [facebookresearch/OpenApps](https://github.com/facebookresearch/OpenApps) - An open source environment for digital agents.
 - [csswizardry/ct](https://github.com/csswizardry/ct) - Let’s take a look inside your &lt;head&gt;…
 - [nielsenramon/chalk](https://github.com/nielsenramon/chalk) - Chalk is a high quality, completely customizable, performant and 100% free Jekyll blog theme.
-- [nishanths/cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme) - Responsive Hugo blog theme (note: not actively worked on)
+- [nishanths/cocoa-hugo-theme](https://github.com/nishanths/cocoa-hugo-theme) - Responsive Hugo blog theme
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [openprojectnight/openprojectnight.github.io](https://github.com/openprojectnight/openprojectnight.github.io) - 
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
@@ -1887,7 +1887,6 @@
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [dogwood-policy/dogwood](https://github.com/dogwood-policy/dogwood) - Reference parser and interpreter for the Dogwood policy language
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Udemy & Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, M
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [icann/icann-rdap](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol (RDAP)
