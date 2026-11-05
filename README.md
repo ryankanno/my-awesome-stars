@@ -74,7 +74,6 @@
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
-- [Vue](#vue)
 - [ZIL](#zil)
 - [Zig](#zig)
 
@@ -1326,6 +1325,7 @@
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 - [Om-Alve/smolGPT](https://github.com/Om-Alve/smolGPT) - 
 - [mdomke/python-ulid](https://github.com/mdomke/python-ulid) - ULID implementation for Python
+- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Give it your resume, get the jobs that fit, select them and apply. Runs in your terminal, with a browser you can watch.
 - [SakanaAI/self-adaptive-llms](https://github.com/SakanaAI/self-adaptive-llms) - A Self-adaptation Framework🐙 that adapts LLMs for unseen tasks in real-time!
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
 - [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) - 
@@ -2098,6 +2098,7 @@
 ## TypeScript 
 
 - [osolmaz/switch](https://github.com/osolmaz/switch) - A framework for building decision-model harnesses for any kind of task. Your program offers the model a short list of next steps, and the model picks one at a time until it can answer.
+- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, 
 - [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) - 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [oh-my-mermaid/oh-my-mermaid](https://github.com/oh-my-mermaid/oh-my-mermaid) - Turn complex codebases into clear, navigable architecture diagrams with Claude Code.
@@ -2138,7 +2139,6 @@
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [iliane5/meridian](https://github.com/iliane5/meridian) - Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
-- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -2240,10 +2240,6 @@
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [ryankanno/vim-config](https://github.com/ryankanno/vim-config) - My vim configuration.  Complete with plugin goodness.
 - [scrooloose/snipmate-snippets](https://github.com/scrooloose/snipmate-snippets) - A collection of snippets for snipmate
-
-## Vue 
-
-- [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, 
 
 ## ZIL 
 
