@@ -917,6 +917,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [Intelligent-Internet/zenith](https://github.com/Intelligent-Internet/zenith) - Zenith: a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP.
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code , Opencode durable memory — entirely offline.
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
@@ -1470,6 +1471,7 @@
 
 ## downloader 
 
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
 
 ## dsh-plugin 
@@ -2482,6 +2484,7 @@
 
 ## mcp-server 
 
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [19-84/redd-archiver](https://github.com/19-84/redd-archiver) - A PostgreSQL-backed archive generator that creates browsable HTML archives from link aggregator platforms including Reddit, Voat, and Ruqqus.
 - [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
@@ -3627,7 +3630,6 @@
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
 - [justinwalsh/daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer f
 - [inconshreveable/go-update](https://github.com/inconshreveable/go-update) - Build self-updating Golang programs
-- [bryfry/ansible-docker](https://github.com/bryfry/ansible-docker) - ansible playbook for setting up docker
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [agl/pond](https://github.com/agl/pond) - Pond
