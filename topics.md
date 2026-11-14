@@ -465,6 +465,7 @@
 
 ## ai-agents 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [google/mantis](https://github.com/google/mantis) - A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.
 - [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - 短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
@@ -917,7 +918,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [Intelligent-Internet/zenith](https://github.com/Intelligent-Internet/zenith) - Zenith: a continuous-improvement harness for long-running agent tasks. Turns Claude Code, Codex, or Hermes into a multi-agent mission orchestrator via MCP/ACP.
 - [raiyanyahya/recall](https://github.com/raiyanyahya/recall) - Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code , Opencode durable memory — entirely offline.
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
@@ -1140,6 +1141,7 @@
 
 ## css 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [educlopez/ui-craft](https://github.com/educlopez/ui-craft) - Design engineering system for AI coding agents — ship UI with craft-level quality. Install as an agent skill.
 - [premailer/premailer](https://github.com/premailer/premailer) - Preflight for HTML email
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
@@ -1471,7 +1473,7 @@
 
 ## downloader 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
 
 ## dsh-plugin 
@@ -1888,7 +1890,7 @@
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 - [ThiefMaster/maildump](https://github.com/ThiefMaster/maildump) - A python-based mailcatcher clone
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Interoperable by design. Governed by you. Open-source, secure platform for messaging, voice, video and governed AI, built for defense and government.
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [EducationalTestingService/skll](https://github.com/EducationalTestingService/skll) - SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.
 - [test-kitchen/test-kitchen](https://github.com/test-kitchen/test-kitchen) - Test Kitchen is an integration tool for developing and testing infrastructure code and software on isolated target platforms
@@ -2005,6 +2007,7 @@
 
 ## ios 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [onmyway133/awesome-ios-animation](https://github.com/onmyway133/awesome-ios-animation) - :umbrella: A collection of iOS animation repos
 - [Lyndir/MasterPassword](https://github.com/Lyndir/MasterPassword) - Project moved to https://gitlab.com/spectre.app
@@ -2063,7 +2066,7 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [google/end-to-end](https://github.com/google/end-to-end) - End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP)
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Interoperable by design. Governed by you. Open-source, secure platform for messaging, voice, video and governed AI, built for defense and government.
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [google/flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
@@ -2225,6 +2228,7 @@
 
 ## linux 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
@@ -2409,6 +2413,7 @@
 
 ## macos 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Archived: legacy Swift Hex app. New app and source: github.com/anomalyco/hex
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
@@ -2484,7 +2489,7 @@
 
 ## mcp-server 
 
-- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - Free, open source video downloader for Windows, macOS and Linux that AI agents can drive. Downloads from YouTube, Instagram, TikTok, X, Reddit, torrents and the sites yt-dlp supports. Its MCP server l
+- [tonhowtf/omniget](https://github.com/tonhowtf/omniget) - A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [19-84/redd-archiver](https://github.com/19-84/redd-archiver) - A PostgreSQL-backed archive generator that creates browsable HTML archives from link aggregator platforms including Reddit, Voat, and Ruqqus.
 - [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
@@ -4396,6 +4401,7 @@
 
 ## rust 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [deeplethe/utopia](https://github.com/deeplethe/utopia) - World's first open-source enterprise world model.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
@@ -4611,6 +4617,7 @@
 
 ## swift 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - Archived: legacy Swift Hex app. New app and source: github.com/anomalyco/hex
 - [2009-Nissan-Cube/About-This-Hack](https://github.com/2009-Nissan-Cube/About-This-Hack) - Discover your hardware on macOS with this simple, user-friendly hardware info app that retains the beloved design language of the classic 'About This Mac' interface, while gaining access to a wealth o
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
@@ -4852,6 +4859,7 @@
 
 ## web 
 
+- [expo/exact](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 - [modal-labs/modal-examples](https://github.com/modal-labs/modal-examples) - Examples of programs built using Modal
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [ajndkr/lanarky](https://github.com/ajndkr/lanarky) - The web framework for building LLM microservices [deprecated]
