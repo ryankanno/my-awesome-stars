@@ -328,7 +328,7 @@
 - [statico/xlights-sequence-skill](https://github.com/statico/xlights-sequence-skill) - Agent skill (Claude Code, Codex, Cursor) that turns any song into a beat-synced xLights light-show sequence: audio analysis, drum-driven hits, whisper lyrics for singing props, matrix sprites, headles
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [educlopez/ui-craft](https://github.com/educlopez/ui-craft) - Design engineering system for AI coding agents — ship UI with craft-level quality. Install as an agent skill.
@@ -340,6 +340,7 @@
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits skills for security research, vulnerability detection, and audit workflows
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
@@ -595,6 +596,7 @@
 ## artificial-intelligence 
 
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
 - [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
@@ -617,6 +619,7 @@
 ## automation 
 
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [cvhariharan/flowctl](https://github.com/cvhariharan/flowctl) - An open source self-service workflow execution platform
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
@@ -800,6 +803,7 @@
 
 ## bot 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
@@ -915,7 +919,6 @@
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config) - Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - 🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
@@ -932,7 +935,7 @@
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Design-system skills for Claude Code, Codex, Cursor, Copilot and Gemini CLI: DTCG tokens, WCAG 2.2 AA to AAA, 2,144 design systems, 26 skills, any-framework code, and 52 gates that fail the build inst
 - [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 - [AgriciDaniel/claude-canvas](https://github.com/AgriciDaniel/claude-canvas) - AI-orchestrated visual production for Obsidian Canvas. Create presentations, flowcharts, mood boards, knowledge graphs, and galleries with intelligent layout and AI-generated content.
 - [educlopez/ui-craft](https://github.com/educlopez/ui-craft) - Design engineering system for AI coding agents — ship UI with craft-level quality. Install as an agent skill.
@@ -952,7 +955,6 @@
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [obsidianmd/obsidian-skills](https://github.com/obsidianmd/obsidian-skills) - Teach your agent to use Obsidian and open formats including Markdown, Bases, JSON Canvas.
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config) - Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits
 - [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
@@ -1053,6 +1055,7 @@
 
 ## command-line 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [chr15m/runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -1213,6 +1216,7 @@
 
 ## data-science 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 - [bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets) - A list of publicly available datasets with real-time data maintained by the team at bytewax.io
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -1236,7 +1240,7 @@
 
 ## data-visualization 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [caylent/tufte-data-viz](https://github.com/caylent/tufte-data-viz) - Agent skill: Edward Tufte's data visualization principles for clean, honest, high-data-ink-ratio charts. Recharts, ECharts, Chart.js, matplotlib, Plotly, D3/SVG.
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 - [bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets) - A list of publicly available datasets with real-time data maintained by the team at bytewax.io
@@ -1503,6 +1507,7 @@
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 
 ## education 
@@ -1794,6 +1799,7 @@
 ## golang 
 
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [tractordev/wanix](https://github.com/tractordev/wanix) - A compute toolkit for the web with the depth of Plan 9 from Bell Labs
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
@@ -2628,6 +2634,7 @@
 
 ## nlp 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -2786,6 +2793,7 @@
 
 ## osint 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 - [eth0izzle/the-endorser](https://github.com/eth0izzle/the-endorser) - An OSINT tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 - [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
@@ -4245,6 +4253,7 @@
 
 ## python3 
 
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [19-84/redd-archiver](https://github.com/19-84/redd-archiver) - A PostgreSQL-backed archive generator that creates browsable HTML archives from link aggregator platforms including Reddit, Voat, and Ruqqus.
 - [dymmond/edgy](https://github.com/dymmond/edgy) - The perfect ORM to work with complex databases
 - [ajndkr/lanarky](https://github.com/ajndkr/lanarky) - The web framework for building LLM microservices [deprecated]
@@ -4696,6 +4705,7 @@
 ## terminal 
 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics) - A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations
