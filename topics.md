@@ -1628,6 +1628,7 @@
 - [catberry/catberry](https://github.com/catberry/catberry) - Catberry is an isomorphic framework for building universal front-end apps using components, Flux architecture and progressive rendering.
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [reactiveui/ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A composable, cross-platform MVVM framework for .NET inspired by functional reactive programming. It moves mutable state out of the user interface, keeps each feature's logic in one readable place, an
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [libgdx/libgdx](https://github.com/libgdx/libgdx) - Desktop/Android/HTML5/iOS Java game development framework
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
